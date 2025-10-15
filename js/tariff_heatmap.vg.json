@@ -1,0 +1,119 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Tariff Structure in Asia (AHS Tariff Line Shares, 1988–2022)",
+    "fontSize": 20,
+    "font": "Arial",
+    "fontWeight": "bold",
+    "anchor": "middle"
+  },
+  "width": 625,
+  "height": 500,
+
+  "data": {
+    "url": "data/asia_tariff_structure_long.csv",
+    "format": {"type": "csv"}
+  },
+
+  "params": [
+    {
+      "name": "tariff_select",
+      "value": "Duty-Free TL %",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Duty-Free TL %",
+          "Dutiable TL %",
+          "Specific TL %"
+        ],
+        "labels": [
+          "Duty-Free Tariff Lines (%)",
+          "Dutiable Tariff Lines (%)",
+          "Specific Tariff Lines (%)"
+        ],
+        "name": "Select Tariff Type: "
+      }
+    }
+  ],
+
+  "transform": [
+    {"filter": "datum.tariff_type == tariff_select"},
+    {
+      "impute": "value",
+      "key": "year",
+      "groupby": ["country"],
+      "method": "value",
+      "value": null
+    },
+    {
+      "impute": "value",
+      "key": "country",
+      "groupby": ["year"],
+      "method": "value",
+      "value": null
+    },
+    {
+      "calculate": "datum.tariff_type == 'Specific TL %' ? 'Specific' : 'Other'",
+      "as": "TariffCategory"
+    }
+  ],
+
+  "layer": [
+    {
+      "mark": {"type": "rect"},
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "title": "Year",
+          "axis": {"labelAngle": 45, "labelFontSize": 10, "grid": false}
+        },
+        "y": {
+          "field": "country",
+          "type": "nominal",
+          "title": "Country",
+          "axis": {"labelFontSize": 10, "grid": false}
+        },
+        "color": {
+          "condition": {
+            "test": "datum.value != null",
+            "field": "value",
+            "type": "quantitative",
+            "title": "% of Tariff Lines",
+            "scale": {
+              "domain": [0.01, 100],
+              "scheme": "blues",
+              "type": "log"
+            }
+          },
+          "value": "#d9d9d9"
+        },
+        "tooltip": [
+          {"field": "country", "title": "Country"},
+          {"field": "year", "title": "Year"},
+          {
+            "field": "value",
+            "title": "% of Tariff Lines",
+            "format": ".2f"
+          },
+          {
+            "field": "tariff_type",
+            "title": "Tariff Type"
+          },
+          {
+            "condition": {"test": "datum.value == null", "value": "No data"},
+            "title": "Data Availability"
+          }
+        ]
+      }
+    }
+  ],
+
+  "config": {
+    "background": "#fafafa",
+    "font": "Arial",
+    "view": {"stroke": "transparent"},
+    "axis": {"labelFontSize": 11, "titleFontSize": 13},
+    "legend": {"labelFontSize": 12, "titleFontSize": 13}
+  }
+}

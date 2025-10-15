@@ -1,0 +1,94 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text": "Services Export Mix — 100% Stacked (Latest Year)", "fontSize": 16, "anchor": "middle"},
+
+  "data": {"url": "data/services_mix_by_country_with_region.csv", "format": {"type": "csv"}},
+
+  "params": [
+    {
+      "name": "pick_region",
+      "value": "Southeast Asia",
+      "bind": {
+        "input": "select",
+        "name": "Subregion: ",
+        "options": ["All","Central Asia","East Asia","North Asia","South Asia","Southeast Asia","West Asia"]
+      }
+    },
+    {
+      "name": "sort_metric",
+      "value": "ICT",
+      "bind": {
+        "input": "select",
+        "name": "Sort by: ",
+        "options": ["Transport","Travel","ICT","Insurance/Financial","Other","Total"]
+      }
+    }
+  ],
+
+  "transform": [
+    {"calculate": "datum['Region']", "as": "sr"},
+    {"calculate": "datum['Country Name']", "as": "cn"},
+    {"calculate": "toNumber(datum['Year'])", "as": "yr"},
+    {"calculate": "toNumber(datum.Transport_pct)", "as": "transport"},
+    {"calculate": "toNumber(datum.Travel_pct)", "as": "travel"},
+    {"calculate": "toNumber(datum.ICT_pct)", "as": "ict"},
+    {"calculate": "toNumber(datum.InsFin_pct)", "as": "insfin"},
+    {
+      "calculate": "isFinite(datum.transport)||isFinite(datum.travel)||isFinite(datum.ict)||isFinite(datum.insfin)?max(0,100-((isFinite(datum.transport)?datum.transport:0)+(isFinite(datum.travel)?datum.travel:0)+(isFinite(datum.ict)?datum.ict:0)+(isFinite(datum.insfin)?datum.insfin:0))):null",
+      "as": "other"
+    },
+    {"filter": "pick_region=='All'||datum.sr==pick_region"},
+    {"aggregate":[{"op":"argmax","field":"yr","as":"last"}],"groupby":["cn","sr"]},
+    {"calculate":"datum.last.transport","as":"T"},
+    {"calculate":"datum.last.travel","as":"Tr"},
+    {"calculate":"datum.last.ict","as":"ICT"},
+    {"calculate":"datum.last.insfin","as":"IF"},
+    {"calculate":"datum.last.other","as":"Other"},
+    {"filter":"isFinite(datum.T)||isFinite(datum.Tr)||isFinite(datum.ICT)||isFinite(datum.IF)"},
+    {"fold":["T","Tr","ICT","IF","Other"],"as":["ServiceType","value"]},
+    {"calculate":"datum.ServiceType=='T'?'Transport':datum.ServiceType=='Tr'?'Travel':datum.ServiceType=='ICT'?'ICT':datum.ServiceType=='IF'?'Insurance/Financial':'Other'","as":"ServiceLabel"},
+    {
+      "calculate": "sort_metric=='Transport'?datum.T:sort_metric=='Travel'?datum.Tr:sort_metric=='ICT'?datum.ICT:sort_metric=='Insurance/Financial'?datum.IF:sort_metric=='Other'?datum.Other:(datum.T+datum.Tr+datum.ICT+datum.IF)",
+      "as": "sort_value"
+    }
+  ],
+
+  "width": 900,
+  "height": {"step": 22},
+
+  "mark": {"type": "bar"},
+
+  "encoding": {
+    "y": {
+      "field": "cn",
+      "type": "nominal",
+      "title": null,
+      "sort": {"field": "sort_value", "order": "descending"}
+    },
+    "x": {
+      "field": "value",
+      "type": "quantitative",
+      "stack": "normalize",
+      "title": "Share of commercial services exports",
+      "axis": {"format": ".0%"}
+    },
+    "color": {
+      "field": "ServiceLabel",
+      "type": "nominal",
+      "legend": {"title": "Service type"},
+      "scale": {"scheme": "set3"}
+    },
+    "tooltip": [
+      {"field": "cn", "title": "Country"},
+      {"field": "sr", "title": "Subregion"},
+      {"field": "ServiceLabel", "title": "Type"},
+      {"field": "value", "title": "Share of services exports", "format": ".1f"}
+    ]
+  },
+
+  "config": {
+    "axis": {"labelFontSize": 11, "titleFontSize": 12, "grid": true},
+    "view": {"stroke": null},
+    "background": "#fff"
+  }
+}

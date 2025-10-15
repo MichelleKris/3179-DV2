@@ -1,0 +1,75 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Asian Trade: Diversification vs Scale vs Variety (1988–2022)",
+    "fontSize": 20, "font": "Arial", "fontWeight": "bold", "anchor": "middle"
+  },
+  "width": 750, "height": 400,
+
+  "data": {"url": "data/asia_trade_bubble_long.csv", "format": {"type": "csv"}},
+
+  "params": [
+    {
+      "name": "Year",
+      "value": 2022,
+      "bind": {"input": "range", "min": 1988, "max": 2022, "step": 1}
+    },
+    {
+      "name": "region_dropdown",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": ["All","Central Asia","East Asia","North Asia","South Asia","Southeast Asia","West Asia"],
+        "name": "Region: "
+      }
+    }
+  ],
+
+  "transform": [
+    {"filter": "toNumber(datum.year) == Year"},
+    {"filter": "datum.subregion != null && datum.subregion != ''"}
+  ],
+
+  "mark": {"type": "circle", "opacity": 0.9, "stroke": "white", "strokeWidth": 1},
+
+  "encoding": {
+    "x": {
+      "field": "hh_index", "type": "quantitative",
+      "title": "Market Concentration (HH Index ↓ = More Diversified)",
+      "scale": {"domain": [0, 1]}
+    },
+    "y": {
+      "field": "exports_usd", "type": "quantitative", "title": "Exports (US$)",
+      "scale": {"type": "log"}, "axis": {"grid": true}
+    },
+    "size": {
+      "field": "hs6_products", "type": "quantitative",
+      "title": "Variety (# of HS6 Products)", "scale": {"range": [100, 4000]}
+    },
+    "color": {
+      "field": "subregion", "type": "nominal", "title": "Asian Subregion",
+      "scale": {"scheme": "set2"}, "legend": {"orient": "right", "columns": 1}
+    },
+    "opacity": {
+      "condition": {
+        "test": "region_dropdown == 'All' || datum.subregion == region_dropdown",
+        "value": 0.98
+      },
+      "value": 0.15
+    },
+    "tooltip": [
+      {"field": "country", "title": "Country"},
+      {"field": "year", "title": "Year"},
+      {"field": "hh_index", "title": "HH Index", "format": ".2f"},
+      {"field": "exports_usd", "title": "Exports (US$)", "format": ".3s"},
+      {"field": "hs6_products", "title": "HS6 Products"}
+    ]
+  },
+
+  "config": {
+    "background": "#fafafa", "font": "Arial",
+    "axis": {"labelFontSize": 12, "titleFontSize": 13},
+    "legend": {"labelFontSize": 12, "titleFontSize": 13},
+    "view": {"stroke": "transparent"}, "padding": 10
+  }
+}

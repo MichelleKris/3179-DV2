@@ -1,0 +1,95 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Index of Export Market Penetration — Small Multiples by Subregion",
+    "fontSize": 16,
+    "anchor": "middle"
+  },
+
+  "data": { "url": "data/Index_export_long_for_vegalite.csv", "format": { "type": "csv" } },
+
+
+  "params": [
+    {
+      "name": "country_search",
+      "value": "",
+      "bind": { "input": "text", "name": "Filter countries: " }
+    }
+  ],
+
+  "transform": [
+    { "calculate": "datum['Region']", "as": "sr" },
+    { "calculate": "datum['Country Name']", "as": "cn" },
+    { "calculate": "toNumber(datum['Year'])", "as": "year_num" },
+    { "calculate": "toNumber(datum['Index'])", "as": "emp" },
+    { "filter": "isFinite(datum.year_num) && isFinite(datum.emp)" },
+    { "filter": "country_search == '' || indexof(lower(datum.cn), lower(country_search)) >= 0" }
+  ],
+
+  "facet": {
+    "field": "sr",
+    "type": "nominal",
+    "title": null,
+    "columns": 3,
+    "sort": ["Central Asia","East Asia","North Asia","South Asia","Southeast Asia","West Asia"],
+    "header": {
+      "labelOrient": "bottom",
+      "labelPadding": 6,
+      "labelFontSize": 12,
+      "labelAlign": "center"
+    }
+  },
+
+  "spec": {
+    "width": 300,
+    "height": 200,
+    "layer": [
+      {
+        "mark": { "type": "line", "strokeWidth": 1.2, "opacity": 0.25 },
+        "encoding": {
+          "x": { "field": "year_num", "type": "quantitative", "title": null, "axis": { "format": "d", "labelOverlap": true } },
+          "y": { "field": "emp", "type": "quantitative", "title": "EMP (index)" },
+          "detail": { "field": "cn" },
+          "color": { "value": "#4b8b9b" }
+        }
+      },
+      {
+        "mark": { "type": "line", "strokeWidth": 2 },
+        "encoding": {
+          "x": { "field": "year_num", "type": "quantitative", "axis": { "format": "d" } },
+          "y": { "field": "emp", "type": "quantitative" },
+          "color": { "field": "cn", "type": "nominal", "legend": null }
+        }
+      },
+      {
+        "params": [
+          {
+            "name": "hover_country",
+            "select": { "type": "point", "fields": ["cn","year_num"], "nearest": true, "on": "pointerover", "clear": "mouseout" }
+          }
+        ],
+        "mark": { "type": "point", "size": 24 },
+        "encoding": {
+          "x": { "field": "year_num", "type": "quantitative" },
+          "y": { "field": "emp", "type": "quantitative" },
+          "color": { "field": "cn", "type": "nominal", "legend": null },
+          "opacity": { "condition": { "param": "hover_country", "value": 1 }, "value": 0 },
+          "tooltip": [
+            { "field": "sr", "title": "Subregion" },
+            { "field": "cn", "title": "Country" },
+            { "field": "year_num", "title": "Year", "format": "d" },
+            { "field": "emp", "title": "EMP Index", "format": ".2f" }
+          ]
+        }
+      }
+    ],
+    "resolve": { "scale": { "y": "shared", "x": "shared" } }
+  },
+
+  "config": {
+    "facet": { "columns": 3 },
+    "axis": { "labelFontSize": 10, "titleFontSize": 11, "grid": true },
+    "view": { "stroke": null },
+    "background": "#fff"
+  }
+}

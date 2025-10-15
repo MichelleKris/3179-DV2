@@ -1,0 +1,85 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Asia Trade Openness (% of GDP, 2023)",
+    "anchor": "middle",
+    "fontSize": 20,
+    "font": "Arial",
+    "fontWeight": "bold"
+  },
+  "width": 600,
+  "height": 500,
+  "projection": {
+    "type": "equalEarth",
+    "center": [90, 30],   
+    "scale": 300,         
+    "translate": [350, 230] 
+  }
+
+,
+  "data": {
+    "url": "js/ne_110m_admin_0_countries1.json",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": null,
+        "stroke": "#817b7b",
+        "strokeWidth": 0.3
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.NAME",
+          "as": "note"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgrey",
+        "stroke": "white",
+        "strokeWidth": 0.5
+      },
+      "encoding": {
+        "tooltip": {"field": "note"}
+      }
+    },
+    {
+      "transform": [
+        {
+          "lookup": "properties.NAME",
+          "from": {
+            "data": {"url": "data/asia_trade_2023_clean2.csv"},
+            "key": "country",
+            "fields": ["value"]
+          }
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "white",
+        "strokeWidth": 0.5
+      },
+      "encoding": {
+      "color": {
+        "field": "value",
+        "type": "quantitative",
+        "scale": {"type": "log", "scheme": "tealblues"},
+        "legend": {"title": "Trade % of GDP", "values": [30, 50, 100, 200]}
+      }
+,
+        "tooltip": [
+          {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+          {"field": "value", "type": "quantitative", "title": "Trade % of GDP", "format": ".1f"}
+        ]
+      }
+    }
+  ]
+}

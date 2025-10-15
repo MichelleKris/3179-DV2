@@ -1,0 +1,1646 @@
+country,year,exports_usd,hh_index,hs6_products,region,subregion
+Afghanistan,1988,,,,Asia,South Asia
+Afghanistan,1989,,,,Asia,South Asia
+Afghanistan,1990,,,,Asia,South Asia
+Afghanistan,1991,,,,Asia,South Asia
+Afghanistan,1992,,,,Asia,South Asia
+Afghanistan,1993,,,,Asia,South Asia
+Afghanistan,1994,,,,Asia,South Asia
+Afghanistan,1995,,,,Asia,South Asia
+Afghanistan,1996,,,,Asia,South Asia
+Afghanistan,1997,,,,Asia,South Asia
+Afghanistan,1998,,,,Asia,South Asia
+Afghanistan,1999,,,,Asia,South Asia
+Afghanistan,2000,,,,Asia,South Asia
+Afghanistan,2001,,,,Asia,South Asia
+Afghanistan,2002,,,,Asia,South Asia
+Afghanistan,2003,,,,Asia,South Asia
+Afghanistan,2004,,,,Asia,South Asia
+Afghanistan,2005,,,,Asia,South Asia
+Afghanistan,2006,,,,Asia,South Asia
+Afghanistan,2007,,,,Asia,South Asia
+Afghanistan,2008,540065.594,0.155001595,33,Asia,South Asia
+Afghanistan,2009,403441.006,0.45222946,30,Asia,South Asia
+Afghanistan,2010,388483.635,0.152180985,32,Asia,South Asia
+Afghanistan,2011,375850.935,0.18447066,31,Asia,South Asia
+Afghanistan,2012,428902.71,0.238497673,5,Asia,South Asia
+Afghanistan,2013,514972.983,0.220994081,5,Asia,South Asia
+Afghanistan,2014,570534.007,0.26082094,5,Asia,South Asia
+Afghanistan,2015,571404.967,0.330161312,43,Asia,South Asia
+Afghanistan,2016,596455.337,0.239050159,42,Asia,South Asia
+Afghanistan,2017,831926.7718,0.308165598,99,Asia,South Asia
+Afghanistan,2018,884504.4964,0.290024181,156,Asia,South Asia
+Afghanistan,2019,870488.5125,0.294335994,204,Asia,South Asia
+Afghanistan,2020,,,,Asia,South Asia
+Afghanistan,2021,,,,Asia,South Asia
+Afghanistan,2022,,,,Asia,South Asia
+Armenia,1988,,,,Asia,West Asia
+Armenia,1989,,,,Asia,West Asia
+Armenia,1990,,,,Asia,West Asia
+Armenia,1991,,,,Asia,West Asia
+Armenia,1992,,,,Asia,West Asia
+Armenia,1993,,,,Asia,West Asia
+Armenia,1994,,,,Asia,West Asia
+Armenia,1995,,,,Asia,West Asia
+Armenia,1996,,,,Asia,West Asia
+Armenia,1997,215273.552,0.158090447,1010,Asia,West Asia
+Armenia,1998,,,,Asia,West Asia
+Armenia,1999,231666.237,0.213440211,1084,Asia,West Asia
+Armenia,2000,294102.939,0.134315872,896,Asia,West Asia
+Armenia,2001,335831.375,0.101245512,1135,Asia,West Asia
+Armenia,2002,527203.711,0.109178059,1163,Asia,West Asia
+Armenia,2003,670474.788,0.115487143,1198,Asia,West Asia
+Armenia,2004,722911.5,0.096528524,1201,Asia,West Asia
+Armenia,2005,936977.335,0.099215148,1333,Asia,West Asia
+Armenia,2006,1003961.105,0.07964483,1411,Asia,West Asia
+Armenia,2007,1121222.464,0.097285958,1396,Asia,West Asia
+Armenia,2008,1055012.744,0.109833133,1354,Asia,West Asia
+Armenia,2009,683989.374,0.101060467,1314,Asia,West Asia
+Armenia,2010,1011424.747,0.098538031,1210,Asia,West Asia
+Armenia,2011,1320411.381,0.087912741,1294,Asia,West Asia
+Armenia,2012,1428120.692,0.120155455,1364,Asia,West Asia
+Armenia,2013,1467799.672,0.132462707,1340,Asia,West Asia
+Armenia,2014,1490190.146,0.118008992,1278,Asia,West Asia
+Armenia,2015,1482667.349,0.104118854,1627,Asia,West Asia
+Armenia,2016,1807789.51,0.120147907,1738,Asia,West Asia
+Armenia,2017,2144962.97,0.135117339,2009,Asia,West Asia
+Armenia,2018,2383413.8,0.136987553,2158,Asia,West Asia
+Armenia,2019,2618637.446,0.153378037,1917,Asia,West Asia
+Armenia,2020,2332082.153,0.161790783,1995,Asia,West Asia
+Armenia,2021,2964798.29,0.191950179,1994,Asia,West Asia
+Armenia,2022,5364133.602,0.153461513,2714,Asia,West Asia
+Azerbaijan,1988,,,,Asia,West Asia
+Azerbaijan,1989,,,,Asia,West Asia
+Azerbaijan,1990,,,,Asia,West Asia
+Azerbaijan,1991,,,,Asia,West Asia
+Azerbaijan,1992,,,,Asia,West Asia
+Azerbaijan,1993,,,,Asia,West Asia
+Azerbaijan,1994,,,,Asia,West Asia
+Azerbaijan,1995,,,,Asia,West Asia
+Azerbaijan,1996,631244.864,0.199188197,771,Asia,West Asia
+Azerbaijan,1997,781308.992,0.158109471,800,Asia,West Asia
+Azerbaijan,1998,606149.44,0.170096125,924,Asia,West Asia
+Azerbaijan,1999,929225.537,0.103499518,1056,Asia,West Asia
+Azerbaijan,2000,1745251.936,0.137320868,1119,Asia,West Asia
+Azerbaijan,2001,2314282.345,0.206302307,1047,Asia,West Asia
+Azerbaijan,2002,2167500.086,0.166679621,951,Asia,West Asia
+Azerbaijan,2003,2591719.389,0.175176881,963,Asia,West Asia
+Azerbaijan,2004,3615449.827,0.108318036,1025,Asia,West Asia
+Azerbaijan,2005,4347151.207,0.140926202,1123,Asia,West Asia
+Azerbaijan,2006,6372164.992,0.155952571,1179,Asia,West Asia
+Azerbaijan,2007,6058319.1,0.122365469,1129,Asia,West Asia
+Azerbaijan,2008,47756229.36,0.128168209,1001,Asia,West Asia
+Azerbaijan,2009,14688727.69,0.105425979,1020,Asia,West Asia
+Azerbaijan,2010,21278419.98,0.128035248,970,Asia,West Asia
+Azerbaijan,2011,26480188.84,0.153604493,1056,Asia,West Asia
+Azerbaijan,2012,23827186.08,0.12316421,998,Asia,West Asia
+Azerbaijan,2013,23904108.01,0.124581341,1017,Asia,West Asia
+Azerbaijan,2014,21751737.15,0.10541842,1019,Asia,West Asia
+Azerbaijan,2015,12646293.68,0.117012203,1133,Asia,West Asia
+Azerbaijan,2016,13380818.57,0.097349096,1578,Asia,West Asia
+Azerbaijan,2017,15306018.3,0.111034586,1711,Asia,West Asia
+Azerbaijan,2018,19489068.2,0.118753873,1632,Asia,West Asia
+Azerbaijan,2019,19635202.6,0.126491893,1686,Asia,West Asia
+Azerbaijan,2020,13732637.26,0.114153022,1686,Asia,West Asia
+Azerbaijan,2021,22207974.78,0.265246413,1809,Asia,West Asia
+Azerbaijan,2022,38146430.73,0.304108477,1836,Asia,West Asia
+Bahrain,1988,,,,Asia,West Asia
+Bahrain,1989,,,,Asia,West Asia
+Bahrain,1990,,,,Asia,West Asia
+Bahrain,1991,,,,Asia,West Asia
+Bahrain,1992,,,,Asia,West Asia
+Bahrain,1993,,,,Asia,West Asia
+Bahrain,1994,,,,Asia,West Asia
+Bahrain,1995,,,,Asia,West Asia
+Bahrain,1996,,,,Asia,West Asia
+Bahrain,1997,,,,Asia,West Asia
+Bahrain,1998,,,,Asia,West Asia
+Bahrain,1999,,,,Asia,West Asia
+Bahrain,2000,6194679.351,0.039172426,1281,Asia,West Asia
+Bahrain,2001,5551309.153,0.041940616,1055,Asia,West Asia
+Bahrain,2002,5794198.135,0.042477146,1329,Asia,West Asia
+Bahrain,2003,6631600.766,0.04307952,1276,Asia,West Asia
+Bahrain,2004,7516028.525,0.046826564,1217,Asia,West Asia
+Bahrain,2005,10238577.8,0.040142387,1602,Asia,West Asia
+Bahrain,2006,11661614.41,0.040526216,1342,Asia,West Asia
+Bahrain,2007,13664874.24,0.039042988,1312,Asia,West Asia
+Bahrain,2008,13082979.79,0.051625632,1600,Asia,West Asia
+Bahrain,2009,8383999.812,0.055375439,1547,Asia,West Asia
+Bahrain,2010,16059213.42,0.04016814,1719,Asia,West Asia
+Bahrain,2011,22561916.65,0.043674926,1915,Asia,West Asia
+Bahrain,2012,16621225.73,0.040518883,2302,Asia,West Asia
+Bahrain,2013,20036210.16,0.040241588,2550,Asia,West Asia
+Bahrain,2014,23745958.55,0.054122789,2826,Asia,West Asia
+Bahrain,2015,13882170.67,0.071427245,2964,Asia,West Asia
+Bahrain,2016,10545888.96,0.063401503,2957,Asia,West Asia
+Bahrain,2017,12485359.23,0.082923569,2689,Asia,West Asia
+Bahrain,2018,14347737.49,0.087335844,2743,Asia,West Asia
+Bahrain,2019,14167263.14,0.109947565,2781,Asia,West Asia
+Bahrain,2020,11559232.44,0.085355742,2676,Asia,West Asia
+Bahrain,2021,18198973.8,0.068038669,2729,Asia,West Asia
+Bahrain,2022,22252183.29,0.051225346,2738,Asia,West Asia
+Bangladesh,1988,,,,Asia,South Asia
+Bangladesh,1989,1328007.68,0.105488249,408,Asia,South Asia
+Bangladesh,1990,1556440.448,0.112998978,363,Asia,South Asia
+Bangladesh,1991,1690206.848,0.295752818,384,Asia,South Asia
+Bangladesh,1992,1941607.168,0.337663691,421,Asia,South Asia
+Bangladesh,1993,2253093.632,0.249814044,422,Asia,South Asia
+Bangladesh,1994,,,,Asia,South Asia
+Bangladesh,1995,3407241.163,0.152760115,489,Asia,South Asia
+Bangladesh,1996,3538509.801,0.147764632,537,Asia,South Asia
+Bangladesh,1997,4017455.594,0.163801502,548,Asia,South Asia
+Bangladesh,1998,5056914.536,0.174907576,644,Asia,South Asia
+Bangladesh,1999,,,,Asia,South Asia
+Bangladesh,2000,5493226.431,0.170730693,902,Asia,South Asia
+Bangladesh,2001,5388747.139,0.159848747,965,Asia,South Asia
+Bangladesh,2002,5417272.534,0.150113304,1086,Asia,South Asia
+Bangladesh,2003,6403425.621,0.116156953,1385,Asia,South Asia
+Bangladesh,2004,8267482.023,0.10870374,1672,Asia,South Asia
+Bangladesh,2005,9331583.363,0.121034909,1726,Asia,South Asia
+Bangladesh,2006,11696700.5,0.11455337,1800,Asia,South Asia
+Bangladesh,2007,13142952.93,0.108729723,1785,Asia,South Asia
+Bangladesh,2008,15506719.18,0.097853082,1694,Asia,South Asia
+Bangladesh,2009,15558634,0.095480981,1698,Asia,South Asia
+Bangladesh,2010,19230982.56,0.091269739,1834,Asia,South Asia
+Bangladesh,2011,24313744.24,0.082774425,1768,Asia,South Asia
+Bangladesh,2012,24513500.83,0.075452141,1679,Asia,South Asia
+Bangladesh,2013,24537341.01,0.074448595,1756,Asia,South Asia
+Bangladesh,2014,,,,Asia,South Asia
+Bangladesh,2015,31734162.42,0.072260648,1728,Asia,South Asia
+Bangladesh,2016,,,,Asia,South Asia
+Bangladesh,2017,,,,Asia,South Asia
+Bangladesh,2018,,,,Asia,South Asia
+Bangladesh,2019,,,,Asia,South Asia
+Bangladesh,2020,,,,Asia,South Asia
+Bangladesh,2021,,,,Asia,South Asia
+Bangladesh,2022,,,,Asia,South Asia
+Bhutan,1988,,,,Asia,South Asia
+Bhutan,1989,,,,Asia,South Asia
+Bhutan,1990,,,,Asia,South Asia
+Bhutan,1991,,,,Asia,South Asia
+Bhutan,1992,,,,Asia,South Asia
+Bhutan,1993,65820.26,0.198956201,190,Asia,South Asia
+Bhutan,1994,66382.9,0.538628667,133,Asia,South Asia
+Bhutan,1995,,,,Asia,South Asia
+Bhutan,1996,,,,Asia,South Asia
+Bhutan,1997,,,,Asia,South Asia
+Bhutan,1998,108462.968,0.195395411,204,Asia,South Asia
+Bhutan,1999,115950.052,0.716582492,203,Asia,South Asia
+Bhutan,2000,,,,Asia,South Asia
+Bhutan,2001,,,,Asia,South Asia
+Bhutan,2002,,,,Asia,South Asia
+Bhutan,2003,,,,Asia,South Asia
+Bhutan,2004,,,,Asia,South Asia
+Bhutan,2005,258368.29,0.613598082,423,Asia,South Asia
+Bhutan,2006,413886.408,0.500470518,375,Asia,South Asia
+Bhutan,2007,674523.575,0.484140644,365,Asia,South Asia
+Bhutan,2008,521415.383,0.876519197,190,Asia,South Asia
+Bhutan,2009,495846.19,0.875624571,319,Asia,South Asia
+Bhutan,2010,413482.438,0.817026293,301,Asia,South Asia
+Bhutan,2011,452962.797,0.756257796,257,Asia,South Asia
+Bhutan,2012,531227.039,0.746035995,332,Asia,South Asia
+Bhutan,2013,,,,Asia,South Asia
+Bhutan,2014,,,,Asia,South Asia
+Bhutan,2015,,,,Asia,South Asia
+Bhutan,2016,,,,Asia,South Asia
+Bhutan,2017,,,,Asia,South Asia
+Bhutan,2018,,,,Asia,South Asia
+Bhutan,2019,,,,Asia,South Asia
+Bhutan,2020,,,,Asia,South Asia
+Bhutan,2021,,,,Asia,South Asia
+Bhutan,2022,,,,Asia,South Asia
+Brunei,1988,,,,Asia,Southeast Asia
+Brunei,1989,,,,Asia,Southeast Asia
+Brunei,1990,,,,Asia,Southeast Asia
+Brunei,1991,,,,Asia,Southeast Asia
+Brunei,1992,2301218.304,0.385478237,61,Asia,Southeast Asia
+Brunei,1993,2093947.392,0.320439293,35,Asia,Southeast Asia
+Brunei,1994,2110309.504,0.286656537,67,Asia,Southeast Asia
+Brunei,1995,,,,Asia,Southeast Asia
+Brunei,1996,,,,Asia,Southeast Asia
+Brunei,1997,2657078.784,0.291204566,1362,Asia,Southeast Asia
+Brunei,1998,2306827.83,0.279639282,1445,Asia,Southeast Asia
+Brunei,1999,,,,Asia,Southeast Asia
+Brunei,2000,,,,Asia,Southeast Asia
+Brunei,2001,3508207.394,0.260696253,1385,Asia,Southeast Asia
+Brunei,2002,3565731.84,0.211023829,1465,Asia,Southeast Asia
+Brunei,2003,4144343.04,0.217697161,1499,Asia,Southeast Asia
+Brunei,2004,5069124.801,0.19311908,1835,Asia,Southeast Asia
+Brunei,2005,,,,Asia,Southeast Asia
+Brunei,2006,7624294.773,0.165242374,1600,Asia,Southeast Asia
+Brunei,2007,7693278.553,0.190641385,1696,Asia,Southeast Asia
+Brunei,2008,10569069.11,0.239019904,1712,Asia,Southeast Asia
+Brunei,2009,7171066.465,0.260694526,1854,Asia,Southeast Asia
+Brunei,2010,8907961.868,0.25779235,1939,Asia,Southeast Asia
+Brunei,2011,12463872.41,0.256191178,1951,Asia,Southeast Asia
+Brunei,2012,13000827.76,0.238940508,1885,Asia,Southeast Asia
+Brunei,2013,11447186.7,0.22311588,1799,Asia,Southeast Asia
+Brunei,2014,10508832.88,0.188773675,1764,Asia,Southeast Asia
+Brunei,2015,6352662.492,0.185197141,1896,Asia,Southeast Asia
+Brunei,2016,4875075.307,0.182685157,1906,Asia,Southeast Asia
+Brunei,2017,5570575.214,0.150545619,1923,Asia,Southeast Asia
+Brunei,2018,6573636.943,0.169575264,1905,Asia,Southeast Asia
+Brunei,2019,7039083.086,0.170021908,1891,Asia,Southeast Asia
+Brunei,2020,6608177.852,0.129962102,1393,Asia,Southeast Asia
+Brunei,2021,11058184.37,0.140093642,1816,Asia,Southeast Asia
+Brunei,2022,14230238.31,0.121871154,1924,Asia,Southeast Asia
+Cambodia,1988,,,,Asia,Southeast Asia
+Cambodia,1989,,,,Asia,Southeast Asia
+Cambodia,1990,,,,Asia,Southeast Asia
+Cambodia,1991,,,,Asia,Southeast Asia
+Cambodia,1992,,,,Asia,Southeast Asia
+Cambodia,1993,,,,Asia,Southeast Asia
+Cambodia,1994,,,,Asia,Southeast Asia
+Cambodia,1995,,,,Asia,Southeast Asia
+Cambodia,1996,,,,Asia,Southeast Asia
+Cambodia,1997,,,,Asia,Southeast Asia
+Cambodia,1998,,,,Asia,Southeast Asia
+Cambodia,1999,,,,Asia,Southeast Asia
+Cambodia,2000,1389454.739,0.312702907,696,Asia,Southeast Asia
+Cambodia,2001,1499274.357,0.313724259,680,Asia,Southeast Asia
+Cambodia,2002,1922991.495,0.323567724,702,Asia,Southeast Asia
+Cambodia,2003,2118223.935,0.319216983,840,Asia,Southeast Asia
+Cambodia,2004,2797507.087,0.301716592,741,Asia,Southeast Asia
+Cambodia,2005,3018613.014,0.338576417,717,Asia,Southeast Asia
+Cambodia,2006,3566412.909,0.341774929,750,Asia,Southeast Asia
+Cambodia,2007,3531236.905,0.322443679,824,Asia,Southeast Asia
+Cambodia,2008,4358188.285,0.267838042,655,Asia,Southeast Asia
+Cambodia,2009,4992009.584,0.191281803,724,Asia,Southeast Asia
+Cambodia,2010,5590104.093,0.189375245,793,Asia,Southeast Asia
+Cambodia,2011,6704136.957,0.15044571,824,Asia,Southeast Asia
+Cambodia,2012,5796273.596,0.116323302,911,Asia,Southeast Asia
+Cambodia,2013,6665903.101,0.101134359,999,Asia,Southeast Asia
+Cambodia,2014,6846019.309,0.084928399,797,Asia,Southeast Asia
+Cambodia,2015,8542433.639,0.079707492,1164,Asia,Southeast Asia
+Cambodia,2016,10069331.58,0.06345097,1215,Asia,Southeast Asia
+Cambodia,2017,11278127.96,0.064960838,1261,Asia,Southeast Asia
+Cambodia,2018,12700279.68,0.070826761,1218,Asia,Southeast Asia
+Cambodia,2019,14824722.29,0.077275307,1288,Asia,Southeast Asia
+Cambodia,2020,17716469.5,0.103144635,1277,Asia,Southeast Asia
+Cambodia,2021,16949623.22,0.1373253,1367,Asia,Southeast Asia
+Cambodia,2022,20575772.75,0.154218144,1284,Asia,Southeast Asia
+China,1988,,,,Asia,East Asia
+China,1989,,,,Asia,East Asia
+China,1990,,,,Asia,East Asia
+China,1991,,,,Asia,East Asia
+China,1992,84940013.57,0.194227992,4777,Asia,East Asia
+China,1993,91743944.7,0.20640043,4807,Asia,East Asia
+China,1994,121006260.2,0.185040404,4872,Asia,East Asia
+China,1995,148779500,0.174376605,4738,Asia,East Asia
+China,1996,151047461.8,0.167696595,4775,Asia,East Asia
+China,1997,182791584.8,0.157145666,4810,Asia,East Asia
+China,1998,183808987.8,0.157604044,4800,Asia,East Asia
+China,1999,194930778.5,0.154432108,4790,Asia,East Asia
+China,2000,249202551,0.132242661,4798,Asia,East Asia
+China,2001,266098208.6,0.123299074,4792,Asia,East Asia
+China,2002,325595969.8,0.120970757,4742,Asia,East Asia
+China,2003,438227767.4,0.108500764,4745,Asia,East Asia
+China,2004,593325581.4,0.099573365,4732,Asia,East Asia
+China,2005,761953409.5,0.094378761,4744,Asia,East Asia
+China,2006,968935601,0.086603771,4748,Asia,East Asia
+China,2007,1220059668,0.07485527,4492,Asia,East Asia
+China,2008,1430693066,0.065016038,4453,Asia,East Asia
+China,2009,1201646758,0.067955152,4451,Asia,East Asia
+China,2010,1577763751,0.064403996,4454,Asia,East Asia
+China,2011,1898388435,0.060907352,4443,Asia,East Asia
+China,2012,2048782233,0.062810324,4414,Asia,East Asia
+China,2013,2209007280,0.06192151,4423,Asia,East Asia
+China,2014,2342292696,0.060917877,4427,Asia,East Asia
+China,2015,2273468224,0.064333972,4433,Asia,East Asia
+China,2016,2097637172,0.062997841,4417,Asia,East Asia
+China,2017,2263370504,0.06139705,4409,Asia,East Asia
+China,2018,2486439720,0.06045748,4418,Asia,East Asia
+China,2019,2499206994,0.050705936,4423,Asia,East Asia
+China,2020,2589098353,0.049724807,4400,Asia,East Asia
+China,2021,3316022134,0.046347668,4398,Asia,East Asia
+China,2022,3593601436,0.044901772,4375,Asia,East Asia
+Cyprus,1988,,,,Asia,West Asia
+Cyprus,1989,793037.824,0.156679411,2358,Asia,West Asia
+Cyprus,1990,949220.608,0.1230057,2326,Asia,West Asia
+Cyprus,1991,951804.544,0.142653613,2338,Asia,West Asia
+Cyprus,1992,1005167.296,0.08619638,2312,Asia,West Asia
+Cyprus,1993,867296.128,0.17056372,2288,Asia,West Asia
+Cyprus,1994,961219.072,0.11623978,2301,Asia,West Asia
+Cyprus,1995,1230544.256,0.089297137,2305,Asia,West Asia
+Cyprus,1996,1390613.376,0.10077563,2342,Asia,West Asia
+Cyprus,1997,1250107.776,0.080475237,2291,Asia,West Asia
+Cyprus,1998,1061851.2,0.109714005,2220,Asia,West Asia
+Cyprus,1999,997005.504,0.104260646,2236,Asia,West Asia
+Cyprus,2000,980554.638,0.090119375,2124,Asia,West Asia
+Cyprus,2001,997160.97,0.079725627,2091,Asia,West Asia
+Cyprus,2002,837007.019,0.074167162,2096,Asia,West Asia
+Cyprus,2003,923135.055,0.062844131,1979,Asia,West Asia
+Cyprus,2004,1171483.862,0.064539461,2073,Asia,West Asia
+Cyprus,2005,1546373.415,0.080956451,1816,Asia,West Asia
+Cyprus,2006,1414865.802,0.297558857,1680,Asia,West Asia
+Cyprus,2007,1486412.281,0.086899806,1673,Asia,West Asia
+Cyprus,2008,1713315.359,0.092043746,1580,Asia,West Asia
+Cyprus,2009,1350948.81,0.118145738,1581,Asia,West Asia
+Cyprus,2010,1506457.953,0.07125607,1496,Asia,West Asia
+Cyprus,2011,1954770.383,0.0587033,1594,Asia,West Asia
+Cyprus,2012,1826017.361,0.084452808,1714,Asia,West Asia
+Cyprus,2013,2136943.89,0.07927654,1714,Asia,West Asia
+Cyprus,2014,3259080.173,0.042450529,1736,Asia,West Asia
+Cyprus,2015,3358859.968,0.048582461,1771,Asia,West Asia
+Cyprus,2016,3004338.839,0.042507642,1707,Asia,West Asia
+Cyprus,2017,3353324.377,0.042729945,1696,Asia,West Asia
+Cyprus,2018,5089773.797,0.04208812,1742,Asia,West Asia
+Cyprus,2019,3520898.852,0.043145917,1807,Asia,West Asia
+Cyprus,2020,3137095.808,0.038117909,1799,Asia,West Asia
+Cyprus,2021,4006767.113,0.047147322,1908,Asia,West Asia
+Cyprus,2022,4411253.801,0.054027241,1817,Asia,West Asia
+Georgia,1988,,,,Asia,West Asia
+Georgia,1989,,,,Asia,West Asia
+Georgia,1990,,,,Asia,West Asia
+Georgia,1991,,,,Asia,West Asia
+Georgia,1992,,,,Asia,West Asia
+Georgia,1993,,,,Asia,West Asia
+Georgia,1994,,,,Asia,West Asia
+Georgia,1995,,,,Asia,West Asia
+Georgia,1996,198765.525,0.15057769,863,Asia,West Asia
+Georgia,1997,239786.238,0.173909518,932,Asia,West Asia
+Georgia,1998,192322.511,0.117563452,1018,Asia,West Asia
+Georgia,1999,238166.192,0.085117959,1219,Asia,West Asia
+Georgia,2000,322748.68,0.10586354,1195,Asia,West Asia
+Georgia,2001,317636.108,0.102864761,1146,Asia,West Asia
+Georgia,2002,345933.475,0.085790818,1166,Asia,West Asia
+Georgia,2003,461405.611,0.097655754,1206,Asia,West Asia
+Georgia,2004,646902.963,0.093544168,1316,Asia,West Asia
+Georgia,2005,865454.199,0.088328592,1432,Asia,West Asia
+Georgia,2006,935139.221,0.058050184,1624,Asia,West Asia
+Georgia,2007,1232361.132,0.058370916,1620,Asia,West Asia
+Georgia,2008,1497484.598,0.083780499,1676,Asia,West Asia
+Georgia,2009,1133629.367,0.058743164,1618,Asia,West Asia
+Georgia,2010,1677298.831,0.050522517,1742,Asia,West Asia
+Georgia,2011,2186407.408,0.042944939,1829,Asia,West Asia
+Georgia,2012,2376634.36,0.045653878,1955,Asia,West Asia
+Georgia,2013,2910581.723,0.051444142,2056,Asia,West Asia
+Georgia,2014,2861043.298,0.062733548,2112,Asia,West Asia
+Georgia,2015,2204174.681,0.053116394,2148,Asia,West Asia
+Georgia,2016,2117130.708,0.046004182,2145,Asia,West Asia
+Georgia,2017,2745659.259,0.063824141,2249,Asia,West Asia
+Georgia,2018,3379649.513,0.068191912,2351,Asia,West Asia
+Georgia,2019,3797965.694,0.067764708,2521,Asia,West Asia
+Georgia,2020,3340697.557,0.076725941,2440,Asia,West Asia
+Georgia,2021,4242512.935,0.058518191,2502,Asia,West Asia
+Georgia,2022,5583425.394,0.067721612,2659,Asia,West Asia
+"Hong Kong, China",1988,,,,Asia,East Asia
+"Hong Kong, China",1989,,,,Asia,East Asia
+"Hong Kong, China",1990,,,,Asia,East Asia
+"Hong Kong, China",1991,,,,Asia,East Asia
+"Hong Kong, China",1992,,,,Asia,East Asia
+"Hong Kong, China",1993,135384571.9,0.122671976,4389,Asia,East Asia
+"Hong Kong, China",1994,151465115.6,0.110429709,4434,Asia,East Asia
+"Hong Kong, China",1995,173870762.6,0.094392463,4453,Asia,East Asia
+"Hong Kong, China",1996,180914323.9,0.089102337,4403,Asia,East Asia
+"Hong Kong, China",1997,188201260.8,0.086314191,4435,Asia,East Asia
+"Hong Kong, China",1998,174863528.6,0.09047878,4422,Asia,East Asia
+"Hong Kong, China",1999,174402740.8,0.088699945,4484,Asia,East Asia
+"Hong Kong, China",2000,202710086.4,0.082025447,4516,Asia,East Asia
+"Hong Kong, China",2001,191067244.2,0.081274288,4468,Asia,East Asia
+"Hong Kong, China",2002,201927773.3,0.081980023,4347,Asia,East Asia
+"Hong Kong, China",2003,228708303.2,0.073161457,4289,Asia,East Asia
+"Hong Kong, China",2004,265605541.5,0.067939658,4324,Asia,East Asia
+"Hong Kong, China",2005,292118674.2,0.06497815,4345,Asia,East Asia
+"Hong Kong, China",2006,322668792,0.053710332,4357,Asia,East Asia
+"Hong Kong, China",2007,349385575,0.054514709,4114,Asia,East Asia
+"Hong Kong, China",2008,370241818.7,0.049049609,4142,Asia,East Asia
+"Hong Kong, China",2009,329421935,0.055556709,4121,Asia,East Asia
+"Hong Kong, China",2010,400692015.2,0.060449621,4053,Asia,East Asia
+"Hong Kong, China",2011,455573380.1,0.064984375,4080,Asia,East Asia
+"Hong Kong, China",2012,492907471.5,0.070361162,4083,Asia,East Asia
+"Hong Kong, China",2013,535186743,0.067064501,4058,Asia,East Asia
+"Hong Kong, China",2014,524064898.6,0.055657219,4058,Asia,East Asia
+"Hong Kong, China",2015,510552778.6,0.054804149,4027,Asia,East Asia
+"Hong Kong, China",2016,516588130.9,0.070979588,4001,Asia,East Asia
+"Hong Kong, China",2017,549861455.2,0.056199924,3957,Asia,East Asia
+"Hong Kong, China",2018,569105739.7,0.063422967,3944,Asia,East Asia
+"Hong Kong, China",2019,535711018.9,0.067845347,3896,Asia,East Asia
+"Hong Kong, China",2020,551515755.9,0.074391368,3819,Asia,East Asia
+"Hong Kong, China",2021,670926079.5,0.065751654,3800,Asia,East Asia
+"Hong Kong, China",2022,610138354.3,0.073088069,3747,Asia,East Asia
+India,1988,13872437.25,0.274875208,3665,Asia,South Asia
+India,1989,17045031.94,0.150066431,3625,Asia,South Asia
+India,1990,17940183.04,0.126817957,3671,Asia,South Asia
+India,1991,17899886.59,0.121682309,3837,Asia,South Asia
+India,1992,20711291.01,0.123328241,3965,Asia,South Asia
+India,1993,22236917.76,0.093645373,4093,Asia,South Asia
+India,1994,26330005.5,0.08334403,4164,Asia,South Asia
+India,1995,31698567.17,0.06878953,4252,Asia,South Asia
+India,1996,33468591.19,0.059219628,4314,Asia,South Asia
+India,1997,34793750.53,0.063239684,4374,Asia,South Asia
+India,1998,33207324.67,0.072182253,4361,Asia,South Asia
+India,1999,36919977.14,0.075251284,4397,Asia,South Asia
+India,2000,42358096.16,0.069847309,4501,Asia,South Asia
+India,2001,43878488.72,0.059560909,4577,Asia,South Asia
+India,2002,50097958.25,0.067201524,4649,Asia,South Asia
+India,2003,59360659.09,0.057708143,4662,Asia,South Asia
+India,2004,75904200.37,0.056928282,4695,Asia,South Asia
+India,2005,100352636.5,0.058006367,4696,Asia,South Asia
+India,2006,121200606.2,0.050860613,4692,Asia,South Asia
+India,2007,145898053.5,0.046239633,4664,Asia,South Asia
+India,2008,181860898.3,0.041390296,4691,Asia,South Asia
+India,2009,176765036.3,0.042571316,4467,Asia,South Asia
+India,2010,220408496,0.043939339,4462,Asia,South Asia
+India,2011,301483250.2,0.042900666,4483,Asia,South Asia
+India,2012,289564769.4,0.044477305,4460,Asia,South Asia
+India,2013,336611388.8,0.039538753,4444,Asia,South Asia
+India,2014,317544642.3,0.043300424,4434,Asia,South Asia
+India,2015,264381003.6,0.046957952,4424,Asia,South Asia
+India,2016,260326912.3,0.051494091,4411,Asia,South Asia
+India,2017,294364490.2,0.047632509,4418,Asia,South Asia
+India,2018,322492099.9,0.050098894,4450,Asia,South Asia
+India,2019,323250726.4,0.052230752,4442,Asia,South Asia
+India,2020,275488744.9,0.054392935,4417,Asia,South Asia
+India,2021,394813673.3,0.054677999,4437,Asia,South Asia
+India,2022,452684213.6,0.057073426,4403,Asia,South Asia
+Indonesia,1988,,,,Asia,Southeast Asia
+Indonesia,1989,22028109.82,0.566803204,2524,Asia,Southeast Asia
+Indonesia,1990,25675323.39,0.544426829,2625,Asia,Southeast Asia
+Indonesia,1991,29142360.06,0.344501361,2812,Asia,Southeast Asia
+Indonesia,1992,33966981.12,0.238956156,3252,Asia,Southeast Asia
+Indonesia,1993,36822753.28,0.194522299,3433,Asia,Southeast Asia
+Indonesia,1994,40053415.94,0.16345206,3542,Asia,Southeast Asia
+Indonesia,1995,45417963.52,0.150729571,3574,Asia,Southeast Asia
+Indonesia,1996,49814695.94,0.136286661,3606,Asia,Southeast Asia
+Indonesia,1997,53443579.9,0.116836677,3578,Asia,Southeast Asia
+Indonesia,1998,48847519.74,0.0943963,3562,Asia,Southeast Asia
+Indonesia,1999,48665419.48,0.100608156,4239,Asia,Southeast Asia
+Indonesia,2000,62124006.94,0.101804949,4249,Asia,Southeast Asia
+Indonesia,2001,56316866.7,0.094783203,4295,Asia,Southeast Asia
+Indonesia,2002,57158751.15,0.088559637,4322,Asia,Southeast Asia
+Indonesia,2003,61058187.39,0.079051105,4317,Asia,Southeast Asia
+Indonesia,2004,71582468.12,0.077727418,4387,Asia,Southeast Asia
+Indonesia,2005,85659947.5,0.077164797,4232,Asia,Southeast Asia
+Indonesia,2006,100798615.7,0.077789474,4274,Asia,Southeast Asia
+Indonesia,2007,114100872.8,0.07246951,4150,Asia,Southeast Asia
+Indonesia,2008,137020424.4,0.072694587,4092,Asia,Southeast Asia
+Indonesia,2009,116509991.8,0.065383643,4076,Asia,Southeast Asia
+Indonesia,2010,157779103.5,0.068404161,3938,Asia,Southeast Asia
+Indonesia,2011,203496619.2,0.069470178,3933,Asia,Southeast Asia
+Indonesia,2012,190031839.2,0.070289471,3958,Asia,Southeast Asia
+Indonesia,2013,182551754.4,0.068139235,3940,Asia,Southeast Asia
+Indonesia,2014,176036194.3,0.061373863,3937,Asia,Southeast Asia
+Indonesia,2015,150366281.3,0.057413774,3892,Asia,Southeast Asia
+Indonesia,2016,144489796.4,0.058846405,3889,Asia,Southeast Asia
+Indonesia,2017,168827554,0.061237257,3892,Asia,Southeast Asia
+Indonesia,2018,180215034.1,0.06556114,3912,Asia,Southeast Asia
+Indonesia,2019,167682995.1,0.065182888,3988,Asia,Southeast Asia
+Indonesia,2020,163191837.3,0.072742618,3916,Asia,Southeast Asia
+Indonesia,2021,231522458.1,0.08698246,3938,Asia,Southeast Asia
+Indonesia,2022,291979090.6,0.084993356,3988,Asia,Southeast Asia
+"Iran, Islamic Rep.",1988,,,,Asia,West Asia
+"Iran, Islamic Rep.",1989,,,,Asia,West Asia
+"Iran, Islamic Rep.",1990,,,,Asia,West Asia
+"Iran, Islamic Rep.",1991,,,,Asia,West Asia
+"Iran, Islamic Rep.",1992,,,,Asia,West Asia
+"Iran, Islamic Rep.",1993,,,,Asia,West Asia
+"Iran, Islamic Rep.",1994,,,,Asia,West Asia
+"Iran, Islamic Rep.",1995,,,,Asia,West Asia
+"Iran, Islamic Rep.",1996,,,,Asia,West Asia
+"Iran, Islamic Rep.",1997,18425255.7,0.071537741,1887,Asia,West Asia
+"Iran, Islamic Rep.",1998,13241061.98,0.070595387,1972,Asia,West Asia
+"Iran, Islamic Rep.",1999,20008248.71,0.066399944,2172,Asia,West Asia
+"Iran, Islamic Rep.",2000,28345000,0.074280227,2333,Asia,West Asia
+"Iran, Islamic Rep.",2001,23904000,0.086286097,2398,Asia,West Asia
+"Iran, Islamic Rep.",2002,28186000,0.090536471,2574,Asia,West Asia
+"Iran, Islamic Rep.",2003,33788000,0.096556494,2634,Asia,West Asia
+"Iran, Islamic Rep.",2004,44628000,0.083727668,2603,Asia,West Asia
+"Iran, Islamic Rep.",2005,60012000,0.08712007,2878,Asia,West Asia
+"Iran, Islamic Rep.",2006,63247000,0.075143558,2873,Asia,West Asia
+"Iran, Islamic Rep.",2007,,,,Asia,West Asia
+"Iran, Islamic Rep.",2008,,,,Asia,West Asia
+"Iran, Islamic Rep.",2009,,,,Asia,West Asia
+"Iran, Islamic Rep.",2010,83785000,0.093419439,2554,Asia,West Asia
+"Iran, Islamic Rep.",2011,130544000,0.106677752,2452,Asia,West Asia
+"Iran, Islamic Rep.",2012,,,,Asia,West Asia
+"Iran, Islamic Rep.",2013,92122799.95,0.210027816,2611,Asia,West Asia
+"Iran, Islamic Rep.",2014,90328134.77,0.221679313,2682,Asia,West Asia
+"Iran, Islamic Rep.",2015,60040642.11,0.203018671,2565,Asia,West Asia
+"Iran, Islamic Rep.",2016,83148194.18,0.142458398,2722,Asia,West Asia
+"Iran, Islamic Rep.",2017,105844085.7,0.125146579,2790,Asia,West Asia
+"Iran, Islamic Rep.",2018,96617521.28,0.135469112,3009,Asia,West Asia
+"Iran, Islamic Rep.",2019,41923807.58,0.215771713,2758,Asia,West Asia
+"Iran, Islamic Rep.",2020,34409104.81,0.273370447,2705,Asia,West Asia
+"Iran, Islamic Rep.",2021,67271404.93,0.196598283,2732,Asia,West Asia
+"Iran, Islamic Rep.",2022,80900398.25,0.193125963,2743,Asia,West Asia
+Iraq,1988,,,,Asia,West Asia
+Iraq,1989,,,,Asia,West Asia
+Iraq,1990,,,,Asia,West Asia
+Iraq,1991,,,,Asia,West Asia
+Iraq,1992,,,,Asia,West Asia
+Iraq,1993,,,,Asia,West Asia
+Iraq,1994,,,,Asia,West Asia
+Iraq,1995,,,,Asia,West Asia
+Iraq,1996,,,,Asia,West Asia
+Iraq,1997,,,,Asia,West Asia
+Iraq,1998,,,,Asia,West Asia
+Iraq,1999,,,,Asia,West Asia
+Iraq,2000,,,,Asia,West Asia
+Iraq,2001,,,,Asia,West Asia
+Iraq,2002,,,,Asia,West Asia
+Iraq,2003,,,,Asia,West Asia
+Iraq,2004,,,,Asia,West Asia
+Iraq,2005,,,,Asia,West Asia
+Iraq,2006,,,,Asia,West Asia
+Iraq,2007,,,,Asia,West Asia
+Iraq,2008,,,,Asia,West Asia
+Iraq,2009,,,,Asia,West Asia
+Iraq,2010,,,,Asia,West Asia
+Iraq,2011,,,,Asia,West Asia
+Iraq,2012,,,,Asia,West Asia
+Iraq,2013,,,,Asia,West Asia
+Iraq,2014,84506036.57,0.125581837,21,Asia,West Asia
+Iraq,2015,,,,Asia,West Asia
+Iraq,2016,,,,Asia,West Asia
+Iraq,2017,,,,Asia,West Asia
+Iraq,2018,,,,Asia,West Asia
+Iraq,2019,,,,Asia,West Asia
+Iraq,2020,,,,Asia,West Asia
+Iraq,2021,,,,Asia,West Asia
+Iraq,2022,,,,Asia,West Asia
+Israel,1988,,,,Asia,West Asia
+Israel,1989,,,,Asia,West Asia
+Israel,1990,,,,Asia,West Asia
+Israel,1991,,,,Asia,West Asia
+Israel,1992,,,,Asia,West Asia
+Israel,1993,,,,Asia,West Asia
+Israel,1994,,,,Asia,West Asia
+Israel,1995,19047421.95,0.136329627,2277,Asia,West Asia
+Israel,1996,20510239,0.131061496,2285,Asia,West Asia
+Israel,1997,22502976,0.134627329,2726,Asia,West Asia
+Israel,1998,23303550.98,0.159737357,2664,Asia,West Asia
+Israel,1999,25839935,0.168548546,2675,Asia,West Asia
+Israel,2000,31407370,0.186937759,2552,Asia,West Asia
+Israel,2001,29061770,0.181025624,2477,Asia,West Asia
+Israel,2002,29511398,0.197089475,2455,Asia,West Asia
+Israel,2003,31782744,0.189359451,2524,Asia,West Asia
+Israel,2004,38620084,0.172016134,2491,Asia,West Asia
+Israel,2005,42770660,0.175675326,2597,Asia,West Asia
+Israel,2006,46791913,0.18753708,2616,Asia,West Asia
+Israel,2007,54091395,0.154991585,2602,Asia,West Asia
+Israel,2008,61337485,0.141741953,3053,Asia,West Asia
+Israel,2009,47934614,0.153246488,3041,Asia,West Asia
+Israel,2010,58413028,0.144794205,3092,Asia,West Asia
+Israel,2011,67796328,0.133866097,3088,Asia,West Asia
+Israel,2012,63140635,0.13004693,3055,Asia,West Asia
+Israel,2013,66781207,0.128368193,3016,Asia,West Asia
+Israel,2014,68965008,0.132891473,3015,Asia,West Asia
+Israel,2015,64062217,0.166043725,3034,Asia,West Asia
+Israel,2016,60570596,0.158842361,3015,Asia,West Asia
+Israel,2017,61150141,0.146295582,3041,Asia,West Asia
+Israel,2018,61906412,0.138447392,3040,Asia,West Asia
+Israel,2019,58488466,0.129858503,3047,Asia,West Asia
+Israel,2020,50153246,0.106052115,2994,Asia,West Asia
+Israel,2021,60159734,0.0962587,3127,Asia,West Asia
+Israel,2022,72568881,0.089815544,3076,Asia,West Asia
+Japan,1988,264916746.2,0.136717633,4604,Asia,East Asia
+Japan,1989,275174555.6,0.068755648,4591,Asia,East Asia
+Japan,1990,286947442.7,0.070462472,4623,Asia,East Asia
+Japan,1991,314525384.7,0.19469035,4626,Asia,East Asia
+Japan,1992,339650781.7,0.161068942,4615,Asia,East Asia
+Japan,1993,360911077.4,0.134346306,4604,Asia,East Asia
+Japan,1994,395599904.8,0.126001206,4613,Asia,East Asia
+Japan,1995,442937359.7,0.113652638,4620,Asia,East Asia
+Japan,1996,410946941,0.107702138,4565,Asia,East Asia
+Japan,1997,421052867.7,0.10155219,4591,Asia,East Asia
+Japan,1998,388136156.3,0.111672991,4553,Asia,East Asia
+Japan,1999,417610124.9,0.113537157,4581,Asia,East Asia
+Japan,2000,479275540.1,0.104762324,4591,Asia,East Asia
+Japan,2001,403344076.9,0.103195331,4563,Asia,East Asia
+Japan,2002,416729388.4,0.099958923,4550,Asia,East Asia
+Japan,2003,472006874,0.088638781,4545,Asia,East Asia
+Japan,2004,565761136.6,0.084508049,4562,Asia,East Asia
+Japan,2005,594940865.8,0.084209491,4561,Asia,East Asia
+Japan,2006,646725058.6,0.085737741,4562,Asia,East Asia
+Japan,2007,714327036.5,0.079350204,4329,Asia,East Asia
+Japan,2008,781412163.3,0.072245771,4333,Asia,East Asia
+Japan,2009,580718733.7,0.078615794,4280,Asia,East Asia
+Japan,2010,769773832.5,0.082960989,4278,Asia,East Asia
+Japan,2011,823183758.6,0.08393705,4274,Asia,East Asia
+Japan,2012,798620022.6,0.083228246,4218,Asia,East Asia
+Japan,2013,715097244.3,0.084405306,4216,Asia,East Asia
+Japan,2014,690217466.3,0.087076688,4216,Asia,East Asia
+Japan,2015,624873508.1,0.087440897,4213,Asia,East Asia
+Japan,2016,644932439.5,0.086512962,4230,Asia,East Asia
+Japan,2017,698131223.7,0.088281358,4198,Asia,East Asia
+Japan,2018,738195054.9,0.090169989,4219,Asia,East Asia
+Japan,2019,705671082.8,0.091025956,4209,Asia,East Asia
+Japan,2020,641282568.4,0.099429695,4177,Asia,East Asia
+Japan,2021,757066261.2,0.09720699,4199,Asia,East Asia
+Japan,2022,746672096.6,0.092805832,4189,Asia,East Asia
+Jordan,1988,,,,Asia,West Asia
+Jordan,1989,,,,Asia,West Asia
+Jordan,1990,,,,Asia,West Asia
+Jordan,1991,,,,Asia,West Asia
+Jordan,1992,,,,Asia,West Asia
+Jordan,1993,,,,Asia,West Asia
+Jordan,1994,1424326.912,0.089078723,1732,Asia,West Asia
+Jordan,1995,1768849.664,0.087619999,1901,Asia,West Asia
+Jordan,1996,,,,Asia,West Asia
+Jordan,1997,1576327.936,0.058820352,1731,Asia,West Asia
+Jordan,1998,1382345.088,0.092578677,925,Asia,West Asia
+Jordan,1999,1820777.6,0.090891888,2342,Asia,West Asia
+Jordan,2000,1897487.755,0.071808916,2606,Asia,West Asia
+Jordan,2001,2294435.873,0.064684088,1843,Asia,West Asia
+Jordan,2002,2770023.012,0.075621414,1901,Asia,West Asia
+Jordan,2003,3081629.608,0.099915528,2342,Asia,West Asia
+Jordan,2004,3891117.167,0.131791637,2527,Asia,West Asia
+Jordan,2005,4284168.675,0.152693132,2511,Asia,West Asia
+Jordan,2006,5166644.982,0.144577604,2485,Asia,West Asia
+Jordan,2007,5700016.552,0.124474468,2417,Asia,West Asia
+Jordan,2008,7781764.523,0.119671862,2487,Asia,West Asia
+Jordan,2009,6365744.224,0.087553817,2422,Asia,West Asia
+Jordan,2010,7023137.455,0.082832983,2423,Asia,West Asia
+Jordan,2011,7963486.078,0.087950464,2362,Asia,West Asia
+Jordan,2012,7877135.557,0.088153053,2422,Asia,West Asia
+Jordan,2013,7919620.755,0.082213577,2368,Asia,West Asia
+Jordan,2014,8385330.134,0.078696959,2297,Asia,West Asia
+Jordan,2015,7832976.598,0.085253228,2153,Asia,West Asia
+Jordan,2016,7509082.521,0.10040487,2181,Asia,West Asia
+Jordan,2017,7469238.451,0.098358226,2190,Asia,West Asia
+Jordan,2018,7750262.863,0.113462746,2117,Asia,West Asia
+Jordan,2019,8312916.561,0.115577127,2156,Asia,West Asia
+Jordan,2020,7943244.774,0.105180382,2050,Asia,West Asia
+Jordan,2021,9356550.02,0.127443131,2021,Asia,West Asia
+Jordan,2022,12779806.64,0.121198917,2069,Asia,West Asia
+Kazakhstan,1988,,,,Asia,Central Asia
+Kazakhstan,1989,,,,Asia,Central Asia
+Kazakhstan,1990,,,,Asia,Central Asia
+Kazakhstan,1991,,,,Asia,Central Asia
+Kazakhstan,1992,,,,Asia,Central Asia
+Kazakhstan,1993,,,,Asia,Central Asia
+Kazakhstan,1994,,,,Asia,Central Asia
+Kazakhstan,1995,5226721.87,0.071506642,,Asia,Central Asia
+Kazakhstan,1996,5896832.85,0.377384219,,Asia,Central Asia
+Kazakhstan,1997,6486645.811,0.244918959,,Asia,Central Asia
+Kazakhstan,1998,5206923.418,0.162826959,,Asia,Central Asia
+Kazakhstan,1999,5871274.796,0.103578629,,Asia,Central Asia
+Kazakhstan,2000,8679362.2,0.089704012,147,Asia,Central Asia
+Kazakhstan,2001,8485515.4,0.099647175,2117,Asia,Central Asia
+Kazakhstan,2002,9642683,0.083651144,2029,Asia,Central Asia
+Kazakhstan,2003,12915946.5,0.091528483,2099,Asia,Central Asia
+Kazakhstan,2004,20079042.63,0.079401156,2337,Asia,Central Asia
+Kazakhstan,2005,27846084.84,0.075366496,2342,Asia,Central Asia
+Kazakhstan,2006,38244423.1,0.068591182,2356,Asia,Central Asia
+Kazakhstan,2007,47747902.4,0.07354207,2345,Asia,Central Asia
+Kazakhstan,2008,71171956.16,0.064402014,2358,Asia,Central Asia
+Kazakhstan,2009,43195762.04,0.070507186,2471,Asia,Central Asia
+Kazakhstan,2010,57244063.94,0.089286331,2261,Asia,Central Asia
+Kazakhstan,2011,88107933.67,0.08802107,2612,Asia,Central Asia
+Kazakhstan,2012,92281520.63,0.08825988,2481,Asia,Central Asia
+Kazakhstan,2013,84698536.27,0.094288537,2648,Asia,Central Asia
+Kazakhstan,2014,79458749.15,0.07291735,2652,Asia,Central Asia
+Kazakhstan,2015,45954426.05,0.071221328,2718,Asia,Central Asia
+Kazakhstan,2016,36775323.4,0.067227975,2858,Asia,Central Asia
+Kazakhstan,2017,48502738.96,0.061134644,2951,Asia,Central Asia
+Kazakhstan,2018,61108294.59,0.056599223,3106,Asia,Central Asia
+Kazakhstan,2019,58065248.75,0.064768398,3108,Asia,Central Asia
+Kazakhstan,2020,41874386.71,0.092230345,2843,Asia,Central Asia
+Kazakhstan,2021,53068759.29,0.073387955,2888,Asia,Central Asia
+Kazakhstan,2022,76139804.97,0.06838742,3229,Asia,Central Asia
+"Korea, Rep.",1988,60567859.2,0.466472951,4164,Asia,East Asia
+"Korea, Rep.",1989,62356678.86,0.285970023,4140,Asia,East Asia
+"Korea, Rep.",1990,65015704.32,0.221980272,4142,Asia,East Asia
+"Korea, Rep.",1991,71869964.29,0.203464493,4171,Asia,East Asia
+"Korea, Rep.",1992,76631449.6,0.159002514,4171,Asia,East Asia
+"Korea, Rep.",1993,82232115.2,0.11619072,4249,Asia,East Asia
+"Korea, Rep.",1994,96007667.71,0.110745929,4345,Asia,East Asia
+"Korea, Rep.",1995,125056450.6,0.102772759,4398,Asia,East Asia
+"Korea, Rep.",1996,129712545.8,0.091032762,4333,Asia,East Asia
+"Korea, Rep.",1997,136151023.6,0.081614423,4327,Asia,East Asia
+"Korea, Rep.",1998,132302323.7,0.077147716,4359,Asia,East Asia
+"Korea, Rep.",1999,143685399.4,0.091340476,4365,Asia,East Asia
+"Korea, Rep.",2000,172267495.4,0.091969374,4371,Asia,East Asia
+"Korea, Rep.",2001,150430885.7,0.091027704,4354,Asia,East Asia
+"Korea, Rep.",2002,162466097.1,0.092013524,4364,Asia,East Asia
+"Korea, Rep.",2003,193817313.7,0.093637547,4347,Asia,East Asia
+"Korea, Rep.",2004,253844608.9,0.098848441,4361,Asia,East Asia
+"Korea, Rep.",2005,284418167.2,0.09964883,4386,Asia,East Asia
+"Korea, Rep.",2006,325457247.3,0.095198985,4358,Asia,East Asia
+"Korea, Rep.",2007,371477103.6,0.097431732,4181,Asia,East Asia
+"Korea, Rep.",2008,422003479.1,0.091258844,4216,Asia,East Asia
+"Korea, Rep.",2009,363531063.4,0.104123126,4224,Asia,East Asia
+"Korea, Rep.",2010,466380619.7,0.106997939,4241,Asia,East Asia
+"Korea, Rep.",2011,555208898,0.108751373,4261,Asia,East Asia
+"Korea, Rep.",2012,547854448,0.111808461,4235,Asia,East Asia
+"Korea, Rep.",2013,559618558.9,0.117788066,4275,Asia,East Asia
+"Korea, Rep.",2014,573074773.1,0.122661653,4277,Asia,East Asia
+"Korea, Rep.",2015,526753006.4,0.12469103,4286,Asia,East Asia
+"Korea, Rep.",2016,495417715.6,0.116740591,4313,Asia,East Asia
+"Korea, Rep.",2017,573627368.9,0.109776262,4284,Asia,East Asia
+"Korea, Rep.",2018,604807317.4,0.123621499,4312,Asia,East Asia
+"Korea, Rep.",2019,542171769.1,0.114320756,4300,Asia,East Asia
+"Korea, Rep.",2020,512419287.5,0.120840755,4282,Asia,East Asia
+"Korea, Rep.",2021,644372936.8,0.115400476,4281,Asia,East Asia
+"Korea, Rep.",2022,683550925.7,0.100442945,4244,Asia,East Asia
+Kuwait,1988,,,,Asia,West Asia
+Kuwait,1989,,,,Asia,West Asia
+Kuwait,1990,,,,Asia,West Asia
+Kuwait,1991,,,,Asia,West Asia
+Kuwait,1992,,,,Asia,West Asia
+Kuwait,1993,,,,Asia,West Asia
+Kuwait,1994,,,,Asia,West Asia
+Kuwait,1995,,,,Asia,West Asia
+Kuwait,1996,,,,Asia,West Asia
+Kuwait,1997,,,,Asia,West Asia
+Kuwait,1998,,,,Asia,West Asia
+Kuwait,1999,,,,Asia,West Asia
+Kuwait,2000,19399475.51,0.119213957,909,Asia,West Asia
+Kuwait,2001,16164756.73,0.124462514,852,Asia,West Asia
+Kuwait,2002,15406421.03,0.124297526,830,Asia,West Asia
+Kuwait,2003,20638164.29,0.107897289,864,Asia,West Asia
+Kuwait,2004,28647976.84,0.10099599,928,Asia,West Asia
+Kuwait,2005,,,,Asia,West Asia
+Kuwait,2006,56003316.72,0.086132742,2692,Asia,West Asia
+Kuwait,2007,62691155.98,0.086005815,2383,Asia,West Asia
+Kuwait,2008,87457022.36,0.089637205,2335,Asia,West Asia
+Kuwait,2009,,,,Asia,West Asia
+Kuwait,2010,62698237.01,0.087220501,1835,Asia,West Asia
+Kuwait,2011,102695762.5,0.092723896,2134,Asia,West Asia
+Kuwait,2012,,,,Asia,West Asia
+Kuwait,2013,114404079.4,0.094406273,2607,Asia,West Asia
+Kuwait,2014,101131954.6,0.091265112,2697,Asia,West Asia
+Kuwait,2015,54120957.09,0.076523429,2563,Asia,West Asia
+Kuwait,2016,46235357.01,0.078538916,2509,Asia,West Asia
+Kuwait,2017,54991871.28,0.088392961,2659,Asia,West Asia
+Kuwait,2018,71941444.56,0.101225806,2712,Asia,West Asia
+Kuwait,2019,64482124.99,0.102624696,2611,Asia,West Asia
+Kuwait,2020,40166147.34,0.113299555,2378,Asia,West Asia
+Kuwait,2021,63129693.95,0.133510683,2391,Asia,West Asia
+Kuwait,2022,99775063.59,0.1229703,2395,Asia,West Asia
+Kyrgyz Republic,1988,,,,Asia,Central Asia
+Kyrgyz Republic,1989,,,,Asia,Central Asia
+Kyrgyz Republic,1990,,,,Asia,Central Asia
+Kyrgyz Republic,1991,,,,Asia,Central Asia
+Kyrgyz Republic,1992,,,,Asia,Central Asia
+Kyrgyz Republic,1993,,,,Asia,Central Asia
+Kyrgyz Republic,1994,,,,Asia,Central Asia
+Kyrgyz Republic,1995,412041.28,0.310737868,447,Asia,Central Asia
+Kyrgyz Republic,1996,507070.144,0.228511819,465,Asia,Central Asia
+Kyrgyz Republic,1997,,,,Asia,Central Asia
+Kyrgyz Republic,1998,,,,Asia,Central Asia
+Kyrgyz Republic,1999,,,,Asia,Central Asia
+Kyrgyz Republic,2000,504489.179,0.156382145,1588,Asia,Central Asia
+Kyrgyz Republic,2001,476151.634,0.16349543,1591,Asia,Central Asia
+Kyrgyz Republic,2002,460307.099,0.138503436,1576,Asia,Central Asia
+Kyrgyz Republic,2003,581728.886,0.138813511,1457,Asia,Central Asia
+Kyrgyz Republic,2004,718716.837,0.163665818,1403,Asia,Central Asia
+Kyrgyz Republic,2005,672013.688,0.176457775,1419,Asia,Central Asia
+Kyrgyz Republic,2006,794067.447,0.187397326,1454,Asia,Central Asia
+Kyrgyz Republic,2007,1134181.27,0.213541345,1437,Asia,Central Asia
+Kyrgyz Republic,2008,1617561.433,0.240970617,1464,Asia,Central Asia
+Kyrgyz Republic,2009,1178273.614,0.257892474,1395,Asia,Central Asia
+Kyrgyz Republic,2010,1488400.507,0.203254483,1515,Asia,Central Asia
+Kyrgyz Republic,2011,1978932.373,0.226674143,1556,Asia,Central Asia
+Kyrgyz Republic,2012,1683236.842,0.2075968,1561,Asia,Central Asia
+Kyrgyz Republic,2013,1773228.304,0.171078154,1605,Asia,Central Asia
+Kyrgyz Republic,2014,1819460.143,0.198242457,1622,Asia,Central Asia
+Kyrgyz Republic,2015,1441467.621,0.221785515,1545,Asia,Central Asia
+Kyrgyz Republic,2016,1423028.427,0.149308002,1378,Asia,Central Asia
+Kyrgyz Republic,2017,1757463.67,0.120820143,1629,Asia,Central Asia
+Kyrgyz Republic,2018,1835179.371,0.205026187,1624,Asia,Central Asia
+Kyrgyz Republic,2019,1986109.552,0.229615323,1624,Asia,Central Asia
+Kyrgyz Republic,2020,1863531.157,0.244385071,1410,Asia,Central Asia
+Kyrgyz Republic,2021,2752163.636,0.216298811,1721,Asia,Central Asia
+Kyrgyz Republic,2022,2254702.312,0.141284385,1859,Asia,Southeast Asia
+Lao PDR,1988,,,,Asia,Southeast Asia
+Lao PDR,1989,,,,Asia,Southeast Asia
+Lao PDR,1990,,,,Asia,Southeast Asia
+Lao PDR,1991,,,,Asia,Southeast Asia
+Lao PDR,1992,,,,Asia,Southeast Asia
+Lao PDR,1993,,,,Asia,Southeast Asia
+Lao PDR,1994,,,,Asia,Southeast Asia
+Lao PDR,1995,,,,Asia,Southeast Asia
+Lao PDR,1996,,,,Asia,Southeast Asia
+Lao PDR,1997,,,,Asia,Southeast Asia
+Lao PDR,1998,,,,Asia,Southeast Asia
+Lao PDR,1999,,,,Asia,Southeast Asia
+Lao PDR,2000,,,,Asia,Southeast Asia
+Lao PDR,2001,,,,Asia,Southeast Asia
+Lao PDR,2002,,,,Asia,Southeast Asia
+Lao PDR,2003,,,,Asia,Southeast Asia
+Lao PDR,2004,,,,Asia,Southeast Asia
+Lao PDR,2005,,,,Asia,Southeast Asia
+Lao PDR,2006,,,,Asia,Southeast Asia
+Lao PDR,2007,,,,Asia,Southeast Asia
+Lao PDR,2008,,,,Asia,Southeast Asia
+Lao PDR,2009,,,,Asia,Southeast Asia
+Lao PDR,2010,1908744.656,0.23425623,662,Asia,Southeast Asia
+Lao PDR,2011,1898021.883,0.236739089,596,Asia,Southeast Asia
+Lao PDR,2012,1597135.45,0.224232458,530,Asia,Southeast Asia
+Lao PDR,2013,2987771.796,0.213363479,840,Asia,Southeast Asia
+Lao PDR,2014,2572201.001,0.261704223,825,Asia,Southeast Asia
+Lao PDR,2015,2985095.357,0.262543336,837,Asia,Southeast Asia
+Lao PDR,2016,3124168.977,0.277504457,763,Asia,Southeast Asia
+Lao PDR,2017,4909733.655,0.287145229,863,Asia,Southeast Asia
+Lao PDR,2018,5814806.369,0.304939718,886,Asia,Southeast Asia
+Lao PDR,2019,5809346.161,0.290817588,1038,Asia,Southeast Asia
+Lao PDR,2020,5086886.923,0.293624641,988,Asia,Southeast Asia
+Lao PDR,2021,7164605.459,0.249258308,1053,Asia,Southeast Asia
+Lao PDR,2022,,,,Asia,Southeast Asia
+Lebanon,1988,,,,Asia,West Asia
+Lebanon,1989,,,,Asia,West Asia
+Lebanon,1990,,,,Asia,West Asia
+Lebanon,1991,,,,Asia,West Asia
+Lebanon,1992,,,,Asia,West Asia
+Lebanon,1993,,,,Asia,West Asia
+Lebanon,1994,,,,Asia,West Asia
+Lebanon,1995,,,,Asia,West Asia
+Lebanon,1996,,,,Asia,West Asia
+Lebanon,1997,642229.248,0.077385227,2587,Asia,West Asia
+Lebanon,1998,660939.84,0.07069184,2616,Asia,West Asia
+Lebanon,1999,676761.28,0.080552338,2549,Asia,West Asia
+Lebanon,2000,714340.424,0.063524574,2477,Asia,West Asia
+Lebanon,2001,889296.93,0.064088456,2631,Asia,West Asia
+Lebanon,2002,1045493.207,0.091843683,2778,Asia,West Asia
+Lebanon,2003,1523934.413,0.115158854,2924,Asia,West Asia
+Lebanon,2004,1744957,0.095857821,2754,Asia,West Asia
+Lebanon,2005,1879013,0.064279622,2722,Asia,West Asia
+Lebanon,2006,2282513.738,0.079641556,2965,Asia,West Asia
+Lebanon,2007,2816320.674,0.065162119,2966,Asia,West Asia
+Lebanon,2008,3478305.474,0.051826769,2969,Asia,West Asia
+Lebanon,2009,3484154.763,0.129077458,2897,Asia,West Asia
+Lebanon,2010,4254184.915,0.042107337,2895,Asia,West Asia
+Lebanon,2011,4266856.015,0.069631149,2951,Asia,West Asia
+Lebanon,2012,4446163.434,0.093459147,2865,Asia,West Asia
+Lebanon,2013,3937065.938,0.053151557,2895,Asia,West Asia
+Lebanon,2014,3312205.568,0.042339129,2923,Asia,West Asia
+Lebanon,2015,2953388.64,0.046200237,2850,Asia,West Asia
+Lebanon,2016,2976561.583,0.046934305,2748,Asia,West Asia
+Lebanon,2017,2844446.138,0.055456828,2716,Asia,West Asia
+Lebanon,2018,2952759.932,0.052289174,2722,Asia,West Asia
+Lebanon,2019,3731340.091,0.101793843,2752,Asia,West Asia
+Lebanon,2020,3807461.182,0.112088057,2686,Asia,West Asia
+Lebanon,2021,4229976.738,0.070705963,2741,Asia,West Asia
+Lebanon,2022,3862245.374,0.099295941,2786,Asia,West Asia
+Malaysia,1988,,,,Asia,Southeast Asia
+Malaysia,1989,25048246.27,0.213007213,4155,Asia,Southeast Asia
+Malaysia,1990,29453209.6,0.222102319,4200,Asia,Southeast Asia
+Malaysia,1991,34347755.52,0.177235884,4251,Asia,Southeast Asia
+Malaysia,1992,40768495.62,0.159207141,4307,Asia,Southeast Asia
+Malaysia,1993,47127175.17,0.15172206,4244,Asia,Southeast Asia
+Malaysia,1994,58842644.48,0.145922903,4355,Asia,Southeast Asia
+Malaysia,1995,73778148.9,0.135774948,4219,Asia,Southeast Asia
+Malaysia,1996,78314873.32,0.124753541,4284,Asia,Southeast Asia
+Malaysia,1997,78729420.8,0.109667347,4191,Asia,Southeast Asia
+Malaysia,1998,73254221.38,0.10683481,4211,Asia,Southeast Asia
+Malaysia,1999,84511901.59,0.111028097,4283,Asia,Southeast Asia
+Malaysia,2000,98229725.8,0.104837726,4175,Asia,Southeast Asia
+Malaysia,2001,88004108.1,0.097618115,4273,Asia,Southeast Asia
+Malaysia,2002,93282453.15,0.099202525,4254,Asia,Southeast Asia
+Malaysia,2003,104968562,0.088936722,4271,Asia,Southeast Asia
+Malaysia,2004,126639700.6,0.084477079,4267,Asia,Southeast Asia
+Malaysia,2005,141624045.9,0.088302463,4228,Asia,Southeast Asia
+Malaysia,2006,160669230.6,0.08444078,4336,Asia,Southeast Asia
+Malaysia,2007,175961862.7,0.075095771,4295,Asia,Southeast Asia
+Malaysia,2008,198702474.8,0.070446271,4296,Asia,Southeast Asia
+Malaysia,2009,157194831.5,0.074090395,4167,Asia,Southeast Asia
+Malaysia,2010,198790690.7,0.07914989,4128,Asia,Southeast Asia
+Malaysia,2011,226992682,0.081994685,4133,Asia,Southeast Asia
+Malaysia,2012,227449499.5,0.081308187,4168,Asia,Southeast Asia
+Malaysia,2013,228316107.5,0.082341876,4144,Asia,Southeast Asia
+Malaysia,2014,234134976.9,0.076219296,4097,Asia,Southeast Asia
+Malaysia,2015,200210871.9,0.080059903,4119,Asia,Southeast Asia
+Malaysia,2016,189414073.2,0.081038008,4114,Asia,Southeast Asia
+Malaysia,2017,217722507.5,0.079110496,4096,Asia,Southeast Asia
+Malaysia,2018,248711690,0.079762539,4120,Asia,Southeast Asia
+Malaysia,2019,240211905.7,0.086796298,4077,Asia,Southeast Asia
+Malaysia,2020,234050267.5,0.095550048,4032,Asia,Southeast Asia
+Malaysia,2021,299230434.4,0.097065868,4050,Asia,Southeast Asia
+Malaysia,2022,352188166.3,0.095861698,4047,Asia,Southeast Asia
+Maldives,1988,,,,Asia,South Asia
+Maldives,1989,,,,Asia,South Asia
+Maldives,1990,,,,Asia,South Asia
+Maldives,1991,,,,Asia,South Asia
+Maldives,1992,,,,Asia,South Asia
+Maldives,1993,,,,Asia,South Asia
+Maldives,1994,,,,Asia,South Asia
+Maldives,1995,49804.38,0.145625932,34,Asia,South Asia
+Maldives,1996,59404.352,0.107918224,55,Asia,South Asia
+Maldives,1997,70214.168,0.146338556,54,Asia,South Asia
+Maldives,1998,74625.744,0.213855985,49,Asia,South Asia
+Maldives,1999,63951.212,0.273990491,47,Asia,South Asia
+Maldives,2000,76195.782,0.300205872,58,Asia,South Asia
+Maldives,2001,76688.392,0.279178943,57,Asia,South Asia
+Maldives,2002,90756.518,0.272731516,54,Asia,South Asia
+Maldives,2003,112962.652,0.246870817,39,Asia,South Asia
+Maldives,2004,169740.947,0.206891935,472,Asia,South Asia
+Maldives,2005,154174.655,0.140440016,774,Asia,South Asia
+Maldives,2006,135603.308,0.157345427,35,Asia,South Asia
+Maldives,2007,108170.984,0.134857402,34,Asia,South Asia
+Maldives,2008,126363.406,0.154469289,30,Asia,South Asia
+Maldives,2009,76665.464,0.106525396,27,Asia,South Asia
+Maldives,2010,74202.946,0.100891283,29,Asia,South Asia
+Maldives,2011,121993.061,0.10536649,30,Asia,South Asia
+Maldives,2012,161606.754,0.091649651,29,Asia,South Asia
+Maldives,2013,166504.976,0.131720799,28,Asia,South Asia
+Maldives,2014,144839.922,0.094805119,29,Asia,South Asia
+Maldives,2015,144172.352,0.076665617,37,Asia,South Asia
+Maldives,2016,139592.79,0.135066458,50,Asia,South Asia
+Maldives,2017,199345.2794,0.203619247,76,Asia,South Asia
+Maldives,2018,181711.4011,0.095345938,68,Asia,South Asia
+Maldives,2019,158015.4782,0.105249384,71,Asia,South Asia
+Maldives,2020,162814.7889,0.128932362,107,Asia,South Asia
+Maldives,2021,151293.2665,0.118958794,408,Asia,South Asia
+Maldives,2022,158399.8916,0.461356764,254,Asia,South Asia
+Mongolia,1988,,,,Asia,East Asia
+Mongolia,1989,,,,Asia,East Asia
+Mongolia,1990,,,,Asia,East Asia
+Mongolia,1991,,,,Asia,East Asia
+Mongolia,1992,,,,Asia,East Asia
+Mongolia,1993,,,,Asia,East Asia
+Mongolia,1994,,,,Asia,East Asia
+Mongolia,1995,,,,Asia,East Asia
+Mongolia,1996,424266.88,0.176983013,457,Asia,East Asia
+Mongolia,1997,451434.112,0.238048968,642,Asia,East Asia
+Mongolia,1998,345071.808,0.26442371,504,Asia,East Asia
+Mongolia,1999,358194.368,0.319358972,681,Asia,East Asia
+Mongolia,2000,535600.146,0.240126047,627,Asia,East Asia
+Mongolia,2001,523223.393,0.262850433,665,Asia,East Asia
+Mongolia,2002,,,,Asia,East Asia
+Mongolia,2003,615867.136,0.272092434,702,Asia,East Asia
+Mongolia,2004,856009.381,0.300204871,823,Asia,East Asia
+Mongolia,2005,1064384.73,0.296753895,873,Asia,East Asia
+Mongolia,2006,1542321.443,0.486925326,1255,Asia,East Asia
+Mongolia,2007,1886552.768,0.480869559,941,Asia,East Asia
+Mongolia,2008,,,,Asia,East Asia
+Mongolia,2009,,,,Asia,East Asia
+Mongolia,2010,,,,Asia,East Asia
+Mongolia,2011,,,,Asia,East Asia
+Mongolia,2012,,,,Asia,East Asia
+Mongolia,2013,4269055.846,0.700928097,981,Asia,East Asia
+Mongolia,2014,5774330.896,0.779951756,1153,Asia,East Asia
+Mongolia,2015,4669280.457,0.703766451,1057,Asia,East Asia
+Mongolia,2016,4916326.458,0.630054444,1160,Asia,East Asia
+Mongolia,2017,6200592.952,0.706726322,1159,Asia,East Asia
+Mongolia,2018,7011757.685,0.738925568,1153,Asia,East Asia
+Mongolia,2019,7619753.9,0.760690289,1178,Asia,East Asia
+Mongolia,2020,7576310.835,0.691784757,1025,Asia,East Asia
+Mongolia,2021,9241123.15,0.706874817,899,Asia,East Asia
+Mongolia,2022,12557706.71,0.778879487,1092,Asia,East Asia
+Myanmar,1988,,,,Asia,Southeast Asia
+Myanmar,1989,,,,Asia,Southeast Asia
+Myanmar,1990,,,,Asia,Southeast Asia
+Myanmar,1991,,,,Asia,Southeast Asia
+Myanmar,1992,449383.68,0.129455647,144,Asia,Southeast Asia
+Myanmar,1993,,,,Asia,Southeast Asia
+Myanmar,1994,,,,Asia,Southeast Asia
+Myanmar,1995,,,,Asia,Southeast Asia
+Myanmar,1996,,,,Asia,Southeast Asia
+Myanmar,1997,,,,Asia,Southeast Asia
+Myanmar,1998,,,,Asia,Southeast Asia
+Myanmar,1999,,,,Asia,Southeast Asia
+Myanmar,2000,,,,Asia,Southeast Asia
+Myanmar,2001,,0.126743499,,Asia,Southeast Asia
+Myanmar,2002,,,,Asia,Southeast Asia
+Myanmar,2003,,,,Asia,Southeast Asia
+Myanmar,2004,,,,Asia,Southeast Asia
+Myanmar,2005,,,,Asia,Southeast Asia
+Myanmar,2006,,,,Asia,Southeast Asia
+Myanmar,2007,,,,Asia,Southeast Asia
+Myanmar,2008,,,,Asia,Southeast Asia
+Myanmar,2009,,,,Asia,Southeast Asia
+Myanmar,2010,8873435.869,0.229607166,198,Asia,Southeast Asia
+Myanmar,2011,8127869.283,0.210078231,432,Asia,Southeast Asia
+Myanmar,2012,9053439.163,0.232389229,583,Asia,Southeast Asia
+Myanmar,2013,11436327.74,0.219004493,738,Asia,Southeast Asia
+Myanmar,2014,11451860.54,0.442471687,702,Asia,Southeast Asia
+Myanmar,2015,11431792.16,0.240503801,727,Asia,Southeast Asia
+Myanmar,2016,11672717.46,0.17952796,1045,Asia,Southeast Asia
+Myanmar,2017,13877953.29,0.159634425,1466,Asia,Southeast Asia
+Myanmar,2018,16702158.76,0.151251358,1676,Asia,Southeast Asia
+Myanmar,2019,18117605.31,0.144610783,1618,Asia,Southeast Asia
+Myanmar,2020,16949755.29,0.148925499,1454,Asia,Southeast Asia
+Myanmar,2021,15153407.71,0.177575559,1456,Asia,Southeast Asia
+Myanmar,2022,17084512.89,0.189510577,1332,Asia,Southeast Asia
+Nepal,1988,,,,Asia,South Asia
+Nepal,1989,,,,Asia,South Asia
+Nepal,1990,,,,Asia,South Asia
+Nepal,1991,,,,Asia,South Asia
+Nepal,1992,,,,Asia,South Asia
+Nepal,1993,,,,Asia,South Asia
+Nepal,1994,384838.816,0.278334039,1359,Asia,South Asia
+Nepal,1995,,,,Asia,South Asia
+Nepal,1996,,,,Asia,South Asia
+Nepal,1997,,,,Asia,South Asia
+Nepal,1998,408728.512,0.218157744,120,Asia,South Asia
+Nepal,1999,524294.592,0.235080959,789,Asia,South Asia
+Nepal,2000,708773.952,0.230780454,329,Asia,South Asia
+Nepal,2001,,,,Asia,South Asia
+Nepal,2002,,,,Asia,South Asia
+Nepal,2003,652694.661,0.302095101,1086,Asia,South Asia
+Nepal,2004,,,,Asia,South Asia
+Nepal,2005,,,,Asia,South Asia
+Nepal,2006,,,,Asia,South Asia
+Nepal,2007,,,,Asia,South Asia
+Nepal,2008,,,,Asia,South Asia
+Nepal,2009,885999.101,0.395936905,1167,Asia,South Asia
+Nepal,2010,874201.149,0.420989557,1088,Asia,South Asia
+Nepal,2011,907633.694,0.392994994,1019,Asia,South Asia
+Nepal,2012,870663.034,0.258025946,1051,Asia,South Asia
+Nepal,2013,863257.579,0.303123972,1175,Asia,South Asia
+Nepal,2014,900858.622,0.387120365,1151,Asia,South Asia
+Nepal,2015,660181.989,0.373152434,897,Asia,South Asia
+Nepal,2016,728846.4401,0.313840318,1106,Asia,South Asia
+Nepal,2017,740742.9144,0.314213687,1093,Asia,South Asia
+Nepal,2018,781142.7566,0.286245567,1035,Asia,South Asia
+Nepal,2019,959628.5208,0.455738192,928,Asia,South Asia
+Nepal,2020,855420.6049,0.489905162,670,Asia,South Asia
+Nepal,2021,1665727.795,0.638424798,764,Asia,South Asia
+Nepal,2022,1300469.756,0.461482767,760,Asia,South Asia
+Oman,1988,,,,Asia,West Asia
+Oman,1989,3932778.752,0.392451452,554,Asia,West Asia
+Oman,1990,5504418.816,0.30370634,535,Asia,West Asia
+Oman,1991,4873507.328,0.311851066,521,Asia,West Asia
+Oman,1992,5451159.552,0.268844174,583,Asia,West Asia
+Oman,1993,5299510.272,0.200657604,517,Asia,West Asia
+Oman,1994,5418297.344,0.2173821,513,Asia,West Asia
+Oman,1995,5917388.8,0.208396557,636,Asia,West Asia
+Oman,1996,7221942.784,0.175046856,757,Asia,West Asia
+Oman,1997,7630663.168,0.170444609,878,Asia,West Asia
+Oman,1998,5518813.696,0.153470444,974,Asia,West Asia
+Oman,1999,7230925.824,0.155579402,1040,Asia,West Asia
+Oman,2000,11318065.76,0.17961057,1166,Asia,West Asia
+Oman,2001,11073950.29,0.149784009,976,Asia,West Asia
+Oman,2002,11237018.6,0.12612188,1203,Asia,West Asia
+Oman,2003,12196357.81,0.158083954,667,Asia,West Asia
+Oman,2004,13380753.02,0.190597455,989,Asia,West Asia
+Oman,2005,18691545.78,0.156222303,987,Asia,West Asia
+Oman,2006,21585732.78,0.162677498,1028,Asia,West Asia
+Oman,2007,24691545.24,0.160844208,1088,Asia,West Asia
+Oman,2008,37719141.06,0.179667292,1348,Asia,West Asia
+Oman,2009,27650631.07,0.122197572,1644,Asia,West Asia
+Oman,2010,36599577.12,0.149200071,1941,Asia,West Asia
+Oman,2011,47091872.61,0.153544242,2124,Asia,West Asia
+Oman,2012,52138225.68,0.162037068,2263,Asia,West Asia
+Oman,2013,55497131.21,0.18320095,2186,Asia,West Asia
+Oman,2014,53220765.27,0.246750482,2391,Asia,West Asia
+Oman,2015,35686298.63,0.233814671,2493,Asia,West Asia
+Oman,2016,30013599.55,0.227348257,2353,Asia,West Asia
+Oman,2017,32904047.21,0.203222647,3104,Asia,West Asia
+Oman,2018,41762284.85,0.20644326,3183,Asia,West Asia
+Oman,2019,38723580.35,0.228897772,3176,Asia,West Asia
+Oman,2020,33479358.82,0.215544392,3240,Asia,West Asia
+Oman,2021,44590926.52,0.234737504,3251,Asia,West Asia
+Oman,2022,66063352.84,0.20218117,3096,Asia,West Asia
+Pakistan,1988,,,,Asia,South Asia
+Pakistan,1989,,,,Asia,South Asia
+Pakistan,1990,,,,Asia,South Asia
+Pakistan,1991,,,,Asia,South Asia
+Pakistan,1992,,,,Asia,South Asia
+Pakistan,1993,,,,Asia,South Asia
+Pakistan,1994,,,,Asia,South Asia
+Pakistan,1995,,,,Asia,South Asia
+Pakistan,1996,,,,Asia,South Asia
+Pakistan,1997,,,,Asia,South Asia
+Pakistan,1998,,,,Asia,South Asia
+Pakistan,1999,,,,Asia,South Asia
+Pakistan,2000,,,,Asia,South Asia
+Pakistan,2001,,,,Asia,South Asia
+Pakistan,2002,,,,Asia,South Asia
+Pakistan,2003,11930076.04,0.086091564,2311,Asia,South Asia
+Pakistan,2004,12585423.64,0.084849844,2382,Asia,South Asia
+Pakistan,2005,16050200.73,0.089077941,2755,Asia,South Asia
+Pakistan,2006,16932873.21,0.084822584,2897,Asia,South Asia
+Pakistan,2007,17838406.58,0.070493641,3170,Asia,South Asia
+Pakistan,2008,20279045.86,0.053198487,3017,Asia,South Asia
+Pakistan,2009,17554698.48,0.057239491,2987,Asia,South Asia
+Pakistan,2010,21413102.68,0.051890406,3075,Asia,South Asia
+Pakistan,2011,25343768.66,0.046545929,2975,Asia,South Asia
+Pakistan,2012,24613675.62,0.059310702,2961,Asia,South Asia
+Pakistan,2013,25120883.2,0.050502521,2876,Asia,South Asia
+Pakistan,2014,24722182.15,0.048611615,2877,Asia,South Asia
+Pakistan,2015,22089018.06,0.049638772,2846,Asia,South Asia
+Pakistan,2016,20533792.83,0.050448741,2790,Asia,South Asia
+Pakistan,2017,21877787.16,0.047588657,2792,Asia,South Asia
+Pakistan,2018,23630892.98,0.046503845,2757,Asia,South Asia
+Pakistan,2019,23748680.25,0.047316966,2824,Asia,South Asia
+Pakistan,2020,22237163.37,0.058649092,2814,Asia,South Asia
+Pakistan,2021,28795179.09,0.064963528,2761,Asia,South Asia
+Pakistan,2022,30769091.84,0.062186305,2753,Asia,South Asia
+Philippines,1988,,,,Asia,Southeast Asia
+Philippines,1989,,,,Asia,Southeast Asia
+Philippines,1990,,,,Asia,Southeast Asia
+Philippines,1991,,,,Asia,Southeast Asia
+Philippines,1992,,,,Asia,Southeast Asia
+Philippines,1993,,,,Asia,Southeast Asia
+Philippines,1994,,,,Asia,Southeast Asia
+Philippines,1995,,,,Asia,Southeast Asia
+Philippines,1996,20542472.19,0.184728117,2457,Asia,Southeast Asia
+Philippines,1997,25227692.03,0.170103216,2493,Asia,Southeast Asia
+Philippines,1998,29496340.48,0.173379296,2636,Asia,Southeast Asia
+Philippines,1999,35036880.9,0.155354486,2661,Asia,Southeast Asia
+Philippines,2000,38078249.79,0.129539294,2547,Asia,Southeast Asia
+Philippines,2001,32150202.59,0.116097861,2577,Asia,Southeast Asia
+Philippines,2002,35208158.69,0.104446882,2732,Asia,Southeast Asia
+Philippines,2003,36231205.44,0.091588049,2721,Asia,Southeast Asia
+Philippines,2004,39680520.43,0.089356758,2727,Asia,Southeast Asia
+Philippines,2005,41254683.47,0.094510287,2759,Asia,Southeast Asia
+Philippines,2006,47410117.34,0.106643051,2839,Asia,Southeast Asia
+Philippines,2007,50465711.13,0.128239952,2620,Asia,Southeast Asia
+Philippines,2008,49077539.97,0.111293673,2458,Asia,Southeast Asia
+Philippines,2009,38435801.95,0.096555205,2481,Asia,Southeast Asia
+Philippines,2010,51497514.61,0.097232319,2331,Asia,Southeast Asia
+Philippines,2011,48042128.76,0.100644177,2321,Asia,Southeast Asia
+Philippines,2012,51995223.99,0.111561971,2811,Asia,Southeast Asia
+Philippines,2013,56697802.98,0.104958151,2825,Asia,Southeast Asia
+Philippines,2014,61809755.23,0.113378625,2820,Asia,Southeast Asia
+Philippines,2015,58648083.08,0.108939121,2780,Asia,Southeast Asia
+Philippines,2016,56312747.95,0.100184667,2784,Asia,Southeast Asia
+Philippines,2017,68712611.19,0.096640451,2883,Asia,Southeast Asia
+Philippines,2018,67487668.3,0.096797221,2865,Asia,Southeast Asia
+Philippines,2019,70926674.49,0.096765739,2971,Asia,Southeast Asia
+Philippines,2020,65214435.07,0.099995176,2768,Asia,Southeast Asia
+Philippines,2021,74619528.76,0.100079694,2830,Asia,Southeast Asia
+Philippines,2022,78928518.09,0.080905394,2818,Asia,Southeast Asia
+Qatar,1988,,,,Asia,West Asia
+Qatar,1989,,,,Asia,West Asia
+Qatar,1990,,,,Asia,West Asia
+Qatar,1991,,,,Asia,West Asia
+Qatar,1992,,,,Asia,West Asia
+Qatar,1993,,,,Asia,West Asia
+Qatar,1994,,,,Asia,West Asia
+Qatar,1995,,,,Asia,West Asia
+Qatar,1996,,,,Asia,West Asia
+Qatar,1997,,,,Asia,West Asia
+Qatar,1998,,,,Asia,West Asia
+Qatar,1999,,,,Asia,West Asia
+Qatar,2000,8846958.592,0.299684933,930,Asia,West Asia
+Qatar,2001,10705850.37,0.310852362,190,Asia,West Asia
+Qatar,2002,8230923.776,0.274887321,1090,Asia,West Asia
+Qatar,2003,13382576.97,0.27047174,638,Asia,West Asia
+Qatar,2004,18685061.09,0.229961446,876,Asia,West Asia
+Qatar,2005,25762497.88,0.22906271,1652,Asia,West Asia
+Qatar,2006,34051306.77,0.230836097,1618,Asia,West Asia
+Qatar,2007,42019942.58,0.226646959,1789,Asia,West Asia
+Qatar,2008,67307142.97,0.214532416,122,Asia,West Asia
+Qatar,2009,,,,Asia,West Asia
+Qatar,2010,74964415.45,0.148838393,142,Asia,West Asia
+Qatar,2011,,,,Asia,West Asia
+Qatar,2012,132913458.1,0.144950968,91,Asia,West Asia
+Qatar,2013,133336974.3,0.141049433,95,Asia,West Asia
+Qatar,2014,131591553.3,0.1426444,152,Asia,West Asia
+Qatar,2015,77090262.72,0.114089111,100,Asia,West Asia
+Qatar,2016,57308634.59,0.098853473,96,Asia,West Asia
+Qatar,2017,67498105.85,0.093665219,147,Asia,West Asia
+Qatar,2018,84904616.76,0.102855679,83,Asia,West Asia
+Qatar,2019,72934956.29,0.099838004,74,Asia,West Asia
+Qatar,2020,51504158.06,0.093399805,76,Asia,West Asia
+Qatar,2021,87203291.19,0.088103285,76,Asia,West Asia
+Qatar,2022,130964472.6,0.076576032,90,Asia,West Asia
+Russian Federation,1988,,,,Asia,North Asia
+Russian Federation,1989,,,,Asia,North Asia
+Russian Federation,1990,,,,Asia,North Asia
+Russian Federation,1991,,,,Asia,North Asia
+Russian Federation,1992,,,,Asia,North Asia
+Russian Federation,1993,,,,Asia,North Asia
+Russian Federation,1994,,,,Asia,North Asia
+Russian Federation,1995,,,,Asia,North Asia
+Russian Federation,1996,88703000,0.045340045,4480,Asia,North Asia
+Russian Federation,1997,87368000,0.034680227,4361,Asia,North Asia
+Russian Federation,1998,72275585.47,0.036455025,4332,Asia,North Asia
+Russian Federation,1999,72884999.95,0.03467843,4305,Asia,North Asia
+Russian Federation,2000,103092748.4,0.03744145,4413,Asia,North Asia
+Russian Federation,2001,99868397.03,0.032353998,4362,Asia,North Asia
+Russian Federation,2002,106691997.9,0.031598114,4287,Asia,North Asia
+Russian Federation,2003,133655685.2,0.035428694,4271,Asia,North Asia
+Russian Federation,2004,181600379.2,0.034849066,4262,Asia,North Asia
+Russian Federation,2005,241451656.9,0.035664766,4180,Asia,North Asia
+Russian Federation,2006,301550665.5,0.038018764,4227,Asia,North Asia
+Russian Federation,2007,352266398.8,0.036805688,4023,Asia,North Asia
+Russian Federation,2008,467993954.6,0.032033523,3973,Asia,North Asia
+Russian Federation,2009,301796058.8,0.033654567,3949,Asia,North Asia
+Russian Federation,2010,397067521,0.034432951,3805,Asia,North Asia
+Russian Federation,2011,516992618.2,0.034962573,3857,Asia,North Asia
+Russian Federation,2012,524766420.6,0.035090205,4244,Asia,North Asia
+Russian Federation,2013,527265918.9,0.033251063,4299,Asia,North Asia
+Russian Federation,2014,497833528.8,0.033566718,4321,Asia,North Asia
+Russian Federation,2015,343907651.8,0.035012611,4330,Asia,North Asia
+Russian Federation,2016,301780443.4,0.03600034,4375,Asia,North Asia
+Russian Federation,2017,379206606,0.036234327,4365,Asia,North Asia
+Russian Federation,2018,451494828.2,0.03871531,4364,Asia,North Asia
+Russian Federation,2019,426720332.7,0.041950131,4385,Asia,North Asia
+Russian Federation,2020,337103969.6,0.051024493,4354,Asia,North Asia
+Russian Federation,2021,492313790.7,0.045377161,4359,Asia,North Asia
+Russian Federation,2022,,,,Asia,North Asia
+Saudi Arabia,1988,,,,Asia,West Asia
+Saudi Arabia,1989,,,,Asia,West Asia
+Saudi Arabia,1990,,,,Asia,West Asia
+Saudi Arabia,1991,47053329.98,0.151240763,3590,Asia,West Asia
+Saudi Arabia,1992,53486448.64,0.13432245,3390,Asia,West Asia
+Saudi Arabia,1993,42395787.26,0.113296209,3224,Asia,West Asia
+Saudi Arabia,1994,42874187.78,0.095464892,3087,Asia,West Asia
+Saudi Arabia,1995,49029578.75,0.096822998,3280,Asia,West Asia
+Saudi Arabia,1996,56509526.02,0.090527208,3320,Asia,West Asia
+Saudi Arabia,1997,,,,Asia,West Asia
+Saudi Arabia,1998,39806951.42,0.078224066,3433,Asia,West Asia
+Saudi Arabia,1999,50693813.58,0.083960647,3371,Asia,West Asia
+Saudi Arabia,2000,77204301.31,0.086584907,1611,Asia,West Asia
+Saudi Arabia,2001,67674040.86,0.085031462,1731,Asia,West Asia
+Saudi Arabia,2002,72128962.43,0.091075113,1789,Asia,West Asia
+Saudi Arabia,2003,92765581.56,0.090340078,2017,Asia,West Asia
+Saudi Arabia,2004,125551144.7,0.078357657,2248,Asia,West Asia
+Saudi Arabia,2005,180277726.9,0.08159377,2327,Asia,West Asia
+Saudi Arabia,2006,210823971.7,0.078144874,2189,Asia,West Asia
+Saudi Arabia,2007,232855982.6,0.078040451,2247,Asia,West Asia
+Saudi Arabia,2008,312999364,0.083722723,2320,Asia,West Asia
+Saudi Arabia,2009,191810272.7,0.07975914,2256,Asia,West Asia
+Saudi Arabia,2010,250577015.6,0.079385162,2271,Asia,West Asia
+Saudi Arabia,2011,364139418.6,0.078593423,2298,Asia,West Asia
+Saudi Arabia,2012,387373982.6,0.083314369,2299,Asia,West Asia
+Saudi Arabia,2013,375360918,0.078946098,2267,Asia,West Asia
+Saudi Arabia,2014,341947182.5,0.076220837,2237,Asia,West Asia
+Saudi Arabia,2015,203688802.6,0.066214626,2201,Asia,West Asia
+Saudi Arabia,2016,183604286.5,0.063463245,2276,Asia,West Asia
+Saudi Arabia,2017,221835062.8,0.066648754,2430,Asia,West Asia
+Saudi Arabia,2018,294535553.1,0.067845663,3085,Asia,West Asia
+Saudi Arabia,2019,251800017,0.08198732,1791,Asia,West Asia
+Saudi Arabia,2020,185699411.8,0.084084379,2900,Asia,West Asia
+Saudi Arabia,2021,286467258.6,0.085604011,3392,Asia,West Asia
+Saudi Arabia,2022,,,,Asia,West Asia
+Singapore,1988,,,,Asia,Southeast Asia
+Singapore,1989,44686630.91,0.10509236,4822,Asia,Southeast Asia
+Singapore,1990,52715892.74,0.11354815,4817,Asia,Southeast Asia
+Singapore,1991,58953314.3,0.153838829,4814,Asia,Southeast Asia
+Singapore,1992,63463108.61,0.135417341,4783,Asia,Southeast Asia
+Singapore,1993,74005471.23,0.105407883,4805,Asia,Southeast Asia
+Singapore,1994,96824549.38,0.103627249,4850,Asia,Southeast Asia
+Singapore,1995,118263103.5,0.10275922,4792,Asia,Southeast Asia
+Singapore,1996,125007762.9,0.099121154,4740,Asia,Southeast Asia
+Singapore,1997,124988069.2,0.090086292,4696,Asia,Southeast Asia
+Singapore,1998,109904937,0.085917315,4681,Asia,Southeast Asia
+Singapore,1999,114681728.4,0.083786924,4691,Asia,Southeast Asia
+Singapore,2000,137805720.3,0.072691503,4653,Asia,Southeast Asia
+Singapore,2001,121753788.8,0.065569071,4654,Asia,Southeast Asia
+Singapore,2002,125177090.7,0.064193325,4618,Asia,Southeast Asia
+Singapore,2003,161438836.1,0.060999123,4147,Asia,Southeast Asia
+Singapore,2004,198632635.4,0.057510837,4471,Asia,Southeast Asia
+Singapore,2005,230343507.4,0.056101422,4134,Asia,Southeast Asia
+Singapore,2006,273382013,0.055841093,4122,Asia,Southeast Asia
+Singapore,2007,301594913.3,0.055942637,4181,Asia,Southeast Asia
+Singapore,2008,341079321.2,0.054334002,4185,Asia,Southeast Asia
+Singapore,2009,271079917.8,0.054896373,4180,Asia,Southeast Asia
+Singapore,2010,352553383.1,0.060676599,4179,Asia,Southeast Asia
+Singapore,2011,416234570.7,0.060306999,4288,Asia,Southeast Asia
+Singapore,2012,415615109.7,0.059815502,4294,Asia,Southeast Asia
+Singapore,2013,419931654.5,0.060918543,4287,Asia,Southeast Asia
+Singapore,2014,415418247,0.062811378,4285,Asia,Southeast Asia
+Singapore,2015,357941228.9,0.062937007,4290,Asia,Southeast Asia
+Singapore,2016,338081970.5,0.067702739,4277,Asia,Southeast Asia
+Singapore,2017,373254554.4,0.068644879,4278,Asia,Southeast Asia
+Singapore,2018,411743293.7,0.067665636,4263,Asia,Southeast Asia
+Singapore,2019,390331757.4,0.067273854,4257,Asia,Southeast Asia
+Singapore,2020,373683730.1,0.07348583,4239,Asia,Southeast Asia
+Singapore,2021,457081283.3,0.074707261,4213,Asia,Southeast Asia
+Singapore,2022,514966127,0.066364588,4232,Asia,Southeast Asia
+Sri Lanka,1988,,,,Asia,South Asia
+Sri Lanka,1989,,,,Asia,South Asia
+Sri Lanka,1990,1912600.064,0.119342574,2034,Asia,South Asia
+Sri Lanka,1991,1987225.344,0.244186957,2066,Asia,South Asia
+Sri Lanka,1992,2453985.024,0.252512662,2160,Asia,South Asia
+Sri Lanka,1993,2846941.696,0.239255239,2271,Asia,South Asia
+Sri Lanka,1994,3209662.464,0.189093364,2416,Asia,South Asia
+Sri Lanka,1995,,,,Asia,South Asia
+Sri Lanka,1996,,,,Asia,South Asia
+Sri Lanka,1997,,,,Asia,South Asia
+Sri Lanka,1998,,,,Asia,South Asia
+Sri Lanka,1999,4467271.168,0.197466481,2705,Asia,South Asia
+Sri Lanka,2000,5337517.843,0.188330325,2892,Asia,South Asia
+Sri Lanka,2001,4723871.679,0.185255514,2961,Asia,South Asia
+Sri Lanka,2002,4722972.86,0.179501765,3022,Asia,South Asia
+Sri Lanka,2003,4867830.504,0.157371775,2941,Asia,South Asia
+Sri Lanka,2004,5466642.794,0.140808417,3040,Asia,South Asia
+Sri Lanka,2005,6159855.307,0.14252207,2914,Asia,South Asia
+Sri Lanka,2006,6760001.046,0.13022471,2977,Asia,South Asia
+Sri Lanka,2007,7661314.769,0.111125831,2861,Asia,South Asia
+Sri Lanka,2008,8176816.898,0.094486595,2630,Asia,South Asia
+Sri Lanka,2009,7121490.779,0.090870717,2362,Asia,South Asia
+Sri Lanka,2010,8304051.802,0.079467566,2381,Asia,South Asia
+Sri Lanka,2011,10011281.53,0.074989233,2460,Asia,South Asia
+Sri Lanka,2012,9369784.036,0.081243985,2982,Asia,South Asia
+Sri Lanka,2013,10004878.92,0.084889463,2632,Asia,South Asia
+Sri Lanka,2014,11295485.9,0.084172876,3001,Asia,South Asia
+Sri Lanka,2015,10439729.66,0.094856014,2976,Asia,South Asia
+Sri Lanka,2016,10545893.3,0.094044932,3097,Asia,South Asia
+Sri Lanka,2017,11741036.79,0.086364545,3121,Asia,South Asia
+Sri Lanka,2018,,,,Asia,South Asia
+Sri Lanka,2019,11974156.37,0.076085387,3118,Asia,South Asia
+Sri Lanka,2020,10706858.04,0.077039175,2912,Asia,South Asia
+Sri Lanka,2021,13331248.58,0.073047901,2995,Asia,South Asia
+Sri Lanka,2022,13592124.43,0.08538136,2951,Asia,South Asia
+Syrian Arab Republic,1988,,,,Asia,West Asia
+Syrian Arab Republic,1989,,,,Asia,West Asia
+Syrian Arab Republic,1990,,,,Asia,West Asia
+Syrian Arab Republic,1991,,,,Asia,West Asia
+Syrian Arab Republic,1992,,,,Asia,West Asia
+Syrian Arab Republic,1993,,,,Asia,West Asia
+Syrian Arab Republic,1994,,,,Asia,West Asia
+Syrian Arab Republic,1995,,,,Asia,West Asia
+Syrian Arab Republic,1996,,,,Asia,West Asia
+Syrian Arab Republic,1997,,,,Asia,West Asia
+Syrian Arab Republic,1998,,,,Asia,West Asia
+Syrian Arab Republic,1999,,,,Asia,West Asia
+Syrian Arab Republic,2000,,,,Asia,West Asia
+Syrian Arab Republic,2001,20798641.93,0.102834966,192,Asia,West Asia
+Syrian Arab Republic,2002,26931134.44,0.081014172,414,Asia,West Asia
+Syrian Arab Republic,2003,23611522.87,0.09573381,2470,Asia,West Asia
+Syrian Arab Republic,2004,22177268.07,0.089389722,740,Asia,West Asia
+Syrian Arab Republic,2005,6449881.887,0.098679926,1536,Asia,West Asia
+Syrian Arab Republic,2006,10919370.78,0.099341035,2798,Asia,West Asia
+Syrian Arab Republic,2007,11545710.21,0.102157452,1226,Asia,West Asia
+Syrian Arab Republic,2008,14380037.91,0.088227902,1220,Asia,West Asia
+Syrian Arab Republic,2009,9693796.9,0.067766052,2400,Asia,West Asia
+Syrian Arab Republic,2010,11352923.63,0.076640025,2810,Asia,West Asia
+Syrian Arab Republic,2011,,,,Asia,West Asia
+Syrian Arab Republic,2012,,,,Asia,West Asia
+Syrian Arab Republic,2013,,,,Asia,West Asia
+Syrian Arab Republic,2014,,,,Asia,West Asia
+Syrian Arab Republic,2015,,,,Asia,West Asia
+Syrian Arab Republic,2016,,,,Asia,West Asia
+Syrian Arab Republic,2017,,,,Asia,West Asia
+Syrian Arab Republic,2018,,,,Asia,West Asia
+Syrian Arab Republic,2019,,,,Asia,West Asia
+Syrian Arab Republic,2020,,,,Asia,West Asia
+Syrian Arab Republic,2021,,,,Asia,West Asia
+Syrian Arab Republic,2022,,,,Asia,West Asia
+Tajikistan,1988,,,,Asia,Central Asia
+Tajikistan,1989,,,,Asia,Central Asia
+Tajikistan,1990,,,,Asia,Central Asia
+Tajikistan,1991,,,,Asia,Central Asia
+Tajikistan,1992,,,,Asia,Central Asia
+Tajikistan,1993,,,,Asia,Central Asia
+Tajikistan,1994,,,,Asia,Central Asia
+Tajikistan,1995,,,,Asia,Central Asia
+Tajikistan,1996,,,,Asia,Central Asia
+Tajikistan,1997,,,,Asia,Central Asia
+Tajikistan,1998,,,,Asia,Central Asia
+Tajikistan,1999,,,,Asia,Central Asia
+Tajikistan,2000,692346,0.308277807,,Asia,Central Asia
+Tajikistan,2001,,,,Asia,Central Asia
+Tajikistan,2002,,,,Asia,Central Asia
+Tajikistan,2003,,,,Asia,Central Asia
+Tajikistan,2004,,,,Asia,Central Asia
+Tajikistan,2005,,,,Asia,Central Asia
+Tajikistan,2006,,,,Asia,Central Asia
+Tajikistan,2007,,,,Asia,Central Asia
+Tajikistan,2008,,,,Asia,Central Asia
+Tajikistan,2009,,,,Asia,Central Asia
+Tajikistan,2010,,,,Asia,Central Asia
+Tajikistan,2011,,,,Asia,Central Asia
+Tajikistan,2012,,,,Asia,Central Asia
+Tajikistan,2013,,,,Asia,Central Asia
+Tajikistan,2014,,,,Asia,Central Asia
+Tajikistan,2015,,,,Asia,Central Asia
+Tajikistan,2016,899320.312,0.129577707,769,Asia,Central Asia
+Tajikistan,2017,983825.951,0.138454019,994,Asia,Central Asia
+Tajikistan,2018,1073858.043,0.139416372,809,Asia,Central Asia
+Tajikistan,2019,891973.123,0.120160522,794,Asia,Central Asia
+Tajikistan,2020,717905.65,0.330673926,575,Asia,Central Asia
+Tajikistan,2021,1476799.996,0.108950257,736,Asia,Central Asia
+Tajikistan,2022,1669060.47,0.149722998,667,Asia,Central Asia
+Thailand,1988,,0.324221217,,Asia,Southeast Asia
+Thailand,1989,20058259.46,0.18049117,3749,Asia,Southeast Asia
+Thailand,1990,23068719.1,0.181190697,3700,Asia,Southeast Asia
+Thailand,1991,28420868.1,0.17495275,3762,Asia,Southeast Asia
+Thailand,1992,32474400.77,0.161003775,3964,Asia,Southeast Asia
+Thailand,1993,37166833.66,0.142700066,4089,Asia,Southeast Asia
+Thailand,1994,45235494.91,0.131893089,4185,Asia,Southeast Asia
+Thailand,1995,56439341.06,0.120697318,4206,Asia,Southeast Asia
+Thailand,1996,55678127.62,0.105768743,4176,Asia,Southeast Asia
+Thailand,1997,58282513.31,0.096582373,4245,Asia,Southeast Asia
+Thailand,1998,53583494.95,0.097978699,4289,Asia,Southeast Asia
+Thailand,1999,58423032.13,0.096021144,4299,Asia,Southeast Asia
+Thailand,2000,68818989.57,0.084754429,4274,Asia,Southeast Asia
+Thailand,2001,64919225.91,0.078824924,4257,Asia,Southeast Asia
+Thailand,2002,68107865.05,0.079926272,4212,Asia,Southeast Asia
+Thailand,2003,80323274.4,0.071429495,4248,Asia,Southeast Asia
+Thailand,2004,96247901.28,0.068686537,4271,Asia,Southeast Asia
+Thailand,2005,110110034.2,0.068056144,4322,Asia,Southeast Asia
+Thailand,2006,130580046.1,0.066164169,4324,Asia,Southeast Asia
+Thailand,2007,153571126.2,0.059474854,4301,Asia,Southeast Asia
+Thailand,2008,175907915.3,0.054014442,4243,Asia,Southeast Asia
+Thailand,2009,152497202.6,0.056001386,4258,Asia,Southeast Asia
+Thailand,2010,195311520.3,0.057313964,4285,Asia,Southeast Asia
+Thailand,2011,228823972.7,0.056780845,4392,Asia,Southeast Asia
+Thailand,2012,229544513.3,0.057986385,4365,Asia,Southeast Asia
+Thailand,2013,228527440.4,0.057120973,4348,Asia,Southeast Asia
+Thailand,2014,227572764.1,0.055040404,4313,Asia,Southeast Asia
+Thailand,2015,214309375.8,0.056754703,4329,Asia,Southeast Asia
+Thailand,2016,215387295.5,0.057440789,4320,Asia,Southeast Asia
+Thailand,2017,236634037.7,0.056858449,4321,Asia,Southeast Asia
+Thailand,2018,252485154.1,0.057288909,4356,Asia,Southeast Asia
+Thailand,2019,246266050.3,0.060547845,4305,Asia,Southeast Asia
+Thailand,2020,231633852.3,0.070609238,4280,Asia,Southeast Asia
+Thailand,2021,272005785.5,0.074987025,4278,Asia,Southeast Asia
+Thailand,2022,287424243.4,0.073106607,4265,Asia,Southeast Asia
+Turkey,1988,,,,Asia,West Asia
+Turkey,1989,11627285.5,0.451280549,3601,Asia,West Asia
+Turkey,1990,12959381.5,0.463522024,3537,Asia,West Asia
+Turkey,1991,13593446.4,0.300927843,3509,Asia,West Asia
+Turkey,1992,14714607.62,0.2465084,3654,Asia,West Asia
+Turkey,1993,15348913.15,0.1813284,3742,Asia,West Asia
+Turkey,1994,18106030.08,0.118441406,4059,Asia,West Asia
+Turkey,1995,21598625.79,0.118792273,4138,Asia,West Asia
+Turkey,1996,23047716.86,0.102019544,4363,Asia,West Asia
+Turkey,1997,26244683.78,0.089290771,4445,Asia,West Asia
+Turkey,1998,26881361.92,0.086021222,4420,Asia,West Asia
+Turkey,1999,26587173.65,0.083509621,4378,Asia,West Asia
+Turkey,2000,27774906.05,0.08246441,4391,Asia,West Asia
+Turkey,2001,31333944.4,0.06869428,4389,Asia,West Asia
+Turkey,2002,36059088.6,0.065360069,4266,Asia,West Asia
+Turkey,2003,47252563.93,0.059923462,4341,Asia,West Asia
+Turkey,2004,63167152.82,0.057085613,4372,Asia,West Asia
+Turkey,2005,73476408.14,0.053097793,4402,Asia,West Asia
+Turkey,2006,85534462.3,0.05046069,4423,Asia,West Asia
+Turkey,2007,107271749.9,0.043136063,4244,Asia,West Asia
+Turkey,2008,132027195.6,0.036141716,4252,Asia,West Asia
+Turkey,2009,102142612.6,0.03690768,4262,Asia,West Asia
+Turkey,2010,113883219.2,0.036543394,4286,Asia,West Asia
+Turkey,2011,134906868.8,0.038478378,4303,Asia,West Asia
+Turkey,2012,152461736.6,0.036671085,4300,Asia,West Asia
+Turkey,2013,161480914.7,0.033353281,4324,Asia,West Asia
+Turkey,2014,166504861.8,0.034123112,4355,Asia,West Asia
+Turkey,2015,150982113.8,0.034994859,4329,Asia,West Asia
+Turkey,2016,149246999.3,0.036699057,4329,Asia,West Asia
+Turkey,2017,164494619.3,0.03464508,4326,Asia,West Asia
+Turkey,2018,177168756.3,0.032420435,4321,Asia,West Asia
+Turkey,2019,180832721.7,0.03000266,4308,Asia,West Asia
+Turkey,2020,169657939.8,0.031895275,4345,Asia,West Asia
+Turkey,2021,225214458,0.031498558,4397,Asia,West Asia
+Turkey,2022,254169747.7,0.033240328,4401,Asia,West Asia
+Turkmenistan,1988,,,,Asia,Central Asia
+Turkmenistan,1989,,,,Asia,Central Asia
+Turkmenistan,1990,,,,Asia,Central Asia
+Turkmenistan,1991,,,,Asia,Central Asia
+Turkmenistan,1992,,,,Asia,Central Asia
+Turkmenistan,1993,,,,Asia,Central Asia
+Turkmenistan,1994,,,,Asia,Central Asia
+Turkmenistan,1995,,,,Asia,Central Asia
+Turkmenistan,1996,,,,Asia,Central Asia
+Turkmenistan,1997,751093.563,0.476939764,,Asia,Central Asia
+Turkmenistan,1998,593857.678,0.08921353,,Asia,Central Asia
+Turkmenistan,1999,1186990.848,0.253315187,398,Asia,Central Asia
+Turkmenistan,2000,2505545.544,0.293721005,418,Asia,Central Asia
+Turkmenistan,2001,,,,Asia,Central Asia
+Turkmenistan,2002,,,,Asia,Central Asia
+Turkmenistan,2003,,,,Asia,Central Asia
+Turkmenistan,2004,,,,Asia,Central Asia
+Turkmenistan,2005,,,,Asia,Central Asia
+Turkmenistan,2006,,,,Asia,Central Asia
+Turkmenistan,2007,,,,Asia,Central Asia
+Turkmenistan,2008,,,,Asia,Central Asia
+Turkmenistan,2009,,,,Asia,Central Asia
+Turkmenistan,2010,,,,Asia,Central Asia
+Turkmenistan,2011,,,,Asia,Central Asia
+Turkmenistan,2012,,,,Asia,Central Asia
+Turkmenistan,2013,,,,Asia,Central Asia
+Turkmenistan,2014,,,,Asia,Central Asia
+Turkmenistan,2015,,,,Asia,Central Asia
+Turkmenistan,2016,,,,Asia,Central Asia
+Turkmenistan,2017,,,,Asia,Central Asia
+Turkmenistan,2018,,,,Asia,Central Asia
+Turkmenistan,2019,,,,Asia,Central Asia
+Turkmenistan,2020,,,,Asia,Central Asia
+Turkmenistan,2021,,,,Asia,Central Asia
+Turkmenistan,2022,,,,Asia,Central Asia
+United Arab Emirates,1988,,,,Asia,West Asia
+United Arab Emirates,1989,,,,Asia,West Asia
+United Arab Emirates,1990,,,,Asia,West Asia
+United Arab Emirates,1991,485589.888,0.345153718,158,Asia,West Asia
+United Arab Emirates,1992,504472.832,0.324518522,178,Asia,West Asia
+United Arab Emirates,1993,3379667.968,0.279444477,235,Asia,West Asia
+United Arab Emirates,1994,,,,Asia,West Asia
+United Arab Emirates,1995,,,,Asia,West Asia
+United Arab Emirates,1996,,,,Asia,West Asia
+United Arab Emirates,1997,,,,Asia,West Asia
+United Arab Emirates,1998,,,,Asia,West Asia
+United Arab Emirates,1999,26479226.34,0.15782578,,Asia,West Asia
+United Arab Emirates,2000,37719889.28,0.189077272,1,Asia,West Asia
+United Arab Emirates,2001,32669157.3,0.157731799,1,Asia,West Asia
+United Arab Emirates,2002,52163400,0.13933943,1,Asia,West Asia
+United Arab Emirates,2003,67135000,0.118738221,1,Asia,West Asia
+United Arab Emirates,2004,90638000,0.111687639,1,Asia,West Asia
+United Arab Emirates,2005,115452993.2,0.116141481,4256,Asia,West Asia
+United Arab Emirates,2006,142505000,0.122121397,1,Asia,West Asia
+United Arab Emirates,2007,156634000,0.106891411,4436,Asia,West Asia
+United Arab Emirates,2008,210000000,0.112683286,4188,Asia,West Asia
+United Arab Emirates,2009,174725000,0.092694511,1,Asia,West Asia
+United Arab Emirates,2010,198362000,0.085805509,1,Asia,West Asia
+United Arab Emirates,2011,252556000,0.0816533,1,Asia,West Asia
+United Arab Emirates,2012,350123000,0.081253735,4321,Asia,West Asia
+United Arab Emirates,2013,371217682.1,0.066173132,4244,Asia,West Asia
+United Arab Emirates,2014,343043069.6,0.062700203,4272,Asia,West Asia
+United Arab Emirates,2015,300478647.8,0.053305994,4256,Asia,West Asia
+United Arab Emirates,2016,295046691.1,0.049664095,4260,Asia,West Asia
+United Arab Emirates,2017,313599362.1,0.047286759,4300,Asia,West Asia
+United Arab Emirates,2018,387964272.1,0.051965882,4351,Asia,West Asia
+United Arab Emirates,2019,389427993.9,0.053299966,4361,Asia,West Asia
+United Arab Emirates,2020,335296907.9,0.051342712,4358,Asia,West Asia
+United Arab Emirates,2021,425159796.5,0.061359497,4377,Asia,West Asia
+United Arab Emirates,2022,515621189,0.066651424,4374,Asia,West Asia
+Uzbekistan,1988,,,,Asia,Central Asia
+Uzbekistan,1989,,,,Asia,Central Asia
+Uzbekistan,1990,,,,Asia,Central Asia
+Uzbekistan,1991,,,,Asia,Central Asia
+Uzbekistan,1992,,,,Asia,Central Asia
+Uzbekistan,1993,,,,Asia,Central Asia
+Uzbekistan,1994,,,,Asia,Central Asia
+Uzbekistan,1995,,,,Asia,Central Asia
+Uzbekistan,1996,,,,Asia,Central Asia
+Uzbekistan,1997,,,,Asia,Central Asia
+Uzbekistan,1998,,,,Asia,Central Asia
+Uzbekistan,1999,,,,Asia,Central Asia
+Uzbekistan,2000,,,,Asia,Central Asia
+Uzbekistan,2001,,,,Asia,Central Asia
+Uzbekistan,2002,,,,Asia,Central Asia
+Uzbekistan,2003,,,,Asia,Central Asia
+Uzbekistan,2004,,,,Asia,Central Asia
+Uzbekistan,2005,,,,Asia,Central Asia
+Uzbekistan,2006,,,,Asia,Central Asia
+Uzbekistan,2007,,,,Asia,Central Asia
+Uzbekistan,2008,,,,Asia,Central Asia
+Uzbekistan,2009,,,,Asia,Central Asia
+Uzbekistan,2010,,,,Asia,Central Asia
+Uzbekistan,2011,,,,Asia,Central Asia
+Uzbekistan,2012,,,,Asia,Central Asia
+Uzbekistan,2013,,,,Asia,Central Asia
+Uzbekistan,2014,,,,Asia,Central Asia
+Uzbekistan,2015,,,,Asia,Central Asia
+Uzbekistan,2016,,,,Asia,Central Asia
+Uzbekistan,2017,10079471,0.204793709,1567,Asia,Central Asia
+Uzbekistan,2018,10919011.73,0.15394796,1675,Asia,Central Asia
+Uzbekistan,2019,14929506.69,0.126740763,1789,Asia,Central Asia
+Uzbekistan,2020,13280562.71,0.293416715,2174,Asia,Central Asia
+Uzbekistan,2021,14092247.99,0.110542553,2341,Asia,Central Asia
+Uzbekistan,2022,15286928.44,0.166149188,2565,Asia,Central Asia
+Vietnam,1988,,,,Asia,Southeast Asia
+Vietnam,1989,,,,Asia,Southeast Asia
+Vietnam,1990,,,,Asia,Southeast Asia
+Vietnam,1991,,,,Asia,Southeast Asia
+Vietnam,1992,,,,Asia,Southeast Asia
+Vietnam,1993,,,,Asia,Southeast Asia
+Vietnam,1994,,,,Asia,Southeast Asia
+Vietnam,1995,,,,Asia,Southeast Asia
+Vietnam,1996,,,,Asia,Southeast Asia
+Vietnam,1997,,,,Asia,Southeast Asia
+Vietnam,1998,,,,Asia,Southeast Asia
+Vietnam,1999,,,,Asia,Southeast Asia
+Vietnam,2000,14482743,0.065609073,1141,Asia,Southeast Asia
+Vietnam,2001,15029192.45,0.063220487,2397,Asia,Southeast Asia
+Vietnam,2002,16706052.54,0.068133838,2796,Asia,Southeast Asia
+Vietnam,2003,20149323.75,0.085807535,2882,Asia,Southeast Asia
+Vietnam,2004,26485034.71,0.078499932,3167,Asia,Southeast Asia
+Vietnam,2005,32447129.17,0.077705987,3252,Asia,Southeast Asia
+Vietnam,2006,39826222.8,0.080502814,3399,Asia,Southeast Asia
+Vietnam,2007,48561343.19,0.078348584,3391,Asia,Southeast Asia
+Vietnam,2008,62685129.7,0.074827676,3256,Asia,Southeast Asia
+Vietnam,2009,57096274.46,0.07041749,3298,Asia,Southeast Asia
+Vietnam,2010,72236665,0.071239824,3316,Asia,Southeast Asia
+Vietnam,2011,96905673.96,0.068645647,3320,Asia,Southeast Asia
+Vietnam,2012,114529171,0.063938738,3536,Asia,Southeast Asia
+Vietnam,2013,132032854,0.061437746,3501,Asia,Southeast Asia
+Vietnam,2014,150217138.8,0.066704095,3589,Asia,Southeast Asia
+Vietnam,2015,162016742.5,0.076814761,3688,Asia,Southeast Asia
+Vietnam,2016,176580786.6,0.082240531,3783,Asia,Southeast Asia
+Vietnam,2017,215118607,0.082520332,3831,Asia,Southeast Asia
+Vietnam,2018,243698698.3,0.08901911,3798,Asia,Southeast Asia
+Vietnam,2019,264610322.6,0.094493246,3784,Asia,Southeast Asia
+Vietnam,2020,281441457.2,0.114400187,3732,Asia,Southeast Asia
+Vietnam,2021,335792597.8,0.120933003,3740,Asia,Southeast Asia
+Vietnam,2022,370909157.4,0.126007399,3730,Asia,Southeast Asia
+Yemen,1988,,,,Asia,West Asia
+Yemen,1989,,,,Asia,West Asia
+Yemen,1990,,,,Asia,West Asia
+Yemen,1991,,,,Asia,West Asia
+Yemen,1992,,,,Asia,West Asia
+Yemen,1993,,,,Asia,West Asia
+Yemen,1994,,,,Asia,West Asia
+Yemen,1995,,,,Asia,West Asia
+Yemen,1996,,,,Asia,West Asia
+Yemen,1997,,,,Asia,West Asia
+Yemen,1998,,,,Asia,West Asia
+Yemen,1999,,,,Asia,West Asia
+Yemen,2000,,,,Asia,West Asia
+Yemen,2001,,,,Asia,West Asia
+Yemen,2002,,,,Asia,West Asia
+Yemen,2003,,,,Asia,West Asia
+Yemen,2004,4072486.78,0.243885343,939,Asia,West Asia
+Yemen,2005,5607665.601,0.272368807,1109,Asia,West Asia
+Yemen,2006,6654084.088,0.18069095,1136,Asia,West Asia
+Yemen,2007,6298942.738,0.158066015,1203,Asia,West Asia
+Yemen,2008,7583784.105,0.216547984,1296,Asia,West Asia
+Yemen,2009,6258955.204,0.145275375,1383,Asia,West Asia
+Yemen,2010,6437477.01,0.200006813,1288,Asia,West Asia
+Yemen,2011,6947667.409,0.146738545,973,Asia,West Asia
+Yemen,2012,7062059.466,0.226838329,1152,Asia,West Asia
+Yemen,2013,7129806.232,0.160365835,571,Asia,West Asia
+Yemen,2014,2416887.808,0.187545737,1112,Asia,West Asia
+Yemen,2015,509857.735,0.242501206,773,Asia,West Asia
+Yemen,2016,,,,Asia,West Asia
+Yemen,2017,,,,Asia,West Asia
+Yemen,2018,15456.13207,0.211956442,24,Asia,West Asia
+Yemen,2019,23783.55327,0.295983555,62,Asia,West Asia
+Yemen,2020,,,,Asia,West Asia
+Yemen,2021,,,,Asia,West Asia
+Yemen,2022,,,,Asia,West Asia

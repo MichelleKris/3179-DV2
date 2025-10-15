@@ -1,0 +1,100 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": { "text": "Export Value Index — Change since 2000 (Lollipop)", "fontSize": 16, "anchor": "middle" },
+
+  "data": { "url": "data/export_value_index_with_region.csv", "format": { "type": "csv" } },
+
+  "params": [
+    {
+      "name": "pick_region",
+      "value": "Southeast Asia",
+      "bind": {
+        "input": "select",
+        "name": "Subregion: ",
+        "options": ["Central Asia","East Asia","North Asia","South Asia","Southeast Asia","West Asia","All"]
+      }
+    }
+  ],
+
+  "transform": [
+    { "calculate": "isValid(datum['Region']) ? datum['Region'] : datum.region", "as": "sr" },
+    { "calculate": "isValid(datum['Country Name']) ? datum['Country Name'] : datum.country", "as": "cn" },
+    { "calculate": "toNumber(isValid(datum['Year']) ? datum['Year'] : datum.year)", "as": "yr" },
+    {
+      "calculate": "toNumber(isValid(datum['Export Value Index']) ? datum['Export Value Index'] : (isValid(datum.ExportValueIndex) ? datum.ExportValueIndex : datum.Index))",
+      "as": "val"
+    },
+
+    { "filter": "isValid(datum.sr) && isValid(datum.cn) && isFinite(datum.yr) && isFinite(datum.val)" },
+    { "filter": "pick_region == 'All' || datum.sr == pick_region" },
+
+    { "filter": "datum.yr >= 2000" },
+    {
+      "aggregate": [
+        { "op": "argmin", "field": "yr", "as": "first" },
+        { "op": "argmax", "field": "yr", "as": "last" }
+      ],
+      "groupby": ["cn","sr"]
+    },
+
+    { "calculate": "toNumber(datum.first.val)", "as": "v0" },
+    { "calculate": "toNumber(datum.last.val)",  "as": "v1" },
+    { "calculate": "datum.v1 - datum.v0", "as": "delta" },
+    { "filter": "isFinite(datum.v0) && isFinite(datum.v1)" }
+  ],
+
+  "width": 900,
+  "height": { "step": 28 },
+
+  "encoding": {
+    "y": {
+      "field": "cn",
+      "type": "nominal",
+      "title": null,
+      "sort": { "field": "delta", "order": "ascending" }
+    }
+  },
+
+  "layer": [
+    {
+      "mark": { "type": "rule", "strokeWidth": 6, "opacity": 0.35 },
+      "encoding": {
+        "x": { "field": "v0", "type": "quantitative", "title": "Export Value Index (2000 = 100)" },
+        "x2": { "field": "v1" },
+        "color": { "value": "#20b2aa" }
+      }
+    },
+    {
+      "mark": { "type": "point", "filled": true, "size": 90, "stroke": "white", "strokeWidth": 1.2 },
+      "encoding": { "x": { "field": "v0", "type": "quantitative" }, "color": { "value": "#4cb7a5" } }
+    },
+    {
+      "mark": { "type": "point", "filled": true, "size": 130, "stroke": "white", "strokeWidth": 1.2 },
+      "encoding": {
+        "x": { "field": "v1", "type": "quantitative" },
+        "color": { "value": "#017371" },
+        "tooltip": [
+          { "field": "cn", "title": "Country" },
+          { "field": "sr", "title": "Subregion" },
+          { "field": "v0", "title": "Index at start (≥2000)", "format": ".1f" },
+          { "field": "v1", "title": "Index latest", "format": ".1f" },
+          { "field": "delta", "title": "Change", "format": "+,.1f" }
+        ]
+      }
+    },
+    {
+      "mark": { "type": "text", "dx": 8, "align": "left", "baseline": "middle", "fontSize": 12 },
+      "encoding": {
+        "x": { "field": "v1", "type": "quantitative" },
+        "text": { "field": "delta", "type": "quantitative", "format": "+,.1f" },
+        "color": { "value": "#2879a6" }
+      }
+    }
+  ],
+
+  "config": {
+    "axis": { "labelFontSize": 12, "titleFontSize": 12, "grid": true },
+    "view": { "stroke": null },
+    "background": "#fff"
+  }
+}
