@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "Trade word cloud sized by total trade flow (2022)",
+  "width": 700,
+  "height": 450,
+  "data": [
+    {
+      "name": "table",
+      "url": "data/Trade Cloud_data.csv",
+      "format": {"type": "csv"},
+      "transform": [
+        {"type": "formula", "as": "country", "expr": "datum['Reporter']"},
+        {"type": "formula", "as": "region", "expr": "datum['ReporterRegion']"},
+        {"type": "formula", "as": "value", "expr": "toNumber(datum['Trade Flow Selection'])"},
+        {"type": "filter", "expr": "isFinite(datum.value) && datum.value > 0"},
+        {"type": "formula", "as": "size", "expr": "sqrt(datum.value) / 350"}
+      ]
+    },
+    {
+      "name": "layout",
+      "source": "table",
+      "transform": [
+        {
+          "type": "wordcloud",
+          "size": [700, 450],
+          "text": {"field": "country"},
+          "font": "Inter",
+          "fontSize": {"field": "size"},
+          "rotate": {"expr": "[-45, 0, 45][~~(random() * 3)]"},
+          "padding": 2,
+          "spiral": "archimedean"
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "region"},
+      "range": {"scheme": "tealblues"}
+    }
+  ],
+  "marks": [
+    {
+      "type": "text",
+      "from": {"data": "layout"},
+      "encode": {
+        "enter": {
+          "text": {"field": "country"},
+          "align": {"value": "center"},
+          "baseline": {"value": "alphabetic"},
+          "fill": {"scale": "color", "field": "region"},
+          "font": {"value": "Inter"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "fontSize": {"field": "fontSize"},
+          "angle": {"field": "angle"},
+          "fillOpacity": {"value": 0.9},
+          "tooltip": {
+            "signal": "datum.country + ' — ' + datum.region + ': ' + format(datum.value, ',.2f')"
+          }
+        }
+      }
+    }
+  ],
+  "config": {"background": "#ffffff"}
+}

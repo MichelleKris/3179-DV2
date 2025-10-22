@@ -53,7 +53,7 @@
     "opacity": {
       "condition": {
         "test": "region_dropdown == 'All' || datum.subregion == region_dropdown",
-        "value": 0.98
+        "value": 0.6
       },
       "value": 0.15
     },

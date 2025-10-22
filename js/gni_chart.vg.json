@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "GNI per Capita",
+  "data": { "url": "data/gni_latest.csv", "format": { "type": "csv" } },
+
+  "transform": [
+    {
+      "filter": "indexof(['Singapore','China','Japan','Korea, Rep.','India','Malaysia','Vietnam','Thailand','Singapore','Saudi Arabia','United Arab Emirates','Israel','Kazakhstan', 'Oman'], datum['Country Name']) >= 0"
+    },
+    { "calculate": "toNumber(datum['GNI_per_capita'])", "as": "gni" },
+    { "calculate": "ceil(datum.gni / 5000)", "as": "coin_count" },
+    { "calculate": "sequence(1, datum.coin_count + 1)", "as": "coins" },
+    { "flatten": ["coins"] },
+    { "calculate": "datum.coins - 1", "as": "i" },
+    { "calculate": "datum.i % 10", "as": "col" },
+    { "calculate": "floor(datum.i / 10)", "as": "row" }
+  ],
+
+  "mark": {
+    "type": "image",
+    "width": 24,
+    "height": 24,
+    "url": "img/dollar.png"
+  },
+
+  "encoding": {
+    "x": {
+      "field": "col",
+      "type": "ordinal",
+      "axis": {
+        "title": "Each Coin ≈ $5,000 GNI per Capita",
+        "labels": false,
+        "ticks": false
+      }
+    },
+    "y": {
+      "field": "Country Name",
+      "type": "nominal",
+      "sort": {"field": "gni", "order": "descending"},
+      "title": null
+    },
+    "tooltip": [
+      { "field": "Country Name", "title": "Country" },
+      { "field": "gni", "title": "GNI per Capita (US$)", "format": ",.0f" }
+    ]
+  },
+
+  "width": 650,
+  "height": 480,
+
+  "config": {
+    "view": { "stroke": null },
+    "axis": { "labelFont": "Inter", "titleFont": "Inter" },
+    "background": "#ffffff",
+    "title": { "font": "Inter", "fontSize": 18, "anchor": "middle" }
+  }
+}

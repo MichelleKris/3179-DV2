@@ -1,6 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": { "text": "Export Value Index — Change since 2000 (Lollipop)", "fontSize": 16, "anchor": "middle" },
+  "title": {
+    "text": "Export Value Index — Change since 2000",
+    "fontSize": 16,
+    "anchor": "middle"
+  },
 
   "data": { "url": "data/export_value_index_with_region.csv", "format": { "type": "csv" } },
 
@@ -11,7 +15,15 @@
       "bind": {
         "input": "select",
         "name": "Subregion: ",
-        "options": ["Central Asia","East Asia","North Asia","South Asia","Southeast Asia","West Asia","All"]
+        "options": [
+          "Central Asia",
+          "East Asia",
+          "North Asia",
+          "South Asia",
+          "Southeast Asia",
+          "West Asia",
+          "All"
+        ]
       }
     }
   ],
@@ -24,23 +36,34 @@
       "calculate": "toNumber(isValid(datum['Export Value Index']) ? datum['Export Value Index'] : (isValid(datum.ExportValueIndex) ? datum.ExportValueIndex : datum.Index))",
       "as": "val"
     },
-
     { "filter": "isValid(datum.sr) && isValid(datum.cn) && isFinite(datum.yr) && isFinite(datum.val)" },
     { "filter": "pick_region == 'All' || datum.sr == pick_region" },
-
     { "filter": "datum.yr >= 2000" },
+
     {
       "aggregate": [
         { "op": "argmin", "field": "yr", "as": "first" },
         { "op": "argmax", "field": "yr", "as": "last" }
       ],
-      "groupby": ["cn","sr"]
+      "groupby": ["cn", "sr"]
     },
 
     { "calculate": "toNumber(datum.first.val)", "as": "v0" },
-    { "calculate": "toNumber(datum.last.val)",  "as": "v1" },
+    { "calculate": "toNumber(datum.last.val)", "as": "v1" },
     { "calculate": "datum.v1 - datum.v0", "as": "delta" },
-    { "filter": "isFinite(datum.v0) && isFinite(datum.v1)" }
+    { "filter": "isFinite(datum.v0) && isFinite(datum.v1)" },
+
+    {
+      "joinaggregate": [
+        { "op": "max", "field": "delta", "as": "max_delta" },
+        { "op": "min", "field": "delta", "as": "min_delta" }
+      ],
+      "groupby": ["sr"]
+    },
+    {
+      "calculate": "datum.delta === datum.max_delta ? 'max' : datum.delta === datum.min_delta ? 'min' : 'mid'",
+      "as": "rank_type"
+    }
   ],
 
   "width": 900,
@@ -59,23 +82,41 @@
     {
       "mark": { "type": "rule", "strokeWidth": 6, "opacity": 0.35 },
       "encoding": {
-        "x": { "field": "v0", "type": "quantitative", "title": "Export Value Index (2000 = 100)" },
+        "x": {
+          "field": "v0",
+          "type": "quantitative",
+          "title": "Export Value Index (2000 = 100)"
+        },
         "x2": { "field": "v1" },
         "color": { "value": "#20b2aa" }
       }
     },
     {
-      "mark": { "type": "point", "filled": true, "size": 90, "stroke": "white", "strokeWidth": 1.2 },
-      "encoding": { "x": { "field": "v0", "type": "quantitative" }, "color": { "value": "#4cb7a5" } }
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 90,
+        "stroke": "white",
+        "strokeWidth": 1.2
+      },
+      "encoding": {
+        "x": { "field": "v0", "type": "quantitative" },
+        "color": { "value": "#4cb7a5" }
+      }
     },
     {
-      "mark": { "type": "point", "filled": true, "size": 130, "stroke": "white", "strokeWidth": 1.2 },
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 130,
+        "stroke": "white",
+        "strokeWidth": 1.2
+      },
       "encoding": {
         "x": { "field": "v1", "type": "quantitative" },
         "color": { "value": "#017371" },
         "tooltip": [
           { "field": "cn", "title": "Country" },
-          { "field": "sr", "title": "Subregion" },
           { "field": "v0", "title": "Index at start (≥2000)", "format": ".1f" },
           { "field": "v1", "title": "Index latest", "format": ".1f" },
           { "field": "delta", "title": "Change", "format": "+,.1f" }
@@ -83,11 +124,21 @@
       }
     },
     {
-      "mark": { "type": "text", "dx": 8, "align": "left", "baseline": "middle", "fontSize": 12 },
+      "transform": [
+        { "filter": "datum.rank_type == 'max' || datum.rank_type == 'min'" }
+      ],
+      "mark": {
+        "type": "text",
+        "dx": 8,
+        "align": "left",
+        "baseline": "middle",
+        "fontSize": 12,
+        "color": "black",
+        "fontWeight": "bold"
+      },
       "encoding": {
         "x": { "field": "v1", "type": "quantitative" },
-        "text": { "field": "delta", "type": "quantitative", "format": "+,.1f" },
-        "color": { "value": "#2879a6" }
+        "text": { "field": "delta", "type": "quantitative", "format": "+,.1f" }
       }
     }
   ],

@@ -1,154 +1,13 @@
 country,year,value,tariff_type
-Afghanistan,1988,,Dutiable TL %
-Afghanistan,1988,,Duty-Free TL %
-Afghanistan,1988,,Specific TL %
-Afghanistan,1989,,Dutiable TL %
-Afghanistan,1989,,Duty-Free TL %
-Afghanistan,1989,,Specific TL %
-Afghanistan,1990,,Dutiable TL %
-Afghanistan,1990,,Duty-Free TL %
-Afghanistan,1990,,Specific TL %
-Afghanistan,1991,,Dutiable TL %
-Afghanistan,1991,,Duty-Free TL %
-Afghanistan,1991,,Specific TL %
-Afghanistan,1992,,Dutiable TL %
-Afghanistan,1992,,Duty-Free TL %
-Afghanistan,1992,,Specific TL %
-Afghanistan,1993,,Dutiable TL %
-Afghanistan,1993,,Duty-Free TL %
-Afghanistan,1993,,Specific TL %
-Afghanistan,1994,,Dutiable TL %
-Afghanistan,1994,,Duty-Free TL %
-Afghanistan,1994,,Specific TL %
-Afghanistan,1995,,Dutiable TL %
-Afghanistan,1995,,Duty-Free TL %
-Afghanistan,1995,,Specific TL %
-Afghanistan,1996,,Dutiable TL %
-Afghanistan,1996,,Duty-Free TL %
-Afghanistan,1996,,Specific TL %
-Afghanistan,1997,,Dutiable TL %
-Afghanistan,1997,,Duty-Free TL %
-Afghanistan,1997,,Specific TL %
-Afghanistan,1998,,Dutiable TL %
-Afghanistan,1998,,Duty-Free TL %
-Afghanistan,1998,,Specific TL %
-Afghanistan,1999,,Dutiable TL %
-Afghanistan,1999,,Duty-Free TL %
-Afghanistan,1999,,Specific TL %
-Afghanistan,2000,,Dutiable TL %
-Afghanistan,2000,,Duty-Free TL %
-Afghanistan,2000,,Specific TL %
-Afghanistan,2001,,Dutiable TL %
-Afghanistan,2001,,Duty-Free TL %
-Afghanistan,2001,,Specific TL %
-Afghanistan,2002,,Dutiable TL %
-Afghanistan,2002,,Duty-Free TL %
-Afghanistan,2002,,Specific TL %
-Afghanistan,2003,,Dutiable TL %
-Afghanistan,2003,,Duty-Free TL %
-Afghanistan,2003,,Specific TL %
-Afghanistan,2004,,Dutiable TL %
-Afghanistan,2004,,Duty-Free TL %
-Afghanistan,2004,,Specific TL %
-Afghanistan,2005,,Dutiable TL %
-Afghanistan,2005,,Duty-Free TL %
-Afghanistan,2005,,Specific TL %
-Afghanistan,2006,,Dutiable TL %
-Afghanistan,2006,,Duty-Free TL %
-Afghanistan,2006,,Specific TL %
-Afghanistan,2007,,Dutiable TL %
-Afghanistan,2007,,Duty-Free TL %
-Afghanistan,2007,,Specific TL %
-Afghanistan,2008,99.29359823399558,Dutiable TL %
-Afghanistan,2008,0.7064017660044151,Duty-Free TL %
-Afghanistan,2008,0.0,Specific TL %
-Afghanistan,2009,,Dutiable TL %
-Afghanistan,2009,,Duty-Free TL %
-Afghanistan,2009,,Specific TL %
-Afghanistan,2010,,Dutiable TL %
-Afghanistan,2010,,Duty-Free TL %
-Afghanistan,2010,,Specific TL %
-Afghanistan,2011,,Dutiable TL %
-Afghanistan,2011,,Duty-Free TL %
-Afghanistan,2011,,Specific TL %
-Afghanistan,2012,99.37805419813417,Dutiable TL %
-Afghanistan,2012,0.6219458018658374,Duty-Free TL %
-Afghanistan,2012,0.0,Specific TL %
-Afghanistan,2013,99.37805419813417,Dutiable TL %
-Afghanistan,2013,0.6219458018658374,Duty-Free TL %
-Afghanistan,2013,0.0,Specific TL %
-Afghanistan,2014,,Dutiable TL %
-Afghanistan,2014,,Duty-Free TL %
-Afghanistan,2014,,Specific TL %
-Afghanistan,2015,,Dutiable TL %
-Afghanistan,2015,,Duty-Free TL %
-Afghanistan,2015,,Specific TL %
-Afghanistan,2016,,Dutiable TL %
-Afghanistan,2016,,Duty-Free TL %
-Afghanistan,2016,,Specific TL %
-Afghanistan,2017,,Dutiable TL %
-Afghanistan,2017,,Duty-Free TL %
-Afghanistan,2017,,Specific TL %
-Afghanistan,2018,98.73464830666171,Dutiable TL %
-Afghanistan,2018,0.5210271678451805,Duty-Free TL %
-Afghanistan,2018,0.744324525493115,Specific TL %
-Afghanistan,2019,,Dutiable TL %
-Afghanistan,2019,,Duty-Free TL %
-Afghanistan,2019,,Specific TL %
-Afghanistan,2020,,Dutiable TL %
-Afghanistan,2020,,Duty-Free TL %
-Afghanistan,2020,,Specific TL %
-Afghanistan,2021,,Dutiable TL %
-Afghanistan,2021,,Duty-Free TL %
-Afghanistan,2021,,Specific TL %
-Afghanistan,2022,,Dutiable TL %
-Afghanistan,2022,,Duty-Free TL %
-Afghanistan,2022,,Specific TL %
-Armenia,1988,,Dutiable TL %
-Armenia,1988,,Duty-Free TL %
-Armenia,1988,,Specific TL %
-Armenia,1989,,Dutiable TL %
-Armenia,1989,,Duty-Free TL %
-Armenia,1989,,Specific TL %
-Armenia,1990,,Dutiable TL %
-Armenia,1990,,Duty-Free TL %
-Armenia,1990,,Specific TL %
-Armenia,1991,,Dutiable TL %
-Armenia,1991,,Duty-Free TL %
-Armenia,1991,,Specific TL %
-Armenia,1992,,Dutiable TL %
-Armenia,1992,,Duty-Free TL %
-Armenia,1992,,Specific TL %
-Armenia,1993,,Dutiable TL %
-Armenia,1993,,Duty-Free TL %
-Armenia,1993,,Specific TL %
-Armenia,1994,,Dutiable TL %
-Armenia,1994,,Duty-Free TL %
-Armenia,1994,,Specific TL %
-Armenia,1995,,Dutiable TL %
-Armenia,1995,,Duty-Free TL %
-Armenia,1995,,Specific TL %
-Armenia,1996,,Dutiable TL %
-Armenia,1996,,Duty-Free TL %
-Armenia,1996,,Specific TL %
-Armenia,1997,,Dutiable TL %
-Armenia,1997,,Duty-Free TL %
-Armenia,1997,,Specific TL %
-Armenia,1998,,Dutiable TL %
-Armenia,1998,,Duty-Free TL %
-Armenia,1998,,Specific TL %
-Armenia,1999,,Dutiable TL %
-Armenia,1999,,Duty-Free TL %
-Armenia,1999,,Specific TL %
-Armenia,2000,,Dutiable TL %
-Armenia,2000,,Duty-Free TL %
-Armenia,2000,,Specific TL %
+Armenia,2000,NA,Dutiable TL %
+Armenia,2000,NA,Duty-Free TL %
+Armenia,2000,NA,Specific TL %
 Armenia,2001,32.90781170668021,Dutiable TL %
-Armenia,2001,67.0921882933198,Duty-Free TL %
-Armenia,2001,0.0,Specific TL %
-Armenia,2002,,Dutiable TL %
-Armenia,2002,,Duty-Free TL %
-Armenia,2002,,Specific TL %
+Armenia,2001,67.09218829,Duty-Free TL %
+Armenia,2001,0,Specific TL %
+Armenia,2002,NA,Dutiable TL %
+Armenia,2002,NA,Duty-Free TL %
+Armenia,2002,NA,Specific TL %
 Armenia,2003,30.92587907918037,Dutiable TL %
 Armenia,2003,68.61033813980943,Duty-Free TL %
 Armenia,2003,0.11805379880259718,Specific TL %
@@ -159,29 +18,29 @@ Armenia,2005,32.80168745143026,Dutiable TL %
 Armenia,2005,66.59512267327833,Duty-Free TL %
 Armenia,2005,0.14062095252192577,Specific TL %
 Armenia,2006,30.68679692125518,Dutiable TL %
-Armenia,2006,68.7685020722321,Duty-Free TL %
+Armenia,2006,68.76850207,Duty-Free TL %
 Armenia,2006,0.14209591474245115,Specific TL %
 Armenia,2007,34.55366098294885,Dutiable TL %
-Armenia,2007,64.8740338663048,Duty-Free TL %
+Armenia,2007,64.87403387,Duty-Free TL %
 Armenia,2007,0.20650185851672664,Specific TL %
-Armenia,2008,33.3246894691803,Dutiable TL %
+Armenia,2008,33.32468947,Dutiable TL %
 Armenia,2008,66.23706661826103,Duty-Free TL %
 Armenia,2008,0.1452169177709203,Specific TL %
 Armenia,2009,44.302253106475526,Dutiable TL %
 Armenia,2009,54.73629769119578,Duty-Free TL %
-Armenia,2009,0.0,Specific TL %
+Armenia,2009,0,Specific TL %
 Armenia,2010,44.795100170652454,Dutiable TL %
-Armenia,2010,53.9098113472193,Duty-Free TL %
-Armenia,2010,0.0,Specific TL %
-Armenia,2011,45.5824648507659,Dutiable TL %
+Armenia,2010,53.90981135,Duty-Free TL %
+Armenia,2010,0,Specific TL %
+Armenia,2011,45.58246485,Dutiable TL %
 Armenia,2011,53.01042179080915,Duty-Free TL %
-Armenia,2011,0.0,Specific TL %
+Armenia,2011,0,Specific TL %
 Armenia,2012,48.44536274869197,Dutiable TL %
 Armenia,2012,50.43712022750247,Duty-Free TL %
-Armenia,2012,0.0,Specific TL %
+Armenia,2012,0,Specific TL %
 Armenia,2013,47.214812490193005,Dutiable TL %
 Armenia,2013,51.34159736387886,Duty-Free TL %
-Armenia,2013,0.0,Specific TL %
+Armenia,2013,0,Specific TL %
 Armenia,2014,47.17499358493077,Dutiable TL %
 Armenia,2014,52.66724323091398,Duty-Free TL %
 Armenia,2014,0.15776318415525417,Specific TL %
@@ -191,13 +50,13 @@ Armenia,2015,1.3950100844102487,Specific TL %
 Armenia,2016,49.008035062089114,Dutiable TL %
 Armenia,2016,36.19965911857804,Duty-Free TL %
 Armenia,2016,1.5709763817871927,Specific TL %
-Armenia,2017,47.9443331887522,Dutiable TL %
+Armenia,2017,47.94433319,Dutiable TL %
 Armenia,2017,37.12935704463865,Duty-Free TL %
 Armenia,2017,1.1009699240487638,Specific TL %
-Armenia,2018,,Dutiable TL %
-Armenia,2018,,Duty-Free TL %
-Armenia,2018,,Specific TL %
-Armenia,2019,56.8092700583149,Dutiable TL %
+Armenia,2018,NA,Dutiable TL %
+Armenia,2018,NA,Duty-Free TL %
+Armenia,2018,NA,Specific TL %
+Armenia,2019,56.80927006,Dutiable TL %
 Armenia,2019,30.807192171057043,Duty-Free TL %
 Armenia,2019,0.1332193846772572,Specific TL %
 Armenia,2020,54.71564161292776,Dutiable TL %
@@ -206,156 +65,15 @@ Armenia,2020,0.46315469197677467,Specific TL %
 Armenia,2021,54.50774499162817,Dutiable TL %
 Armenia,2021,30.619851747145585,Duty-Free TL %
 Armenia,2021,0.47033680827254293,Specific TL %
-Armenia,2022,,Dutiable TL %
-Armenia,2022,,Duty-Free TL %
-Armenia,2022,,Specific TL %
-Azerbaijan,1988,,Dutiable TL %
-Azerbaijan,1988,,Duty-Free TL %
-Azerbaijan,1988,,Specific TL %
-Azerbaijan,1989,,Dutiable TL %
-Azerbaijan,1989,,Duty-Free TL %
-Azerbaijan,1989,,Specific TL %
-Azerbaijan,1990,,Dutiable TL %
-Azerbaijan,1990,,Duty-Free TL %
-Azerbaijan,1990,,Specific TL %
-Azerbaijan,1991,,Dutiable TL %
-Azerbaijan,1991,,Duty-Free TL %
-Azerbaijan,1991,,Specific TL %
-Azerbaijan,1992,,Dutiable TL %
-Azerbaijan,1992,,Duty-Free TL %
-Azerbaijan,1992,,Specific TL %
-Azerbaijan,1993,,Dutiable TL %
-Azerbaijan,1993,,Duty-Free TL %
-Azerbaijan,1993,,Specific TL %
-Azerbaijan,1994,,Dutiable TL %
-Azerbaijan,1994,,Duty-Free TL %
-Azerbaijan,1994,,Specific TL %
-Azerbaijan,1995,,Dutiable TL %
-Azerbaijan,1995,,Duty-Free TL %
-Azerbaijan,1995,,Specific TL %
-Azerbaijan,1996,,Dutiable TL %
-Azerbaijan,1996,,Duty-Free TL %
-Azerbaijan,1996,,Specific TL %
-Azerbaijan,1997,,Dutiable TL %
-Azerbaijan,1997,,Duty-Free TL %
-Azerbaijan,1997,,Specific TL %
-Azerbaijan,1998,,Dutiable TL %
-Azerbaijan,1998,,Duty-Free TL %
-Azerbaijan,1998,,Specific TL %
-Azerbaijan,1999,,Dutiable TL %
-Azerbaijan,1999,,Duty-Free TL %
-Azerbaijan,1999,,Specific TL %
-Azerbaijan,2000,,Dutiable TL %
-Azerbaijan,2000,,Duty-Free TL %
-Azerbaijan,2000,,Specific TL %
-Azerbaijan,2001,,Dutiable TL %
-Azerbaijan,2001,,Duty-Free TL %
-Azerbaijan,2001,,Specific TL %
-Azerbaijan,2002,92.6472178369845,Dutiable TL %
-Azerbaijan,2002,1.063990830648126,Duty-Free TL %
-Azerbaijan,2002,1.0402024177677818,Specific TL %
-Azerbaijan,2003,,Dutiable TL %
-Azerbaijan,2003,,Duty-Free TL %
-Azerbaijan,2003,,Specific TL %
-Azerbaijan,2004,,Dutiable TL %
-Azerbaijan,2004,,Duty-Free TL %
-Azerbaijan,2004,,Specific TL %
-Azerbaijan,2005,96.00028749056672,Dutiable TL %
-Azerbaijan,2005,1.1679304272828548,Duty-Free TL %
-Azerbaijan,2005,0.9073921011966795,Specific TL %
-Azerbaijan,2006,,Dutiable TL %
-Azerbaijan,2006,,Duty-Free TL %
-Azerbaijan,2006,,Specific TL %
-Azerbaijan,2007,81.95806305626792,Dutiable TL %
-Azerbaijan,2007,15.586061246040126,Duty-Free TL %
-Azerbaijan,2007,0.7859405641876602,Specific TL %
-Azerbaijan,2008,82.3736069082589,Dutiable TL %
-Azerbaijan,2008,15.452062882869585,Duty-Free TL %
-Azerbaijan,2008,2.1743302088715035,Specific TL %
-Azerbaijan,2009,81.29211067042577,Dutiable TL %
-Azerbaijan,2009,16.61171373504723,Duty-Free TL %
-Azerbaijan,2009,0.6227998916869754,Specific TL %
-Azerbaijan,2010,,Dutiable TL %
-Azerbaijan,2010,,Duty-Free TL %
-Azerbaijan,2010,,Specific TL %
-Azerbaijan,2011,81.09026115039813,Dutiable TL %
-Azerbaijan,2011,16.934406147335597,Duty-Free TL %
-Azerbaijan,2011,0.05985856673534161,Specific TL %
-Azerbaijan,2012,81.44578659351076,Dutiable TL %
-Azerbaijan,2012,16.261867486319176,Duty-Free TL %
-Azerbaijan,2012,0.7167171767950247,Specific TL %
-Azerbaijan,2013,81.44578659351076,Dutiable TL %
-Azerbaijan,2013,16.261867486319176,Duty-Free TL %
-Azerbaijan,2013,0.7167171767950247,Specific TL %
-Azerbaijan,2014,82.32126302012325,Dutiable TL %
-Azerbaijan,2014,15.725036810819654,Duty-Free TL %
-Azerbaijan,2014,0.0,Specific TL %
-Azerbaijan,2015,82.35149763459624,Dutiable TL %
-Azerbaijan,2015,15.036333147009502,Duty-Free TL %
-Azerbaijan,2015,2.612169218394252,Specific TL %
-Azerbaijan,2016,,Dutiable TL %
-Azerbaijan,2016,,Duty-Free TL %
-Azerbaijan,2016,,Specific TL %
-Azerbaijan,2017,,Dutiable TL %
-Azerbaijan,2017,,Duty-Free TL %
-Azerbaijan,2017,,Specific TL %
-Azerbaijan,2018,,Dutiable TL %
-Azerbaijan,2018,,Duty-Free TL %
-Azerbaijan,2018,,Specific TL %
-Azerbaijan,2019,68.98749779890827,Dutiable TL %
-Azerbaijan,2019,28.453072724071138,Duty-Free TL %
-Azerbaijan,2019,0.39707695016728295,Specific TL %
-Azerbaijan,2020,68.65569663497125,Dutiable TL %
-Azerbaijan,2020,29.066788134145646,Duty-Free TL %
-Azerbaijan,2020,0.3700962250185048,Specific TL %
-Azerbaijan,2021,66.4423412070676,Dutiable TL %
-Azerbaijan,2021,30.99266250189917,Duty-Free TL %
-Azerbaijan,2021,0.4566944615742106,Specific TL %
-Azerbaijan,2022,67.0856321737125,Dutiable TL %
-Azerbaijan,2022,30.425411130231154,Duty-Free TL %
-Azerbaijan,2022,2.488956696056343,Specific TL %
-Bahrain,1988,,Dutiable TL %
-Bahrain,1988,,Duty-Free TL %
-Bahrain,1988,,Specific TL %
-Bahrain,1989,,Dutiable TL %
-Bahrain,1989,,Duty-Free TL %
-Bahrain,1989,,Specific TL %
-Bahrain,1990,,Dutiable TL %
-Bahrain,1990,,Duty-Free TL %
-Bahrain,1990,,Specific TL %
-Bahrain,1991,,Dutiable TL %
-Bahrain,1991,,Duty-Free TL %
-Bahrain,1991,,Specific TL %
-Bahrain,1992,,Dutiable TL %
-Bahrain,1992,,Duty-Free TL %
-Bahrain,1992,,Specific TL %
-Bahrain,1993,,Dutiable TL %
-Bahrain,1993,,Duty-Free TL %
-Bahrain,1993,,Specific TL %
-Bahrain,1994,,Dutiable TL %
-Bahrain,1994,,Duty-Free TL %
-Bahrain,1994,,Specific TL %
-Bahrain,1995,,Dutiable TL %
-Bahrain,1995,,Duty-Free TL %
-Bahrain,1995,,Specific TL %
-Bahrain,1996,,Dutiable TL %
-Bahrain,1996,,Duty-Free TL %
-Bahrain,1996,,Specific TL %
-Bahrain,1997,,Dutiable TL %
-Bahrain,1997,,Duty-Free TL %
-Bahrain,1997,,Specific TL %
-Bahrain,1998,,Dutiable TL %
-Bahrain,1998,,Duty-Free TL %
-Bahrain,1998,,Specific TL %
-Bahrain,1999,,Dutiable TL %
-Bahrain,1999,,Duty-Free TL %
-Bahrain,1999,,Specific TL %
+Armenia,2022,NA,Dutiable TL %
+Armenia,2022,NA,Duty-Free TL %
+Armenia,2022,NA,Specific TL %
 Bahrain,2000,98.39821505877651,Dutiable TL %
 Bahrain,2000,1.5684837989943055,Duty-Free TL %
-Bahrain,2000,0.03330114222917846,Specific TL %
+Bahrain,2000,0.033301142,Specific TL %
 Bahrain,2001,98.22705578593224,Dutiable TL %
 Bahrain,2001,1.7322588216884438,Duty-Free TL %
-Bahrain,2001,0.04068539237931304,Specific TL %
+Bahrain,2001,0.040685392,Specific TL %
 Bahrain,2002,95.57726550844603,Dutiable TL %
 Bahrain,2002,4.1724818326194715,Duty-Free TL %
 Bahrain,2002,0.25025265893450116,Specific TL %
@@ -373,7 +91,7 @@ Bahrain,2006,21.87265278251963,Duty-Free TL %
 Bahrain,2006,0.4779788323659952,Specific TL %
 Bahrain,2007,71.72213050656008,Dutiable TL %
 Bahrain,2007,28.11133315955629,Duty-Free TL %
-Bahrain,2007,0.05502939728328554,Specific TL %
+Bahrain,2007,0.055029397,Specific TL %
 Bahrain,2008,71.62014802440778,Dutiable TL %
 Bahrain,2008,27.985429572399713,Duty-Free TL %
 Bahrain,2008,0.31321779077051576,Specific TL %
@@ -383,18 +101,18 @@ Bahrain,2009,0.19079280190792802,Specific TL %
 Bahrain,2010,88.12240868706812,Dutiable TL %
 Bahrain,2010,11.505100361961171,Duty-Free TL %
 Bahrain,2010,0.37249095097071405,Specific TL %
-Bahrain,2011,71.4420626251593,Dutiable TL %
+Bahrain,2011,71.44206263,Dutiable TL %
 Bahrain,2011,28.389541234298196,Duty-Free TL %
 Bahrain,2011,0.16839614054250865,Specific TL %
-Bahrain,2012,71.4420626251593,Dutiable TL %
+Bahrain,2012,71.44206263,Dutiable TL %
 Bahrain,2012,28.389541234298196,Duty-Free TL %
 Bahrain,2012,0.16839614054250865,Specific TL %
-Bahrain,2013,77.9860454115421,Dutiable TL %
+Bahrain,2013,77.98604541,Dutiable TL %
 Bahrain,2013,21.399006622516556,Duty-Free TL %
 Bahrain,2013,0.5696152633238726,Specific TL %
 Bahrain,2014,73.06836693583702,Dutiable TL %
 Bahrain,2014,26.896600045542925,Duty-Free TL %
-Bahrain,2014,0.0,Specific TL %
+Bahrain,2014,0,Specific TL %
 Bahrain,2015,70.09933923675102,Dutiable TL %
 Bahrain,2015,29.362161190272847,Duty-Free TL %
 Bahrain,2015,0.5097316492111296,Specific TL %
@@ -406,8 +124,8 @@ Bahrain,2017,25.263039018238626,Duty-Free TL %
 Bahrain,2017,0.8582883171149467,Specific TL %
 Bahrain,2018,64.86224633596392,Dutiable TL %
 Bahrain,2018,34.21117531003382,Duty-Free TL %
-Bahrain,2018,0.838500563697858,Specific TL %
-Bahrain,2019,69.3042150749088,Dutiable TL %
+Bahrain,2018,0.838500564,Specific TL %
+Bahrain,2019,69.30421507,Dutiable TL %
 Bahrain,2019,29.800501979455067,Duty-Free TL %
 Bahrain,2019,0.8452575016603272,Specific TL %
 Bahrain,2020,69.17165252470234,Dutiable TL %
@@ -418,467 +136,11 @@ Bahrain,2021,29.49939523672784,Duty-Free TL %
 Bahrain,2021,0.9571792796790839,Specific TL %
 Bahrain,2022,69.43394158584032,Dutiable TL %
 Bahrain,2022,29.633587228523936,Duty-Free TL %
-Bahrain,2022,0.908725592269896,Specific TL %
-Bangladesh,1988,,Dutiable TL %
-Bangladesh,1988,,Duty-Free TL %
-Bangladesh,1988,,Specific TL %
-Bangladesh,1989,98.17346832272206,Dutiable TL %
-Bangladesh,1989,0.5323035173781443,Duty-Free TL %
-Bangladesh,1989,1.2942281598998018,Specific TL %
-Bangladesh,1990,,Dutiable TL %
-Bangladesh,1990,,Duty-Free TL %
-Bangladesh,1990,,Specific TL %
-Bangladesh,1991,,Dutiable TL %
-Bangladesh,1991,,Duty-Free TL %
-Bangladesh,1991,,Specific TL %
-Bangladesh,1992,,Dutiable TL %
-Bangladesh,1992,,Duty-Free TL %
-Bangladesh,1992,,Specific TL %
-Bangladesh,1993,,Dutiable TL %
-Bangladesh,1993,,Duty-Free TL %
-Bangladesh,1993,,Specific TL %
-Bangladesh,1994,,Dutiable TL %
-Bangladesh,1994,,Duty-Free TL %
-Bangladesh,1994,,Specific TL %
-Bangladesh,1995,,Dutiable TL %
-Bangladesh,1995,,Duty-Free TL %
-Bangladesh,1995,,Specific TL %
-Bangladesh,1996,,Dutiable TL %
-Bangladesh,1996,,Duty-Free TL %
-Bangladesh,1996,,Specific TL %
-Bangladesh,1997,,Dutiable TL %
-Bangladesh,1997,,Duty-Free TL %
-Bangladesh,1997,,Specific TL %
-Bangladesh,1998,93.56303252689844,Dutiable TL %
-Bangladesh,1998,6.434894375686714,Duty-Free TL %
-Bangladesh,1998,0.002073097414847524,Specific TL %
-Bangladesh,1999,,Dutiable TL %
-Bangladesh,1999,,Duty-Free TL %
-Bangladesh,1999,,Specific TL %
-Bangladesh,2000,90.95776323616894,Dutiable TL %
-Bangladesh,2000,9.018441403926234,Duty-Free TL %
-Bangladesh,2000,0.02379535990481856,Specific TL %
-Bangladesh,2001,92.55554111991685,Dutiable TL %
-Bangladesh,2001,7.4444588800831495,Duty-Free TL %
-Bangladesh,2001,0.0,Specific TL %
-Bangladesh,2002,92.30513286899428,Dutiable TL %
-Bangladesh,2002,7.694867131005723,Duty-Free TL %
-Bangladesh,2002,0.0,Specific TL %
-Bangladesh,2003,93.39086095312807,Dutiable TL %
-Bangladesh,2003,6.556841210694907,Duty-Free TL %
-Bangladesh,2003,0.05229783617702818,Specific TL %
-Bangladesh,2004,92.22208249496983,Dutiable TL %
-Bangladesh,2004,7.777917505030181,Duty-Free TL %
-Bangladesh,2004,0.0,Specific TL %
-Bangladesh,2005,92.82311263132176,Dutiable TL %
-Bangladesh,2005,7.066943562179331,Duty-Free TL %
-Bangladesh,2005,0.10994380649890056,Specific TL %
-Bangladesh,2006,92.63465212631218,Dutiable TL %
-Bangladesh,2006,7.234398815018355,Duty-Free TL %
-Bangladesh,2006,0.1309490586694717,Specific TL %
-Bangladesh,2007,92.1571172106504,Dutiable TL %
-Bangladesh,2007,7.61793524106158,Duty-Free TL %
-Bangladesh,2007,0.0,Specific TL %
-Bangladesh,2008,95.04000380988666,Dutiable TL %
-Bangladesh,2008,3.8956091056291076,Duty-Free TL %
-Bangladesh,2008,0.0023811791599199924,Specific TL %
-Bangladesh,2009,95.5745645676595,Dutiable TL %
-Bangladesh,2009,3.6318664330619397,Duty-Free TL %
-Bangladesh,2009,0.09893847263732866,Specific TL %
-Bangladesh,2010,96.07640790194179,Dutiable TL %
-Bangladesh,2010,3.489743481740449,Duty-Free TL %
-Bangladesh,2010,0.044227286129480646,Specific TL %
-Bangladesh,2011,95.90901751836603,Dutiable TL %
-Bangladesh,2011,3.7398078630822638,Duty-Free TL %
-Bangladesh,2011,0.05045612335513038,Specific TL %
-Bangladesh,2012,95.89699112682634,Dutiable TL %
-Bangladesh,2012,3.7861098138635,Duty-Free TL %
-Bangladesh,2012,0.010007338715057709,Specific TL %
-Bangladesh,2013,95.93890478136494,Dutiable TL %
-Bangladesh,2013,3.7520433183489987,Duty-Free TL %
-Bangladesh,2013,0.012770739681242338,Specific TL %
-Bangladesh,2014,,Dutiable TL %
-Bangladesh,2014,,Duty-Free TL %
-Bangladesh,2014,,Specific TL %
-Bangladesh,2015,92.64135966755381,Dutiable TL %
-Bangladesh,2015,7.090162020824579,Duty-Free TL %
-Bangladesh,2015,0.016342158098706636,Specific TL %
-Bangladesh,2016,,Dutiable TL %
-Bangladesh,2016,,Duty-Free TL %
-Bangladesh,2016,,Specific TL %
-Bangladesh,2017,,Dutiable TL %
-Bangladesh,2017,,Duty-Free TL %
-Bangladesh,2017,,Specific TL %
-Bangladesh,2018,,Dutiable TL %
-Bangladesh,2018,,Duty-Free TL %
-Bangladesh,2018,,Specific TL %
-Bangladesh,2019,,Dutiable TL %
-Bangladesh,2019,,Duty-Free TL %
-Bangladesh,2019,,Specific TL %
-Bangladesh,2020,,Dutiable TL %
-Bangladesh,2020,,Duty-Free TL %
-Bangladesh,2020,,Specific TL %
-Bangladesh,2021,,Dutiable TL %
-Bangladesh,2021,,Duty-Free TL %
-Bangladesh,2021,,Specific TL %
-Bangladesh,2022,,Dutiable TL %
-Bangladesh,2022,,Duty-Free TL %
-Bangladesh,2022,,Specific TL %
-Bhutan,1988,,Dutiable TL %
-Bhutan,1988,,Duty-Free TL %
-Bhutan,1988,,Specific TL %
-Bhutan,1989,,Dutiable TL %
-Bhutan,1989,,Duty-Free TL %
-Bhutan,1989,,Specific TL %
-Bhutan,1990,,Dutiable TL %
-Bhutan,1990,,Duty-Free TL %
-Bhutan,1990,,Specific TL %
-Bhutan,1991,,Dutiable TL %
-Bhutan,1991,,Duty-Free TL %
-Bhutan,1991,,Specific TL %
-Bhutan,1992,,Dutiable TL %
-Bhutan,1992,,Duty-Free TL %
-Bhutan,1992,,Specific TL %
-Bhutan,1993,,Dutiable TL %
-Bhutan,1993,,Duty-Free TL %
-Bhutan,1993,,Specific TL %
-Bhutan,1994,,Dutiable TL %
-Bhutan,1994,,Duty-Free TL %
-Bhutan,1994,,Specific TL %
-Bhutan,1995,,Dutiable TL %
-Bhutan,1995,,Duty-Free TL %
-Bhutan,1995,,Specific TL %
-Bhutan,1996,,Dutiable TL %
-Bhutan,1996,,Duty-Free TL %
-Bhutan,1996,,Specific TL %
-Bhutan,1997,,Dutiable TL %
-Bhutan,1997,,Duty-Free TL %
-Bhutan,1997,,Specific TL %
-Bhutan,1998,,Dutiable TL %
-Bhutan,1998,,Duty-Free TL %
-Bhutan,1998,,Specific TL %
-Bhutan,1999,,Dutiable TL %
-Bhutan,1999,,Duty-Free TL %
-Bhutan,1999,,Specific TL %
-Bhutan,2000,,Dutiable TL %
-Bhutan,2000,,Duty-Free TL %
-Bhutan,2000,,Specific TL %
-Bhutan,2001,,Dutiable TL %
-Bhutan,2001,,Duty-Free TL %
-Bhutan,2001,,Specific TL %
-Bhutan,2002,,Dutiable TL %
-Bhutan,2002,,Duty-Free TL %
-Bhutan,2002,,Specific TL %
-Bhutan,2003,,Dutiable TL %
-Bhutan,2003,,Duty-Free TL %
-Bhutan,2003,,Specific TL %
-Bhutan,2004,,Dutiable TL %
-Bhutan,2004,,Duty-Free TL %
-Bhutan,2004,,Specific TL %
-Bhutan,2005,93.22661923817994,Dutiable TL %
-Bhutan,2005,6.773380761820068,Duty-Free TL %
-Bhutan,2005,0.0,Specific TL %
-Bhutan,2006,,Dutiable TL %
-Bhutan,2006,,Duty-Free TL %
-Bhutan,2006,,Specific TL %
-Bhutan,2007,45.88235294117647,Dutiable TL %
-Bhutan,2007,54.11764705882353,Duty-Free TL %
-Bhutan,2007,0.0,Specific TL %
-Bhutan,2008,,Dutiable TL %
-Bhutan,2008,,Duty-Free TL %
-Bhutan,2008,,Specific TL %
-Bhutan,2009,,Dutiable TL %
-Bhutan,2009,,Duty-Free TL %
-Bhutan,2009,,Specific TL %
-Bhutan,2010,,Dutiable TL %
-Bhutan,2010,,Duty-Free TL %
-Bhutan,2010,,Specific TL %
-Bhutan,2011,,Dutiable TL %
-Bhutan,2011,,Duty-Free TL %
-Bhutan,2011,,Specific TL %
-Bhutan,2012,,Dutiable TL %
-Bhutan,2012,,Duty-Free TL %
-Bhutan,2012,,Specific TL %
-Bhutan,2013,,Dutiable TL %
-Bhutan,2013,,Duty-Free TL %
-Bhutan,2013,,Specific TL %
-Bhutan,2014,,Dutiable TL %
-Bhutan,2014,,Duty-Free TL %
-Bhutan,2014,,Specific TL %
-Bhutan,2015,,Dutiable TL %
-Bhutan,2015,,Duty-Free TL %
-Bhutan,2015,,Specific TL %
-Bhutan,2016,,Dutiable TL %
-Bhutan,2016,,Duty-Free TL %
-Bhutan,2016,,Specific TL %
-Bhutan,2017,,Dutiable TL %
-Bhutan,2017,,Duty-Free TL %
-Bhutan,2017,,Specific TL %
-Bhutan,2018,,Dutiable TL %
-Bhutan,2018,,Duty-Free TL %
-Bhutan,2018,,Specific TL %
-Bhutan,2019,,Dutiable TL %
-Bhutan,2019,,Duty-Free TL %
-Bhutan,2019,,Specific TL %
-Bhutan,2020,,Dutiable TL %
-Bhutan,2020,,Duty-Free TL %
-Bhutan,2020,,Specific TL %
-Bhutan,2021,,Dutiable TL %
-Bhutan,2021,,Duty-Free TL %
-Bhutan,2021,,Specific TL %
-Bhutan,2022,,Dutiable TL %
-Bhutan,2022,,Duty-Free TL %
-Bhutan,2022,,Specific TL %
-Brunei,1988,,Dutiable TL %
-Brunei,1988,,Duty-Free TL %
-Brunei,1988,,Specific TL %
-Brunei,1989,,Dutiable TL %
-Brunei,1989,,Duty-Free TL %
-Brunei,1989,,Specific TL %
-Brunei,1990,,Dutiable TL %
-Brunei,1990,,Duty-Free TL %
-Brunei,1990,,Specific TL %
-Brunei,1991,,Dutiable TL %
-Brunei,1991,,Duty-Free TL %
-Brunei,1991,,Specific TL %
-Brunei,1992,20.310036784025222,Dutiable TL %
-Brunei,1992,77.15887195655982,Duty-Free TL %
-Brunei,1992,1.7559992993519005,Specific TL %
-Brunei,1993,,Dutiable TL %
-Brunei,1993,,Duty-Free TL %
-Brunei,1993,,Specific TL %
-Brunei,1994,,Dutiable TL %
-Brunei,1994,,Duty-Free TL %
-Brunei,1994,,Specific TL %
-Brunei,1995,,Dutiable TL %
-Brunei,1995,,Duty-Free TL %
-Brunei,1995,,Specific TL %
-Brunei,1996,,Dutiable TL %
-Brunei,1996,,Duty-Free TL %
-Brunei,1996,,Specific TL %
-Brunei,1997,27.109788588630153,Dutiable TL %
-Brunei,1997,71.29165080793052,Duty-Free TL %
-Brunei,1997,0.9861250475762084,Specific TL %
-Brunei,1998,27.109788588630153,Dutiable TL %
-Brunei,1998,71.29165080793052,Duty-Free TL %
-Brunei,1998,0.9861250475762084,Specific TL %
-Brunei,1999,,Dutiable TL %
-Brunei,1999,,Duty-Free TL %
-Brunei,1999,,Specific TL %
-Brunei,2000,,Dutiable TL %
-Brunei,2000,,Duty-Free TL %
-Brunei,2000,,Specific TL %
-Brunei,2001,26.58223467940067,Dutiable TL %
-Brunei,2001,71.70144295650368,Duty-Free TL %
-Brunei,2001,1.1038444236824803,Specific TL %
-Brunei,2002,26.58223467940067,Dutiable TL %
-Brunei,2002,71.70144295650368,Duty-Free TL %
-Brunei,2002,1.1349873698051836,Specific TL %
-Brunei,2003,26.496245977833393,Dutiable TL %
-Brunei,2003,72.07365033964962,Duty-Free TL %
-Brunei,2003,0.8580622095101895,Specific TL %
-Brunei,2004,38.53658536585366,Dutiable TL %
-Brunei,2004,60.34913953200446,Duty-Free TL %
-Brunei,2004,0.850563327968305,Specific TL %
-Brunei,2005,,Dutiable TL %
-Brunei,2005,,Duty-Free TL %
-Brunei,2005,,Specific TL %
-Brunei,2006,38.255115794633014,Dutiable TL %
-Brunei,2006,60.49993873299841,Duty-Free TL %
-Brunei,2006,0.9680186251684842,Specific TL %
-Brunei,2007,37.94390722655074,Dutiable TL %
-Brunei,2007,61.00841752869065,Duty-Free TL %
-Brunei,2007,0.8212810539372117,Specific TL %
-Brunei,2008,34.13950310412666,Dutiable TL %
-Brunei,2008,65.27501266389436,Duty-Free TL %
-Brunei,2008,0.4535441233640016,Specific TL %
-Brunei,2009,30.99795626678065,Dutiable TL %
-Brunei,2009,68.0670023910343,Duty-Free TL %
-Brunei,2009,0.6545289395295406,Specific TL %
-Brunei,2010,36.32368459719755,Dutiable TL %
-Brunei,2010,62.730587873849565,Duty-Free TL %
-Brunei,2010,0.6652151262973699,Specific TL %
-Brunei,2011,22.842357202923864,Dutiable TL %
-Brunei,2011,76.50300795653018,Duty-Free TL %
-Brunei,2011,0.47609806585160747,Specific TL %
-Brunei,2012,,Dutiable TL %
-Brunei,2012,,Duty-Free TL %
-Brunei,2012,,Specific TL %
-Brunei,2013,,Dutiable TL %
-Brunei,2013,,Duty-Free TL %
-Brunei,2013,,Specific TL %
-Brunei,2014,22.11943807816081,Dutiable TL %
-Brunei,2014,77.73687523007683,Duty-Free TL %
-Brunei,2014,0.0,Specific TL %
-Brunei,2015,,Dutiable TL %
-Brunei,2015,,Duty-Free TL %
-Brunei,2015,,Specific TL %
-Brunei,2016,22.7434241147956,Dutiable TL %
-Brunei,2016,76.66057420504728,Duty-Free TL %
-Brunei,2016,0.45182603562387186,Specific TL %
-Brunei,2017,2.4719534904846254,Dutiable TL %
-Brunei,2017,97.18512967252578,Duty-Free TL %
-Brunei,2017,0.23504564654585094,Specific TL %
-Brunei,2018,2.45792495252232,Dutiable TL %
-Brunei,2018,97.0771212154286,Duty-Free TL %
-Brunei,2018,0.32415795332998626,Specific TL %
-Brunei,2019,2.51211987659762,Dutiable TL %
-Brunei,2019,97.02888346644595,Duty-Free TL %
-Brunei,2019,0.32892968859172944,Specific TL %
-Brunei,2020,2.511044942974771,Dutiable TL %
-Brunei,2020,97.03748293542874,Duty-Free TL %
-Brunei,2020,0.3235550204774855,Specific TL %
-Brunei,2021,2.0346989916429865,Dutiable TL %
-Brunei,2021,97.6115967051545,Duty-Free TL %
-Brunei,2021,0.23740153231898134,Specific TL %
-Brunei,2022,2.6153032270475642,Dutiable TL %
-Brunei,2022,96.67099504640984,Duty-Free TL %
-Brunei,2022,0.4328379743182802,Specific TL %
-Cambodia,1988,,Dutiable TL %
-Cambodia,1988,,Duty-Free TL %
-Cambodia,1988,,Specific TL %
-Cambodia,1989,,Dutiable TL %
-Cambodia,1989,,Duty-Free TL %
-Cambodia,1989,,Specific TL %
-Cambodia,1990,,Dutiable TL %
-Cambodia,1990,,Duty-Free TL %
-Cambodia,1990,,Specific TL %
-Cambodia,1991,,Dutiable TL %
-Cambodia,1991,,Duty-Free TL %
-Cambodia,1991,,Specific TL %
-Cambodia,1992,,Dutiable TL %
-Cambodia,1992,,Duty-Free TL %
-Cambodia,1992,,Specific TL %
-Cambodia,1993,,Dutiable TL %
-Cambodia,1993,,Duty-Free TL %
-Cambodia,1993,,Specific TL %
-Cambodia,1994,,Dutiable TL %
-Cambodia,1994,,Duty-Free TL %
-Cambodia,1994,,Specific TL %
-Cambodia,1995,,Dutiable TL %
-Cambodia,1995,,Duty-Free TL %
-Cambodia,1995,,Specific TL %
-Cambodia,1996,,Dutiable TL %
-Cambodia,1996,,Duty-Free TL %
-Cambodia,1996,,Specific TL %
-Cambodia,1997,,Dutiable TL %
-Cambodia,1997,,Duty-Free TL %
-Cambodia,1997,,Specific TL %
-Cambodia,1998,,Dutiable TL %
-Cambodia,1998,,Duty-Free TL %
-Cambodia,1998,,Specific TL %
-Cambodia,1999,,Dutiable TL %
-Cambodia,1999,,Duty-Free TL %
-Cambodia,1999,,Specific TL %
-Cambodia,2000,,Dutiable TL %
-Cambodia,2000,,Duty-Free TL %
-Cambodia,2000,,Specific TL %
-Cambodia,2001,94.45583344722336,Dutiable TL %
-Cambodia,2001,5.516832946107239,Duty-Free TL %
-Cambodia,2001,0.02733360666940003,Specific TL %
-Cambodia,2002,94.73658911747741,Dutiable TL %
-Cambodia,2002,5.210536435300904,Duty-Free TL %
-Cambodia,2002,0.05287444722168814,Specific TL %
-Cambodia,2003,94.54707845625911,Dutiable TL %
-Cambodia,2003,5.396512010529779,Duty-Free TL %
-Cambodia,2003,0.05640953321111268,Specific TL %
-Cambodia,2004,,Dutiable TL %
-Cambodia,2004,,Duty-Free TL %
-Cambodia,2004,,Specific TL %
-Cambodia,2005,90.85824667011073,Dutiable TL %
-Cambodia,2005,9.141753329889266,Duty-Free TL %
-Cambodia,2005,0.0,Specific TL %
-Cambodia,2006,90.98761623551188,Dutiable TL %
-Cambodia,2006,9.012383764488122,Duty-Free TL %
-Cambodia,2006,0.0,Specific TL %
-Cambodia,2007,91.44333361337478,Dutiable TL %
-Cambodia,2007,8.55666638662522,Duty-Free TL %
-Cambodia,2007,0.0,Specific TL %
-Cambodia,2008,91.20722336587653,Dutiable TL %
-Cambodia,2008,8.792776634123474,Duty-Free TL %
-Cambodia,2008,0.0,Specific TL %
-Cambodia,2009,,Dutiable TL %
-Cambodia,2009,,Duty-Free TL %
-Cambodia,2009,,Specific TL %
-Cambodia,2010,89.8855078675075,Dutiable TL %
-Cambodia,2010,10.114492132492499,Duty-Free TL %
-Cambodia,2010,0.0,Specific TL %
-Cambodia,2011,88.53112811940998,Dutiable TL %
-Cambodia,2011,11.468871880590012,Duty-Free TL %
-Cambodia,2011,0.0,Specific TL %
-Cambodia,2012,88.55676242874564,Dutiable TL %
-Cambodia,2012,11.443237571254361,Duty-Free TL %
-Cambodia,2012,0.0,Specific TL %
-Cambodia,2013,,Dutiable TL %
-Cambodia,2013,,Duty-Free TL %
-Cambodia,2013,,Specific TL %
-Cambodia,2014,76.66443228749974,Dutiable TL %
-Cambodia,2014,23.25123791813523,Duty-Free TL %
-Cambodia,2014,0.0843297943650399,Specific TL %
-Cambodia,2015,,Dutiable TL %
-Cambodia,2015,,Duty-Free TL %
-Cambodia,2015,,Specific TL %
-Cambodia,2016,88.42849578985124,Dutiable TL %
-Cambodia,2016,11.398999128934738,Duty-Free TL %
-Cambodia,2016,0.17250508121402586,Specific TL %
-Cambodia,2017,,Dutiable TL %
-Cambodia,2017,,Duty-Free TL %
-Cambodia,2017,,Specific TL %
-Cambodia,2018,,Dutiable TL %
-Cambodia,2018,,Duty-Free TL %
-Cambodia,2018,,Specific TL %
-Cambodia,2019,,Dutiable TL %
-Cambodia,2019,,Duty-Free TL %
-Cambodia,2019,,Specific TL %
-Cambodia,2020,62.5400505353096,Dutiable TL %
-Cambodia,2020,37.4599494646904,Duty-Free TL %
-Cambodia,2020,0.0,Specific TL %
-Cambodia,2021,59.409574538564485,Dutiable TL %
-Cambodia,2021,40.590425461435515,Duty-Free TL %
-Cambodia,2021,0.0,Specific TL %
-Cambodia,2022,89.44789996793844,Dutiable TL %
-Cambodia,2022,10.552100032061558,Duty-Free TL %
-Cambodia,2022,0.0,Specific TL %
-China,1988,,Dutiable TL %
-China,1988,,Duty-Free TL %
-China,1988,,Specific TL %
-China,1989,,Dutiable TL %
-China,1989,,Duty-Free TL %
-China,1989,,Specific TL %
-China,1990,,Dutiable TL %
-China,1990,,Duty-Free TL %
-China,1990,,Specific TL %
-China,1991,,Dutiable TL %
-China,1991,,Duty-Free TL %
-China,1991,,Specific TL %
-China,1992,98.72869516624756,Dutiable TL %
-China,1992,1.2713048337524449,Duty-Free TL %
-China,1992,0.0,Specific TL %
-China,1993,98.76440140257138,Dutiable TL %
-China,1993,1.2355985974286192,Duty-Free TL %
-China,1993,0.0,Specific TL %
-China,1994,98.68160626319494,Dutiable TL %
-China,1994,1.3183937368050669,Duty-Free TL %
-China,1994,0.0,Specific TL %
-China,1995,,Dutiable TL %
-China,1995,,Duty-Free TL %
-China,1995,,Specific TL %
-China,1996,98.69437411492082,Dutiable TL %
-China,1996,1.3056258850791744,Duty-Free TL %
-China,1996,0.0,Specific TL %
-China,1997,98.17676237815374,Dutiable TL %
-China,1997,1.4443301384234597,Duty-Free TL %
-China,1997,0.3789074834227976,Specific TL %
-China,1998,97.980356225215,Dutiable TL %
-China,1998,1.602722592280171,Duty-Free TL %
-China,1998,0.1144109291524865,Specific TL %
-China,1999,96.88273825653869,Dutiable TL %
-China,1999,2.6855546315071437,Duty-Free TL %
-China,1999,0.4317071119541755,Specific TL %
+Bahrain,2022,0.908725592,Specific TL %
 China,2000,98.26870866129045,Dutiable TL %
 China,2000,1.7312913387095474,Duty-Free TL %
-China,2000,0.0,Specific TL %
-China,2001,97.8715993963082,Dutiable TL %
+China,2000,0,Specific TL %
+China,2001,97.8715994,Dutiable TL %
 China,2001,1.6570566154560582,Duty-Free TL %
 China,2001,0.4713439882357494,Specific TL %
 China,2002,93.34222272928224,Dutiable TL %
@@ -886,14 +148,14 @@ China,2002,6.081630324724405,Duty-Free TL %
 China,2002,0.21177678584161663,Specific TL %
 China,2003,90.59667392085477,Dutiable TL %
 China,2003,9.403326079145225,Duty-Free TL %
-China,2003,0.0,Specific TL %
+China,2003,0,Specific TL %
 China,2004,89.71532686368512,Dutiable TL %
 China,2004,10.284673136314884,Duty-Free TL %
-China,2004,0.0,Specific TL %
+China,2004,0,Specific TL %
 China,2005,89.61566944247133,Dutiable TL %
 China,2005,10.384330557528678,Duty-Free TL %
-China,2005,0.0,Specific TL %
-China,2006,85.2727099735972,Dutiable TL %
+China,2005,0,Specific TL %
+China,2006,85.27270997,Dutiable TL %
 China,2006,14.506672058228872,Duty-Free TL %
 China,2006,0.047572607692490665,Specific TL %
 China,2007,85.39240292151942,Dutiable TL %
@@ -901,97 +163,61 @@ China,2007,14.341953131609374,Duty-Free TL %
 China,2007,0.042863991427201716,Specific TL %
 China,2008,84.43634704882513,Dutiable TL %
 China,2008,15.29810423194513,Duty-Free TL %
-China,2008,0.03584093142978164,Specific TL %
-China,2009,79.8164051570134,Dutiable TL %
+China,2008,0.035840931,Specific TL %
+China,2009,79.81640516,Dutiable TL %
 China,2009,19.854286390736316,Duty-Free TL %
 China,2009,0.10923139837713351,Specific TL %
 China,2010,75.71882574195689,Dutiable TL %
 China,2010,23.972423642050426,Duty-Free TL %
-China,2010,0.05983928876731065,Specific TL %
+China,2010,0.059839289,Specific TL %
 China,2011,75.37486068111455,Dutiable TL %
 China,2011,24.134241486068113,Duty-Free TL %
 China,2011,0.2823529411764706,Specific TL %
-China,2012,,Dutiable TL %
-China,2012,,Duty-Free TL %
-China,2012,,Specific TL %
-China,2013,,Dutiable TL %
-China,2013,,Duty-Free TL %
-China,2013,,Specific TL %
+China,2012,NA,Dutiable TL %
+China,2012,NA,Duty-Free TL %
+China,2012,NA,Specific TL %
+China,2013,NA,Dutiable TL %
+China,2013,NA,Duty-Free TL %
+China,2013,NA,Specific TL %
 China,2014,75.12719981680992,Dutiable TL %
 China,2014,24.795447056392383,Duty-Free TL %
-China,2014,0.0,Specific TL %
+China,2014,0,Specific TL %
 China,2015,73.74888734372082,Dutiable TL %
 China,2015,26.164535146410685,Duty-Free TL %
-China,2015,0.03517211338407136,Specific TL %
+China,2015,0.035172113,Specific TL %
 China,2016,74.28553786347297,Dutiable TL %
-China,2016,25.5112313850565,Duty-Free TL %
+China,2016,25.51123139,Duty-Free TL %
 China,2016,0.18604875927223524,Specific TL %
 China,2017,79.34031656555588,Dutiable TL %
 China,2017,20.508017254713252,Duty-Free TL %
-China,2017,0.07518861601388627,Specific TL %
+China,2017,0.075188616,Specific TL %
 China,2018,74.03683264887064,Dutiable TL %
 China,2018,25.839001540041068,Duty-Free TL %
-China,2018,0.07379363449691992,Specific TL %
-China,2019,69.8818963498277,Dutiable TL %
-China,2019,30.0405439520164,Duty-Free TL %
-China,2019,0.07755969815590412,Specific TL %
+China,2018,0.073793634,Specific TL %
+China,2019,69.88189635,Dutiable TL %
+China,2019,30.04054395,Duty-Free TL %
+China,2019,0.077559698,Specific TL %
 China,2020,68.69057788867515,Dutiable TL %
 China,2020,31.18189695967747,Duty-Free TL %
-China,2020,0.05285379779120292,Specific TL %
+China,2020,0.052853798,Specific TL %
 China,2021,69.05721650409373,Dutiable TL %
 China,2021,30.81360230133906,Duty-Free TL %
-China,2021,0.06847799434234213,Specific TL %
+China,2021,0.068477994,Specific TL %
 China,2022,69.33696074122317,Dutiable TL %
 China,2022,30.527011462908366,Duty-Free TL %
-China,2022,0.07603440476610598,Specific TL %
-Cyprus,1988,,Dutiable TL %
-Cyprus,1988,,Duty-Free TL %
-Cyprus,1988,,Specific TL %
-Cyprus,1989,,Dutiable TL %
-Cyprus,1989,,Duty-Free TL %
-Cyprus,1989,,Specific TL %
-Cyprus,1990,,Dutiable TL %
-Cyprus,1990,,Duty-Free TL %
-Cyprus,1990,,Specific TL %
-Cyprus,1991,,Dutiable TL %
-Cyprus,1991,,Duty-Free TL %
-Cyprus,1991,,Specific TL %
-Cyprus,1992,,Dutiable TL %
-Cyprus,1992,,Duty-Free TL %
-Cyprus,1992,,Specific TL %
-Cyprus,1993,,Dutiable TL %
-Cyprus,1993,,Duty-Free TL %
-Cyprus,1993,,Specific TL %
-Cyprus,1994,,Dutiable TL %
-Cyprus,1994,,Duty-Free TL %
-Cyprus,1994,,Specific TL %
-Cyprus,1995,,Dutiable TL %
-Cyprus,1995,,Duty-Free TL %
-Cyprus,1995,,Specific TL %
-Cyprus,1996,73.96899435437611,Dutiable TL %
-Cyprus,1996,17.166319475892884,Duty-Free TL %
-Cyprus,1996,0.2664311807505359,Specific TL %
-Cyprus,1997,73.6804687675395,Dutiable TL %
-Cyprus,1997,16.807232071362822,Duty-Free TL %
-Cyprus,1997,0.20205497391994132,Specific TL %
-Cyprus,1998,43.758235627927554,Dutiable TL %
-Cyprus,1998,46.26763746886091,Duty-Free TL %
-Cyprus,1998,0.010580076753647721,Specific TL %
-Cyprus,1999,39.810875147607355,Dutiable TL %
-Cyprus,1999,49.877228168169296,Duty-Free TL %
-Cyprus,1999,0.0037487582238383537,Specific TL %
-Cyprus,2000,39.5301503224699,Dutiable TL %
+China,2022,0.076034405,Specific TL %
+Cyprus,2000,39.53015032,Dutiable TL %
 Cyprus,2000,50.68213214317827,Duty-Free TL %
 Cyprus,2000,9.787717534351831,Specific TL %
 Cyprus,2001,39.08218285705316,Dutiable TL %
 Cyprus,2001,50.96420246289567,Duty-Free TL %
-Cyprus,2001,0.008633477486245301,Specific TL %
+Cyprus,2001,0.008633477,Specific TL %
 Cyprus,2002,67.93454836524845,Dutiable TL %
 Cyprus,2002,21.040884182008497,Duty-Free TL %
-Cyprus,2002,0.08928021673542269,Specific TL %
-Cyprus,2003,,Dutiable TL %
-Cyprus,2003,,Duty-Free TL %
-Cyprus,2003,,Specific TL %
+Cyprus,2002,0.089280217,Specific TL %
+Cyprus,2003,NA,Dutiable TL %
+Cyprus,2003,NA,Duty-Free TL %
+Cyprus,2003,NA,Specific TL %
 Cyprus,2004,40.94383187840324,Dutiable TL %
 Cyprus,2004,51.368704391954466,Duty-Free TL %
 Cyprus,2004,1.6520762078800826,Specific TL %
@@ -1013,7 +239,7 @@ Cyprus,2009,1.451858622790981,Specific TL %
 Cyprus,2010,46.88487280458772,Dutiable TL %
 Cyprus,2010,45.61516462784674,Duty-Free TL %
 Cyprus,2010,1.323610882357345,Specific TL %
-Cyprus,2011,37.7459640572647,Dutiable TL %
+Cyprus,2011,37.74596406,Dutiable TL %
 Cyprus,2011,54.69996954005483,Duty-Free TL %
 Cyprus,2011,1.256472738349071,Specific TL %
 Cyprus,2012,36.91165264198972,Dutiable TL %
@@ -1022,7 +248,7 @@ Cyprus,2012,1.4300306435137895,Specific TL %
 Cyprus,2013,37.252868454409274,Dutiable TL %
 Cyprus,2013,53.94011226891863,Duty-Free TL %
 Cyprus,2013,1.5638632360445783,Specific TL %
-Cyprus,2014,47.2040270764613,Dutiable TL %
+Cyprus,2014,47.20402708,Dutiable TL %
 Cyprus,2014,44.13838385417481,Duty-Free TL %
 Cyprus,2014,1.4976472243500556,Specific TL %
 Cyprus,2015,45.67133391673959,Dutiable TL %
@@ -1049,258 +275,81 @@ Cyprus,2021,1.3609963597693158,Specific TL %
 Cyprus,2022,29.768336539265704,Dutiable TL %
 Cyprus,2022,64.28870117922555,Duty-Free TL %
 Cyprus,2022,1.4217613113657273,Specific TL %
-Georgia,1988,,Dutiable TL %
-Georgia,1988,,Duty-Free TL %
-Georgia,1988,,Specific TL %
-Georgia,1989,,Dutiable TL %
-Georgia,1989,,Duty-Free TL %
-Georgia,1989,,Specific TL %
-Georgia,1990,,Dutiable TL %
-Georgia,1990,,Duty-Free TL %
-Georgia,1990,,Specific TL %
-Georgia,1991,,Dutiable TL %
-Georgia,1991,,Duty-Free TL %
-Georgia,1991,,Specific TL %
-Georgia,1992,,Dutiable TL %
-Georgia,1992,,Duty-Free TL %
-Georgia,1992,,Specific TL %
-Georgia,1993,,Dutiable TL %
-Georgia,1993,,Duty-Free TL %
-Georgia,1993,,Specific TL %
-Georgia,1994,,Dutiable TL %
-Georgia,1994,,Duty-Free TL %
-Georgia,1994,,Specific TL %
-Georgia,1995,,Dutiable TL %
-Georgia,1995,,Duty-Free TL %
-Georgia,1995,,Specific TL %
-Georgia,1996,,Dutiable TL %
-Georgia,1996,,Duty-Free TL %
-Georgia,1996,,Specific TL %
-Georgia,1997,,Dutiable TL %
-Georgia,1997,,Duty-Free TL %
-Georgia,1997,,Specific TL %
-Georgia,1998,,Dutiable TL %
-Georgia,1998,,Duty-Free TL %
-Georgia,1998,,Specific TL %
-Georgia,1999,98.78744005067415,Dutiable TL %
-Georgia,1999,0.0,Duty-Free TL %
-Georgia,1999,1.2125599493258528,Specific TL %
-Georgia,2000,,Dutiable TL %
-Georgia,2000,,Duty-Free TL %
-Georgia,2000,,Specific TL %
-Georgia,2001,99.72640218878249,Dutiable TL %
-Georgia,2001,0.27359781121751026,Duty-Free TL %
-Georgia,2001,0.0,Specific TL %
-Georgia,2002,97.75738099091393,Dutiable TL %
-Georgia,2002,0.2797493815457887,Duty-Free TL %
-Georgia,2002,0.9502231059117286,Specific TL %
-Georgia,2003,88.81926195449543,Dutiable TL %
-Georgia,2003,9.300810816881162,Duty-Free TL %
-Georgia,2003,0.8534914538553108,Specific TL %
-Georgia,2004,89.79371870129009,Dutiable TL %
-Georgia,2004,8.934434384638344,Duty-Free TL %
-Georgia,2004,0.5521838623022585,Specific TL %
-Georgia,2005,68.06987440048383,Dutiable TL %
-Georgia,2005,31.03981771895526,Duty-Free TL %
-Georgia,2005,0.890307880560908,Specific TL %
-Georgia,2006,55.62744930473318,Dutiable TL %
-Georgia,2006,44.37255069526682,Duty-Free TL %
-Georgia,2006,0.0,Specific TL %
-Georgia,2007,7.134169517293804,Dutiable TL %
-Georgia,2007,91.635309768149,Duty-Free TL %
-Georgia,2007,0.37438236412010645,Specific TL %
-Georgia,2008,7.136974523734105,Dutiable TL %
-Georgia,2008,91.74713787954207,Duty-Free TL %
-Georgia,2008,0.48961491470202273,Specific TL %
-Georgia,2009,6.269102528480134,Dutiable TL %
-Georgia,2009,92.73669769380383,Duty-Free TL %
-Georgia,2009,0.44022645179216446,Specific TL %
-Georgia,2010,5.843412265231238,Dutiable TL %
-Georgia,2010,92.8961291886425,Duty-Free TL %
-Georgia,2010,0.4547012261887846,Specific TL %
-Georgia,2011,12.338848932924273,Dutiable TL %
-Georgia,2011,86.33422186457443,Duty-Free TL %
-Georgia,2011,0.6144277355865144,Specific TL %
-Georgia,2012,13.644475690876643,Dutiable TL %
-Georgia,2012,85.21983667730247,Duty-Free TL %
-Georgia,2012,0.05330778679975587,Specific TL %
-Georgia,2013,12.329518733343784,Dutiable TL %
-Georgia,2013,77.6328578147045,Duty-Free TL %
-Georgia,2013,9.352563097664211,Specific TL %
-Georgia,2014,,Dutiable TL %
-Georgia,2014,,Duty-Free TL %
-Georgia,2014,,Specific TL %
-Georgia,2015,4.251608821123782,Dutiable TL %
-Georgia,2015,91.84400993842497,Duty-Free TL %
-Georgia,2015,3.605765521072856,Specific TL %
-Georgia,2016,12.968021243085726,Dutiable TL %
-Georgia,2016,78.20072889957468,Duty-Free TL %
-Georgia,2016,7.756921882965206,Specific TL %
-Georgia,2017,,Dutiable TL %
-Georgia,2017,,Duty-Free TL %
-Georgia,2017,,Specific TL %
-Georgia,2018,,Dutiable TL %
-Georgia,2018,,Duty-Free TL %
-Georgia,2018,,Specific TL %
-Georgia,2019,,Dutiable TL %
-Georgia,2019,,Duty-Free TL %
-Georgia,2019,,Specific TL %
-Georgia,2020,3.2374963589945684,Dutiable TL %
-Georgia,2020,96.11654644209516,Duty-Free TL %
-Georgia,2020,0.3058444562479653,Specific TL %
-Georgia,2021,4.482776654347674,Dutiable TL %
-Georgia,2021,94.50439299909351,Duty-Free TL %
-Georgia,2021,0.6101387629872393,Specific TL %
-Georgia,2022,4.328932665645822,Dutiable TL %
-Georgia,2022,94.54124073997434,Duty-Free TL %
-Georgia,2022,0.5984356247154741,Specific TL %
-"Hong Kong, China",1988,,Dutiable TL %
-"Hong Kong, China",1988,,Duty-Free TL %
-"Hong Kong, China",1988,,Specific TL %
-"Hong Kong, China",1989,,Dutiable TL %
-"Hong Kong, China",1989,,Duty-Free TL %
-"Hong Kong, China",1989,,Specific TL %
-"Hong Kong, China",1990,,Dutiable TL %
-"Hong Kong, China",1990,,Duty-Free TL %
-"Hong Kong, China",1990,,Specific TL %
-"Hong Kong, China",1991,,Dutiable TL %
-"Hong Kong, China",1991,,Duty-Free TL %
-"Hong Kong, China",1991,,Specific TL %
-"Hong Kong, China",1992,,Dutiable TL %
-"Hong Kong, China",1992,,Duty-Free TL %
-"Hong Kong, China",1992,,Specific TL %
-"Hong Kong, China",1993,,Dutiable TL %
-"Hong Kong, China",1993,,Duty-Free TL %
-"Hong Kong, China",1993,,Specific TL %
-"Hong Kong, China",1994,,Dutiable TL %
-"Hong Kong, China",1994,,Duty-Free TL %
-"Hong Kong, China",1994,,Specific TL %
-"Hong Kong, China",1995,,Dutiable TL %
-"Hong Kong, China",1995,,Duty-Free TL %
-"Hong Kong, China",1995,,Specific TL %
-"Hong Kong, China",1996,0.0,Dutiable TL %
-"Hong Kong, China",1996,100.0,Duty-Free TL %
-"Hong Kong, China",1996,0.0,Specific TL %
-"Hong Kong, China",1997,0.0,Dutiable TL %
-"Hong Kong, China",1997,100.0,Duty-Free TL %
-"Hong Kong, China",1997,0.0,Specific TL %
-"Hong Kong, China",1998,0.0,Dutiable TL %
-"Hong Kong, China",1998,100.0,Duty-Free TL %
-"Hong Kong, China",1998,0.0,Specific TL %
-"Hong Kong, China",1999,0.0,Dutiable TL %
-"Hong Kong, China",1999,100.0,Duty-Free TL %
-"Hong Kong, China",1999,0.0,Specific TL %
-"Hong Kong, China",2000,0.0,Dutiable TL %
-"Hong Kong, China",2000,100.0,Duty-Free TL %
-"Hong Kong, China",2000,0.0,Specific TL %
-"Hong Kong, China",2001,0.0,Dutiable TL %
-"Hong Kong, China",2001,100.0,Duty-Free TL %
-"Hong Kong, China",2001,0.0,Specific TL %
-"Hong Kong, China",2002,0.0,Dutiable TL %
-"Hong Kong, China",2002,100.0,Duty-Free TL %
-"Hong Kong, China",2002,0.0,Specific TL %
-"Hong Kong, China",2003,0.0,Dutiable TL %
-"Hong Kong, China",2003,100.0,Duty-Free TL %
-"Hong Kong, China",2003,0.0,Specific TL %
-"Hong Kong, China",2004,0.0,Dutiable TL %
-"Hong Kong, China",2004,100.0,Duty-Free TL %
-"Hong Kong, China",2004,0.0,Specific TL %
-"Hong Kong, China",2005,0.0,Dutiable TL %
-"Hong Kong, China",2005,100.0,Duty-Free TL %
-"Hong Kong, China",2005,0.0,Specific TL %
-"Hong Kong, China",2006,0.0,Dutiable TL %
-"Hong Kong, China",2006,100.0,Duty-Free TL %
-"Hong Kong, China",2006,0.0,Specific TL %
-"Hong Kong, China",2007,0.0,Dutiable TL %
-"Hong Kong, China",2007,100.0,Duty-Free TL %
-"Hong Kong, China",2007,0.0,Specific TL %
-"Hong Kong, China",2008,0.0,Dutiable TL %
-"Hong Kong, China",2008,100.0,Duty-Free TL %
-"Hong Kong, China",2008,0.0,Specific TL %
-"Hong Kong, China",2009,0.0,Dutiable TL %
-"Hong Kong, China",2009,100.0,Duty-Free TL %
-"Hong Kong, China",2009,0.0,Specific TL %
-"Hong Kong, China",2010,0.0,Dutiable TL %
-"Hong Kong, China",2010,100.0,Duty-Free TL %
-"Hong Kong, China",2010,0.0,Specific TL %
-"Hong Kong, China",2011,0.0,Dutiable TL %
-"Hong Kong, China",2011,100.0,Duty-Free TL %
-"Hong Kong, China",2011,0.0,Specific TL %
-"Hong Kong, China",2012,0.0,Dutiable TL %
-"Hong Kong, China",2012,100.0,Duty-Free TL %
-"Hong Kong, China",2012,0.0,Specific TL %
-"Hong Kong, China",2013,0.0,Dutiable TL %
-"Hong Kong, China",2013,100.0,Duty-Free TL %
-"Hong Kong, China",2013,0.0,Specific TL %
-"Hong Kong, China",2014,0.0,Dutiable TL %
-"Hong Kong, China",2014,100.0,Duty-Free TL %
-"Hong Kong, China",2014,0.0,Specific TL %
-"Hong Kong, China",2015,0.0,Dutiable TL %
-"Hong Kong, China",2015,100.0,Duty-Free TL %
-"Hong Kong, China",2015,0.0,Specific TL %
-"Hong Kong, China",2016,0.0,Dutiable TL %
-"Hong Kong, China",2016,100.0,Duty-Free TL %
-"Hong Kong, China",2016,0.0,Specific TL %
-"Hong Kong, China",2017,0.0,Dutiable TL %
-"Hong Kong, China",2017,100.0,Duty-Free TL %
-"Hong Kong, China",2017,0.0,Specific TL %
-"Hong Kong, China",2018,0.0,Dutiable TL %
-"Hong Kong, China",2018,100.0,Duty-Free TL %
-"Hong Kong, China",2018,0.0,Specific TL %
-"Hong Kong, China",2019,0.0,Dutiable TL %
-"Hong Kong, China",2019,100.0,Duty-Free TL %
-"Hong Kong, China",2019,0.0,Specific TL %
-"Hong Kong, China",2020,0.0,Dutiable TL %
-"Hong Kong, China",2020,100.0,Duty-Free TL %
-"Hong Kong, China",2020,0.0,Specific TL %
-"Hong Kong, China",2021,0.0,Dutiable TL %
-"Hong Kong, China",2021,100.0,Duty-Free TL %
-"Hong Kong, China",2021,0.0,Specific TL %
-"Hong Kong, China",2022,0.0,Dutiable TL %
-"Hong Kong, China",2022,100.0,Duty-Free TL %
-"Hong Kong, China",2022,0.0,Specific TL %
-India,1988,,Dutiable TL %
-India,1988,,Duty-Free TL %
-India,1988,,Specific TL %
-India,1989,,Dutiable TL %
-India,1989,,Duty-Free TL %
-India,1989,,Specific TL %
-India,1990,92.57120726683802,Dutiable TL %
-India,1990,1.4540717529838398,Duty-Free TL %
-India,1990,0.15491321339295144,Specific TL %
-India,1991,,Dutiable TL %
-India,1991,,Duty-Free TL %
-India,1991,,Specific TL %
-India,1992,93.8192419825073,Dutiable TL %
-India,1992,3.498542274052478,Duty-Free TL %
-India,1992,0.3327045103755788,Specific TL %
-India,1993,,Dutiable TL %
-India,1993,,Duty-Free TL %
-India,1993,,Specific TL %
-India,1994,,Dutiable TL %
-India,1994,,Duty-Free TL %
-India,1994,,Specific TL %
-India,1995,,Dutiable TL %
-India,1995,,Duty-Free TL %
-India,1995,,Specific TL %
-India,1996,96.75536937940386,Dutiable TL %
-India,1996,2.593283130342139,Duty-Free TL %
-India,1996,0.0,Specific TL %
-India,1997,97.28465008918266,Dutiable TL %
-India,1997,2.715349910817333,Duty-Free TL %
-India,1997,0.0,Specific TL %
-India,1998,,Dutiable TL %
-India,1998,,Duty-Free TL %
-India,1998,,Specific TL %
-India,1999,98.49217694401473,Dutiable TL %
-India,1999,0.9164431041572836,Duty-Free TL %
-India,1999,0.5561321401296336,Specific TL %
-India,2000,90.501241715772,Dutiable TL %
+"Hong Kong, China",2000,0,Dutiable TL %
+"Hong Kong, China",2000,100,Duty-Free TL %
+"Hong Kong, China",2000,0,Specific TL %
+"Hong Kong, China",2001,0,Dutiable TL %
+"Hong Kong, China",2001,100,Duty-Free TL %
+"Hong Kong, China",2001,0,Specific TL %
+"Hong Kong, China",2002,0,Dutiable TL %
+"Hong Kong, China",2002,100,Duty-Free TL %
+"Hong Kong, China",2002,0,Specific TL %
+"Hong Kong, China",2003,0,Dutiable TL %
+"Hong Kong, China",2003,100,Duty-Free TL %
+"Hong Kong, China",2003,0,Specific TL %
+"Hong Kong, China",2004,0,Dutiable TL %
+"Hong Kong, China",2004,100,Duty-Free TL %
+"Hong Kong, China",2004,0,Specific TL %
+"Hong Kong, China",2005,0,Dutiable TL %
+"Hong Kong, China",2005,100,Duty-Free TL %
+"Hong Kong, China",2005,0,Specific TL %
+"Hong Kong, China",2006,0,Dutiable TL %
+"Hong Kong, China",2006,100,Duty-Free TL %
+"Hong Kong, China",2006,0,Specific TL %
+"Hong Kong, China",2007,0,Dutiable TL %
+"Hong Kong, China",2007,100,Duty-Free TL %
+"Hong Kong, China",2007,0,Specific TL %
+"Hong Kong, China",2008,0,Dutiable TL %
+"Hong Kong, China",2008,100,Duty-Free TL %
+"Hong Kong, China",2008,0,Specific TL %
+"Hong Kong, China",2009,0,Dutiable TL %
+"Hong Kong, China",2009,100,Duty-Free TL %
+"Hong Kong, China",2009,0,Specific TL %
+"Hong Kong, China",2010,0,Dutiable TL %
+"Hong Kong, China",2010,100,Duty-Free TL %
+"Hong Kong, China",2010,0,Specific TL %
+"Hong Kong, China",2011,0,Dutiable TL %
+"Hong Kong, China",2011,100,Duty-Free TL %
+"Hong Kong, China",2011,0,Specific TL %
+"Hong Kong, China",2012,0,Dutiable TL %
+"Hong Kong, China",2012,100,Duty-Free TL %
+"Hong Kong, China",2012,0,Specific TL %
+"Hong Kong, China",2013,0,Dutiable TL %
+"Hong Kong, China",2013,100,Duty-Free TL %
+"Hong Kong, China",2013,0,Specific TL %
+"Hong Kong, China",2014,0,Dutiable TL %
+"Hong Kong, China",2014,100,Duty-Free TL %
+"Hong Kong, China",2014,0,Specific TL %
+"Hong Kong, China",2015,0,Dutiable TL %
+"Hong Kong, China",2015,100,Duty-Free TL %
+"Hong Kong, China",2015,0,Specific TL %
+"Hong Kong, China",2016,0,Dutiable TL %
+"Hong Kong, China",2016,100,Duty-Free TL %
+"Hong Kong, China",2016,0,Specific TL %
+"Hong Kong, China",2017,0,Dutiable TL %
+"Hong Kong, China",2017,100,Duty-Free TL %
+"Hong Kong, China",2017,0,Specific TL %
+"Hong Kong, China",2018,0,Dutiable TL %
+"Hong Kong, China",2018,100,Duty-Free TL %
+"Hong Kong, China",2018,0,Specific TL %
+"Hong Kong, China",2019,0,Dutiable TL %
+"Hong Kong, China",2019,100,Duty-Free TL %
+"Hong Kong, China",2019,0,Specific TL %
+"Hong Kong, China",2020,0,Dutiable TL %
+"Hong Kong, China",2020,100,Duty-Free TL %
+"Hong Kong, China",2020,0,Specific TL %
+"Hong Kong, China",2021,0,Dutiable TL %
+"Hong Kong, China",2021,100,Duty-Free TL %
+"Hong Kong, China",2021,0,Specific TL %
+"Hong Kong, China",2022,0,Dutiable TL %
+"Hong Kong, China",2022,100,Duty-Free TL %
+"Hong Kong, China",2022,0,Specific TL %
+India,2000,90.50124172,Dutiable TL %
 India,2000,6.118940206609748,Duty-Free TL %
-India,2000,0.00587794448281436,Specific TL %
+India,2000,0.005877944,Specific TL %
 India,2001,95.89377081133762,Dutiable TL %
 India,2001,1.499228457727605,Duty-Free TL %
-India,2001,0.0828392755624137,Specific TL %
+India,2001,0.082839276,Specific TL %
 India,2002,95.39330603022172,Dutiable TL %
 India,2002,1.3020759779692135,Duty-Free TL %
 India,2002,1.4122299110295156,Specific TL %
@@ -1309,37 +358,37 @@ India,2003,1.0749123739232596,Duty-Free TL %
 India,2003,2.0006532347306383,Specific TL %
 India,2004,97.33250979559536,Dutiable TL %
 India,2004,0.9298577467235423,Duty-Free TL %
-India,2004,0.0,Specific TL %
+India,2004,0,Specific TL %
 India,2005,92.72814024174737,Dutiable TL %
 India,2005,5.4353396479819045,Duty-Free TL %
-India,2005,0.0,Specific TL %
+India,2005,0,Specific TL %
 India,2006,91.54544826256652,Dutiable TL %
 India,2006,6.658373254473168,Duty-Free TL %
-India,2006,0.0,Specific TL %
-India,2007,94.3684773495996,Dutiable TL %
+India,2006,0,Specific TL %
+India,2007,94.36847735,Dutiable TL %
 India,2007,3.446809037858733,Duty-Free TL %
-India,2007,0.0,Specific TL %
+India,2007,0,Specific TL %
 India,2008,89.96924532765554,Dutiable TL %
 India,2008,8.098857574578172,Duty-Free TL %
-India,2008,0.05342002640475591,Specific TL %
+India,2008,0.053420026,Specific TL %
 India,2009,92.11702576582556,Dutiable TL %
 India,2009,5.744767148879684,Duty-Free TL %
-India,2009,0.0,Specific TL %
+India,2009,0,Specific TL %
 India,2010,87.71501279686167,Dutiable TL %
 India,2010,8.201658123272788,Duty-Free TL %
 India,2010,2.199528958824001,Specific TL %
 India,2011,90.75925627405726,Dutiable TL %
 India,2011,4.935893151320471,Duty-Free TL %
 India,2011,2.022874801939129,Specific TL %
-India,2012,91.583946451509,Dutiable TL %
+India,2012,91.58394645,Dutiable TL %
 India,2012,4.102163230193304,Duty-Free TL %
 India,2012,2.0159247052908205,Specific TL %
-India,2013,91.5956203747782,Dutiable TL %
+India,2013,91.59562037,Dutiable TL %
 India,2013,4.116029381100572,Duty-Free TL %
 India,2013,1.9447078217147893,Specific TL %
-India,2014,,Dutiable TL %
-India,2014,,Duty-Free TL %
-India,2014,,Specific TL %
+India,2014,NA,Dutiable TL %
+India,2014,NA,Duty-Free TL %
+India,2014,NA,Specific TL %
 India,2015,89.34875275977146,Dutiable TL %
 India,2015,6.641098340019529,Duty-Free TL %
 India,2015,4.010148900209017,Specific TL %
@@ -1364,42 +413,6 @@ India,2021,1.9496755576706628,Specific TL %
 India,2022,77.09771053997424,Dutiable TL %
 India,2022,18.123065685011824,Duty-Free TL %
 India,2022,2.6712289267795697,Specific TL %
-Indonesia,1988,,Dutiable TL %
-Indonesia,1988,,Duty-Free TL %
-Indonesia,1988,,Specific TL %
-Indonesia,1989,91.85854025583146,Dutiable TL %
-Indonesia,1989,7.855530474040632,Duty-Free TL %
-Indonesia,1989,0.09987003214994186,Specific TL %
-Indonesia,1990,91.26362678782188,Dutiable TL %
-Indonesia,1990,8.467327436323718,Duty-Free TL %
-Indonesia,1990,0.08122136629567116,Specific TL %
-Indonesia,1991,,Dutiable TL %
-Indonesia,1991,,Duty-Free TL %
-Indonesia,1991,,Specific TL %
-Indonesia,1992,,Dutiable TL %
-Indonesia,1992,,Duty-Free TL %
-Indonesia,1992,,Specific TL %
-Indonesia,1993,91.47922205429734,Dutiable TL %
-Indonesia,1993,8.520777945702655,Duty-Free TL %
-Indonesia,1993,0.0,Specific TL %
-Indonesia,1994,,Dutiable TL %
-Indonesia,1994,,Duty-Free TL %
-Indonesia,1994,,Specific TL %
-Indonesia,1995,88.63935942080309,Dutiable TL %
-Indonesia,1995,11.360640579196915,Duty-Free TL %
-Indonesia,1995,0.0,Specific TL %
-Indonesia,1996,78.04402132710257,Dutiable TL %
-Indonesia,1996,21.928636233703283,Duty-Free TL %
-Indonesia,1996,0.027342439194143746,Specific TL %
-Indonesia,1997,92.51201366241835,Dutiable TL %
-Indonesia,1997,7.487986337581643,Duty-Free TL %
-Indonesia,1997,0.0,Specific TL %
-Indonesia,1998,76.65397112874874,Dutiable TL %
-Indonesia,1998,23.346028871251264,Duty-Free TL %
-Indonesia,1998,0.0,Specific TL %
-Indonesia,1999,78.60863889132973,Dutiable TL %
-Indonesia,1999,21.338639016858515,Duty-Free TL %
-Indonesia,1999,0.05272209181175703,Specific TL %
 Indonesia,2000,77.64290770027151,Dutiable TL %
 Indonesia,2000,22.337020251640098,Duty-Free TL %
 Indonesia,2000,0.020072048088401524,Specific TL %
@@ -1408,313 +421,67 @@ Indonesia,2001,23.54910347996368,Duty-Free TL %
 Indonesia,2001,0.020785699438786116,Specific TL %
 Indonesia,2002,76.28694260403483,Dutiable TL %
 Indonesia,2002,23.67118290776446,Duty-Free TL %
-Indonesia,2002,0.02419414873818209,Specific TL %
-Indonesia,2003,71.3646557398998,Dutiable TL %
+Indonesia,2002,0.024194149,Specific TL %
+Indonesia,2003,71.36465574,Dutiable TL %
 Indonesia,2003,28.39657692436431,Duty-Free TL %
 Indonesia,2003,0.021198969060662525,Specific TL %
-Indonesia,2004,72.623839155087,Dutiable TL %
+Indonesia,2004,72.62383916,Dutiable TL %
 Indonesia,2004,27.162672125280203,Duty-Free TL %
-Indonesia,2004,0.04269774392655988,Specific TL %
-Indonesia,2005,69.9774018870338,Dutiable TL %
+Indonesia,2004,0.042697744,Specific TL %
+Indonesia,2005,69.97740189,Dutiable TL %
 Indonesia,2005,29.832554683169583,Duty-Free TL %
-Indonesia,2005,0.06091135570404391,Specific TL %
+Indonesia,2005,0.060911356,Specific TL %
 Indonesia,2006,70.24889980798817,Dutiable TL %
 Indonesia,2006,29.55252895085213,Duty-Free TL %
-Indonesia,2006,0.07811661439015373,Specific TL %
+Indonesia,2006,0.078116614,Specific TL %
 Indonesia,2007,66.52283698477534,Dutiable TL %
 Indonesia,2007,33.310063126624584,Duty-Free TL %
-Indonesia,2007,0.05347196435202377,Specific TL %
+Indonesia,2007,0.053471964,Specific TL %
 Indonesia,2008,72.22979951799572,Dutiable TL %
-Indonesia,2008,27.6927355067666,Duty-Free TL %
-Indonesia,2008,0.0,Specific TL %
+Indonesia,2008,27.69273551,Duty-Free TL %
+Indonesia,2008,0,Specific TL %
 Indonesia,2009,58.865983836812305,Dutiable TL %
 Indonesia,2009,40.93377702868173,Duty-Free TL %
 Indonesia,2009,0.12244839160436205,Specific TL %
 Indonesia,2010,64.90258065369505,Dutiable TL %
 Indonesia,2010,34.73631301173265,Duty-Free TL %
-Indonesia,2010,0.04563431700638881,Specific TL %
+Indonesia,2010,0.045634317,Specific TL %
 Indonesia,2011,65.57015858376246,Dutiable TL %
 Indonesia,2011,34.06540619475828,Duty-Free TL %
-Indonesia,2011,0.04419337483667666,Specific TL %
+Indonesia,2011,0.044193375,Specific TL %
 Indonesia,2012,65.10388043485128,Dutiable TL %
 Indonesia,2012,34.55374683368392,Duty-Free TL %
-Indonesia,2012,0.0,Specific TL %
+Indonesia,2012,0,Specific TL %
 Indonesia,2013,65.55537627068155,Dutiable TL %
 Indonesia,2013,33.99158464383681,Duty-Free TL %
-Indonesia,2013,0.08440180222671813,Specific TL %
-Indonesia,2014,,Dutiable TL %
-Indonesia,2014,,Duty-Free TL %
-Indonesia,2014,,Specific TL %
-Indonesia,2015,,Dutiable TL %
-Indonesia,2015,,Duty-Free TL %
-Indonesia,2015,,Specific TL %
+Indonesia,2013,0.084401802,Specific TL %
+Indonesia,2014,NA,Dutiable TL %
+Indonesia,2014,NA,Duty-Free TL %
+Indonesia,2014,NA,Specific TL %
+Indonesia,2015,NA,Dutiable TL %
+Indonesia,2015,NA,Duty-Free TL %
+Indonesia,2015,NA,Specific TL %
 Indonesia,2016,66.43957300211645,Dutiable TL %
 Indonesia,2016,33.44971239952007,Duty-Free TL %
-Indonesia,2016,0.05664467823248006,Specific TL %
+Indonesia,2016,0.056644678,Specific TL %
 Indonesia,2017,61.07768755533132,Dutiable TL %
 Indonesia,2017,38.81188778570001,Duty-Free TL %
-Indonesia,2017,0.05521232948433588,Specific TL %
+Indonesia,2017,0.055212329,Specific TL %
 Indonesia,2018,62.855081371422465,Dutiable TL %
 Indonesia,2018,37.01709378869263,Duty-Free TL %
-Indonesia,2018,0.0543366915190223,Specific TL %
+Indonesia,2018,0.054336692,Specific TL %
 Indonesia,2019,62.694325625652525,Dutiable TL %
 Indonesia,2019,37.17924432716748,Duty-Free TL %
 Indonesia,2019,0.054184305934282806,Specific TL %
 Indonesia,2020,63.84414148249625,Dutiable TL %
 Indonesia,2020,36.02051595226699,Duty-Free TL %
-Indonesia,2020,0.06271972535362372,Specific TL %
+Indonesia,2020,0.062719725,Specific TL %
 Indonesia,2021,62.09928470242571,Dutiable TL %
 Indonesia,2021,37.77698105947988,Duty-Free TL %
-Indonesia,2021,0.04940625054652932,Specific TL %
+Indonesia,2021,0.049406251,Specific TL %
 Indonesia,2022,61.333668102887835,Dutiable TL %
 Indonesia,2022,38.52913616004376,Duty-Free TL %
-Indonesia,2022,0.05111213733920973,Specific TL %
-"Iran, Islamic Rep.",1988,,Dutiable TL %
-"Iran, Islamic Rep.",1988,,Duty-Free TL %
-"Iran, Islamic Rep.",1988,,Specific TL %
-"Iran, Islamic Rep.",1989,,Dutiable TL %
-"Iran, Islamic Rep.",1989,,Duty-Free TL %
-"Iran, Islamic Rep.",1989,,Specific TL %
-"Iran, Islamic Rep.",1990,,Dutiable TL %
-"Iran, Islamic Rep.",1990,,Duty-Free TL %
-"Iran, Islamic Rep.",1990,,Specific TL %
-"Iran, Islamic Rep.",1991,,Dutiable TL %
-"Iran, Islamic Rep.",1991,,Duty-Free TL %
-"Iran, Islamic Rep.",1991,,Specific TL %
-"Iran, Islamic Rep.",1992,,Dutiable TL %
-"Iran, Islamic Rep.",1992,,Duty-Free TL %
-"Iran, Islamic Rep.",1992,,Specific TL %
-"Iran, Islamic Rep.",1993,,Dutiable TL %
-"Iran, Islamic Rep.",1993,,Duty-Free TL %
-"Iran, Islamic Rep.",1993,,Specific TL %
-"Iran, Islamic Rep.",1994,,Dutiable TL %
-"Iran, Islamic Rep.",1994,,Duty-Free TL %
-"Iran, Islamic Rep.",1994,,Specific TL %
-"Iran, Islamic Rep.",1995,,Dutiable TL %
-"Iran, Islamic Rep.",1995,,Duty-Free TL %
-"Iran, Islamic Rep.",1995,,Specific TL %
-"Iran, Islamic Rep.",1996,,Dutiable TL %
-"Iran, Islamic Rep.",1996,,Duty-Free TL %
-"Iran, Islamic Rep.",1996,,Specific TL %
-"Iran, Islamic Rep.",1997,,Dutiable TL %
-"Iran, Islamic Rep.",1997,,Duty-Free TL %
-"Iran, Islamic Rep.",1997,,Specific TL %
-"Iran, Islamic Rep.",1998,,Dutiable TL %
-"Iran, Islamic Rep.",1998,,Duty-Free TL %
-"Iran, Islamic Rep.",1998,,Specific TL %
-"Iran, Islamic Rep.",1999,,Dutiable TL %
-"Iran, Islamic Rep.",1999,,Duty-Free TL %
-"Iran, Islamic Rep.",1999,,Specific TL %
-"Iran, Islamic Rep.",2000,98.43116932064449,Dutiable TL %
-"Iran, Islamic Rep.",2000,1.5688306793555074,Duty-Free TL %
-"Iran, Islamic Rep.",2000,0.0,Specific TL %
-"Iran, Islamic Rep.",2001,,Dutiable TL %
-"Iran, Islamic Rep.",2001,,Duty-Free TL %
-"Iran, Islamic Rep.",2001,,Specific TL %
-"Iran, Islamic Rep.",2002,,Dutiable TL %
-"Iran, Islamic Rep.",2002,,Duty-Free TL %
-"Iran, Islamic Rep.",2002,,Specific TL %
-"Iran, Islamic Rep.",2003,98.33824436373604,Dutiable TL %
-"Iran, Islamic Rep.",2003,0.0,Duty-Free TL %
-"Iran, Islamic Rep.",2003,1.6617556362639623,Specific TL %
-"Iran, Islamic Rep.",2004,99.54611950935895,Dutiable TL %
-"Iran, Islamic Rep.",2004,0.0,Duty-Free TL %
-"Iran, Islamic Rep.",2004,0.4538804906410593,Specific TL %
-"Iran, Islamic Rep.",2005,,Dutiable TL %
-"Iran, Islamic Rep.",2005,,Duty-Free TL %
-"Iran, Islamic Rep.",2005,,Specific TL %
-"Iran, Islamic Rep.",2006,,Dutiable TL %
-"Iran, Islamic Rep.",2006,,Duty-Free TL %
-"Iran, Islamic Rep.",2006,,Specific TL %
-"Iran, Islamic Rep.",2007,,Dutiable TL %
-"Iran, Islamic Rep.",2007,,Duty-Free TL %
-"Iran, Islamic Rep.",2007,,Specific TL %
-"Iran, Islamic Rep.",2008,,Dutiable TL %
-"Iran, Islamic Rep.",2008,,Duty-Free TL %
-"Iran, Islamic Rep.",2008,,Specific TL %
-"Iran, Islamic Rep.",2009,,Dutiable TL %
-"Iran, Islamic Rep.",2009,,Duty-Free TL %
-"Iran, Islamic Rep.",2009,,Specific TL %
-"Iran, Islamic Rep.",2010,,Dutiable TL %
-"Iran, Islamic Rep.",2010,,Duty-Free TL %
-"Iran, Islamic Rep.",2010,,Specific TL %
-"Iran, Islamic Rep.",2011,99.75064376283451,Dutiable TL %
-"Iran, Islamic Rep.",2011,0.0,Duty-Free TL %
-"Iran, Islamic Rep.",2011,0.2493562371654878,Specific TL %
-"Iran, Islamic Rep.",2012,,Dutiable TL %
-"Iran, Islamic Rep.",2012,,Duty-Free TL %
-"Iran, Islamic Rep.",2012,,Specific TL %
-"Iran, Islamic Rep.",2013,,Dutiable TL %
-"Iran, Islamic Rep.",2013,,Duty-Free TL %
-"Iran, Islamic Rep.",2013,,Specific TL %
-"Iran, Islamic Rep.",2014,,Dutiable TL %
-"Iran, Islamic Rep.",2014,,Duty-Free TL %
-"Iran, Islamic Rep.",2014,,Specific TL %
-"Iran, Islamic Rep.",2015,,Dutiable TL %
-"Iran, Islamic Rep.",2015,,Duty-Free TL %
-"Iran, Islamic Rep.",2015,,Specific TL %
-"Iran, Islamic Rep.",2016,,Dutiable TL %
-"Iran, Islamic Rep.",2016,,Duty-Free TL %
-"Iran, Islamic Rep.",2016,,Specific TL %
-"Iran, Islamic Rep.",2017,,Dutiable TL %
-"Iran, Islamic Rep.",2017,,Duty-Free TL %
-"Iran, Islamic Rep.",2017,,Specific TL %
-"Iran, Islamic Rep.",2018,,Dutiable TL %
-"Iran, Islamic Rep.",2018,,Duty-Free TL %
-"Iran, Islamic Rep.",2018,,Specific TL %
-"Iran, Islamic Rep.",2019,99.96709296238127,Dutiable TL %
-"Iran, Islamic Rep.",2019,0.0,Duty-Free TL %
-"Iran, Islamic Rep.",2019,0.0329070376187271,Specific TL %
-"Iran, Islamic Rep.",2020,100.0,Dutiable TL %
-"Iran, Islamic Rep.",2020,0.0,Duty-Free TL %
-"Iran, Islamic Rep.",2020,0.0,Specific TL %
-"Iran, Islamic Rep.",2021,,Dutiable TL %
-"Iran, Islamic Rep.",2021,,Duty-Free TL %
-"Iran, Islamic Rep.",2021,,Specific TL %
-"Iran, Islamic Rep.",2022,,Dutiable TL %
-"Iran, Islamic Rep.",2022,,Duty-Free TL %
-"Iran, Islamic Rep.",2022,,Specific TL %
-Israel,1988,,Dutiable TL %
-Israel,1988,,Duty-Free TL %
-Israel,1988,,Specific TL %
-Israel,1989,,Dutiable TL %
-Israel,1989,,Duty-Free TL %
-Israel,1989,,Specific TL %
-Israel,1990,,Dutiable TL %
-Israel,1990,,Duty-Free TL %
-Israel,1990,,Specific TL %
-Israel,1991,,Dutiable TL %
-Israel,1991,,Duty-Free TL %
-Israel,1991,,Specific TL %
-Israel,1992,,Dutiable TL %
-Israel,1992,,Duty-Free TL %
-Israel,1992,,Specific TL %
-Israel,1993,,Dutiable TL %
-Israel,1993,,Duty-Free TL %
-Israel,1993,,Specific TL %
-Israel,1994,,Dutiable TL %
-Israel,1994,,Duty-Free TL %
-Israel,1994,,Specific TL %
-Israel,1995,,Dutiable TL %
-Israel,1995,,Duty-Free TL %
-Israel,1995,,Specific TL %
-Israel,1996,,Dutiable TL %
-Israel,1996,,Duty-Free TL %
-Israel,1996,,Specific TL %
-Israel,1997,,Dutiable TL %
-Israel,1997,,Duty-Free TL %
-Israel,1997,,Specific TL %
-Israel,1998,,Dutiable TL %
-Israel,1998,,Duty-Free TL %
-Israel,1998,,Specific TL %
-Israel,1999,46.74829262290039,Dutiable TL %
-Israel,1999,44.319510244262595,Duty-Free TL %
-Israel,1999,0.4268442749030948,Specific TL %
-Israel,2000,49.131260820935545,Dutiable TL %
-Israel,2000,41.31414037721973,Duty-Free TL %
-Israel,2000,0.5025510594940782,Specific TL %
-Israel,2001,53.83149473061664,Dutiable TL %
-Israel,2001,41.741894678046016,Duty-Free TL %
-Israel,2001,0.19796124559515693,Specific TL %
-Israel,2002,53.4067845752392,Dutiable TL %
-Israel,2002,42.261525079733254,Duty-Free TL %
-Israel,2002,0.42413950213312346,Specific TL %
-Israel,2003,53.02448876546327,Dutiable TL %
-Israel,2003,42.73163342590255,Duty-Free TL %
-Israel,2003,0.46200454430699317,Specific TL %
-Israel,2004,23.83453878586364,Dutiable TL %
-Israel,2004,74.38813286257842,Duty-Free TL %
-Israel,2004,0.15853700339354884,Specific TL %
-Israel,2005,21.26074593857563,Dutiable TL %
-Israel,2005,76.17103709739105,Duty-Free TL %
-Israel,2005,0.14466485974159862,Specific TL %
-Israel,2006,42.35190829578585,Dutiable TL %
-Israel,2006,54.52971773124835,Duty-Free TL %
-Israel,2006,0.11926848661542538,Specific TL %
-Israel,2007,19.784103096045992,Dutiable TL %
-Israel,2007,78.51491763216653,Duty-Free TL %
-Israel,2007,0.18284428347896411,Specific TL %
-Israel,2008,20.90071447774691,Dutiable TL %
-Israel,2008,75.80307461689492,Duty-Free TL %
-Israel,2008,0.6973693858098365,Specific TL %
-Israel,2009,51.020257099854426,Dutiable TL %
-Israel,2009,45.129824734552216,Duty-Free TL %
-Israel,2009,0.1472196863151488,Specific TL %
-Israel,2010,,Dutiable TL %
-Israel,2010,,Duty-Free TL %
-Israel,2010,,Specific TL %
-Israel,2011,45.83039624898027,Dutiable TL %
-Israel,2011,50.52471506981681,Duty-Free TL %
-Israel,2011,0.47283757989529457,Specific TL %
-Israel,2012,17.282906909972564,Dutiable TL %
-Israel,2012,81.12119568685,Duty-Free TL %
-Israel,2012,0.3437440183755503,Specific TL %
-Israel,2013,16.649648960336872,Dutiable TL %
-Israel,2013,81.81242530018443,Duty-Free TL %
-Israel,2013,0.005540648572491471,Specific TL %
-Israel,2014,16.21548778844401,Dutiable TL %
-Israel,2014,82.45753105405427,Duty-Free TL %
-Israel,2014,0.0,Specific TL %
-Israel,2015,41.11755484683043,Dutiable TL %
-Israel,2015,56.7673382394959,Duty-Free TL %
-Israel,2015,0.12741607913696842,Specific TL %
-Israel,2016,39.84284406469332,Dutiable TL %
-Israel,2016,58.127097955447056,Duty-Free TL %
-Israel,2016,0.12053707659444614,Specific TL %
-Israel,2017,17.19621910944084,Dutiable TL %
-Israel,2017,81.19728201040124,Duty-Free TL %
-Israel,2017,0.044034468359716056,Specific TL %
-Israel,2018,,Dutiable TL %
-Israel,2018,,Duty-Free TL %
-Israel,2018,,Specific TL %
-Israel,2019,,Dutiable TL %
-Israel,2019,,Duty-Free TL %
-Israel,2019,,Specific TL %
-Israel,2020,,Dutiable TL %
-Israel,2020,,Duty-Free TL %
-Israel,2020,,Specific TL %
-Israel,2021,37.69645903694161,Dutiable TL %
-Israel,2021,61.10581107900143,Duty-Free TL %
-Israel,2021,0.1685178092684795,Specific TL %
-Israel,2022,35.64763706167336,Dutiable TL %
-Israel,2022,61.03630367677563,Duty-Free TL %
-Israel,2022,1.2558273624109635,Specific TL %
-Japan,1988,56.356044038911094,Dutiable TL %
-Japan,1988,38.236181283462784,Duty-Free TL %
-Japan,1988,3.0983711635623257,Specific TL %
-Japan,1989,55.85307800497674,Dutiable TL %
-Japan,1989,39.193624003750585,Duty-Free TL %
-Japan,1989,2.8264632695012444,Specific TL %
-Japan,1990,48.90726264738289,Dutiable TL %
-Japan,1990,46.163923616834836,Duty-Free TL %
-Japan,1990,2.786718838115234,Specific TL %
-Japan,1991,47.867178857327026,Dutiable TL %
-Japan,1991,47.110216809958104,Duty-Free TL %
-Japan,1991,2.5818590430396946,Specific TL %
-Japan,1992,48.487586592659525,Dutiable TL %
-Japan,1992,46.70969407512585,Duty-Free TL %
-Japan,1992,2.3923239103308807,Specific TL %
-Japan,1993,48.35625186257397,Dutiable TL %
-Japan,1993,46.835540040018735,Duty-Free TL %
-Japan,1993,2.320235003618715,Specific TL %
-Japan,1994,48.40902446155346,Dutiable TL %
-Japan,1994,47.16077055517656,Duty-Free TL %
-Japan,1994,1.9117694831562875,Specific TL %
-Japan,1995,47.04057030598881,Dutiable TL %
-Japan,1995,47.00782831289439,Duty-Free TL %
-Japan,1995,3.72440171448982,Specific TL %
-Japan,1996,46.755028071920975,Dutiable TL %
-Japan,1996,47.312202402103615,Duty-Free TL %
-Japan,1996,1.6025868808187052,Specific TL %
-Japan,1997,45.79025927359169,Dutiable TL %
-Japan,1997,48.38990546741113,Duty-Free TL %
-Japan,1997,3.508347614572392,Specific TL %
-Japan,1998,45.88003698929552,Dutiable TL %
-Japan,1998,48.284341198229,Duty-Free TL %
-Japan,1998,3.451633693885557,Specific TL %
-Japan,1999,44.5687091853591,Dutiable TL %
-Japan,1999,48.93328365867889,Duty-Free TL %
-Japan,1999,3.5020631383603145,Specific TL %
+Indonesia,2022,0.051112137,Specific TL %
 Japan,2000,44.464589857700126,Dutiable TL %
 Japan,2000,49.47118290203835,Duty-Free TL %
 Japan,2000,3.354898082522938,Specific TL %
@@ -1728,7 +495,7 @@ Japan,2003,46.61267200887873,Dutiable TL %
 Japan,2003,47.593031782418265,Duty-Free TL %
 Japan,2003,3.7021133227193754,Specific TL %
 Japan,2004,46.64381586535941,Dutiable TL %
-Japan,2004,47.0619462066796,Duty-Free TL %
+Japan,2004,47.06194621,Duty-Free TL %
 Japan,2004,4.155743721491113,Specific TL %
 Japan,2005,46.65219504292888,Dutiable TL %
 Japan,2005,47.596954479183545,Duty-Free TL %
@@ -1738,9 +505,9 @@ Japan,2006,47.71112245298575,Duty-Free TL %
 Japan,2006,1.0796592202897413,Specific TL %
 Japan,2007,47.20918033636193,Dutiable TL %
 Japan,2007,48.64231269873136,Duty-Free TL %
-Japan,2007,0.658606241540763,Specific TL %
+Japan,2007,0.658606242,Specific TL %
 Japan,2008,44.450012528188424,Dutiable TL %
-Japan,2008,50.4193646230334,Duty-Free TL %
+Japan,2008,50.41936462,Duty-Free TL %
 Japan,2008,1.6378957918474462,Specific TL %
 Japan,2009,43.40686461947038,Dutiable TL %
 Japan,2009,51.19056723141846,Duty-Free TL %
@@ -1754,282 +521,36 @@ Japan,2011,1.2261106297036728,Specific TL %
 Japan,2012,41.65554916255161,Dutiable TL %
 Japan,2012,53.27803033656004,Duty-Free TL %
 Japan,2012,0.9433544723980298,Specific TL %
-Japan,2013,40.0895987774142,Dutiable TL %
+Japan,2013,40.08959878,Dutiable TL %
 Japan,2013,55.15254592399509,Duty-Free TL %
 Japan,2013,4.757855298590699,Specific TL %
 Japan,2014,41.18541426741373,Dutiable TL %
 Japan,2014,55.39589291028843,Duty-Free TL %
-Japan,2014,0.0006469895575885405,Specific TL %
+Japan,2014,0.00064699,Specific TL %
 Japan,2015,40.74959451935413,Dutiable TL %
 Japan,2015,54.33682732576436,Duty-Free TL %
 Japan,2015,1.360478346123121,Specific TL %
 Japan,2016,40.41081947189735,Dutiable TL %
 Japan,2016,55.291861755570295,Duty-Free TL %
 Japan,2016,1.0854932657389957,Specific TL %
-Japan,2017,40.3680355344654,Dutiable TL %
+Japan,2017,40.36803553,Dutiable TL %
 Japan,2017,55.187397403887275,Duty-Free TL %
 Japan,2017,0.9138813402673361,Specific TL %
 Japan,2018,39.20474485856671,Dutiable TL %
 Japan,2018,56.298168035375866,Duty-Free TL %
 Japan,2018,0.8654453569172458,Specific TL %
 Japan,2019,26.01104343844948,Dutiable TL %
-Japan,2019,69.9302154580391,Duty-Free TL %
+Japan,2019,69.93021546,Duty-Free TL %
 Japan,2019,0.4952898902592988,Specific TL %
 Japan,2020,25.824065868092283,Dutiable TL %
-Japan,2020,70.0491723605592,Duty-Free TL %
+Japan,2020,70.04917236,Duty-Free TL %
 Japan,2020,0.5467566254038138,Specific TL %
 Japan,2021,25.48662444665664,Dutiable TL %
 Japan,2021,70.48835419623127,Duty-Free TL %
 Japan,2021,0.4963322248815651,Specific TL %
 Japan,2022,26.433947387284064,Dutiable TL %
 Japan,2022,69.25740090316107,Duty-Free TL %
-Japan,2022,0.468783599741954,Specific TL %
-Jordan,1988,,Dutiable TL %
-Jordan,1988,,Duty-Free TL %
-Jordan,1988,,Specific TL %
-Jordan,1989,,Dutiable TL %
-Jordan,1989,,Duty-Free TL %
-Jordan,1989,,Specific TL %
-Jordan,1990,,Dutiable TL %
-Jordan,1990,,Duty-Free TL %
-Jordan,1990,,Specific TL %
-Jordan,1991,,Dutiable TL %
-Jordan,1991,,Duty-Free TL %
-Jordan,1991,,Specific TL %
-Jordan,1992,,Dutiable TL %
-Jordan,1992,,Duty-Free TL %
-Jordan,1992,,Specific TL %
-Jordan,1993,,Dutiable TL %
-Jordan,1993,,Duty-Free TL %
-Jordan,1993,,Specific TL %
-Jordan,1994,,Dutiable TL %
-Jordan,1994,,Duty-Free TL %
-Jordan,1994,,Specific TL %
-Jordan,1995,,Dutiable TL %
-Jordan,1995,,Duty-Free TL %
-Jordan,1995,,Specific TL %
-Jordan,1996,,Dutiable TL %
-Jordan,1996,,Duty-Free TL %
-Jordan,1996,,Specific TL %
-Jordan,1997,,Dutiable TL %
-Jordan,1997,,Duty-Free TL %
-Jordan,1997,,Specific TL %
-Jordan,1998,,Dutiable TL %
-Jordan,1998,,Duty-Free TL %
-Jordan,1998,,Specific TL %
-Jordan,1999,,Dutiable TL %
-Jordan,1999,,Duty-Free TL %
-Jordan,1999,,Specific TL %
-Jordan,2000,90.47764072889701,Dutiable TL %
-Jordan,2000,9.09598497538196,Duty-Free TL %
-Jordan,2000,0.4263742957210294,Specific TL %
-Jordan,2001,77.54058760743779,Dutiable TL %
-Jordan,2001,22.16729397224875,Duty-Free TL %
-Jordan,2001,0.2162799842705466,Specific TL %
-Jordan,2002,78.28126357240062,Dutiable TL %
-Jordan,2002,21.568173263456583,Duty-Free TL %
-Jordan,2002,0.1158178185713872,Specific TL %
-Jordan,2003,57.196649294660155,Dutiable TL %
-Jordan,2003,42.6259925236705,Duty-Free TL %
-Jordan,2003,0.10914349641190756,Specific TL %
-Jordan,2004,56.91495656701934,Dutiable TL %
-Jordan,2004,42.63296172690478,Duty-Free TL %
-Jordan,2004,0.407110227461005,Specific TL %
-Jordan,2005,53.49728521239221,Dutiable TL %
-Jordan,2005,46.34490014466342,Duty-Free TL %
-Jordan,2005,0.11836098220827776,Specific TL %
-Jordan,2006,45.200162091837825,Dutiable TL %
-Jordan,2006,54.684667391814365,Duty-Free TL %
-Jordan,2006,0.06824919487277924,Specific TL %
-Jordan,2007,44.32183720835539,Dutiable TL %
-Jordan,2007,55.36463211042795,Duty-Free TL %
-Jordan,2007,0.29317154607272283,Specific TL %
-Jordan,2008,45.225729902161014,Dutiable TL %
-Jordan,2008,54.69841084592792,Duty-Free TL %
-Jordan,2008,0.02528641730368987,Specific TL %
-Jordan,2009,40.673102950464674,Dutiable TL %
-Jordan,2009,58.77830912207886,Duty-Free TL %
-Jordan,2009,0.5323468374988721,Specific TL %
-Jordan,2010,47.54798864964113,Dutiable TL %
-Jordan,2010,50.395593390085125,Duty-Free TL %
-Jordan,2010,0.018360874645301284,Specific TL %
-Jordan,2011,47.35495470576032,Dutiable TL %
-Jordan,2011,50.63273632528871,Duty-Free TL %
-Jordan,2011,1.880921098125994,Specific TL %
-Jordan,2012,47.18348560829841,Dutiable TL %
-Jordan,2012,50.94799752696297,Duty-Free TL %
-Jordan,2012,1.7259737583293262,Specific TL %
-Jordan,2013,47.634085821866705,Dutiable TL %
-Jordan,2013,50.63073692977738,Duty-Free TL %
-Jordan,2013,1.67965157640853,Specific TL %
-Jordan,2014,36.494027378149795,Dutiable TL %
-Jordan,2014,63.505972621850205,Duty-Free TL %
-Jordan,2014,0.0,Specific TL %
-Jordan,2015,35.20396386969701,Dutiable TL %
-Jordan,2015,64.79603613030298,Duty-Free TL %
-Jordan,2015,0.0,Specific TL %
-Jordan,2016,34.43723946271422,Dutiable TL %
-Jordan,2016,65.56276053728578,Duty-Free TL %
-Jordan,2016,0.0,Specific TL %
-Jordan,2017,18.383028787823083,Dutiable TL %
-Jordan,2017,81.53976249126806,Duty-Free TL %
-Jordan,2017,0.0,Specific TL %
-Jordan,2018,,Dutiable TL %
-Jordan,2018,,Duty-Free TL %
-Jordan,2018,,Specific TL %
-Jordan,2019,,Dutiable TL %
-Jordan,2019,,Duty-Free TL %
-Jordan,2019,,Specific TL %
-Jordan,2020,18.328731681887515,Dutiable TL %
-Jordan,2020,80.99743208541695,Duty-Free TL %
-Jordan,2020,0.0,Specific TL %
-Jordan,2021,,Dutiable TL %
-Jordan,2021,,Duty-Free TL %
-Jordan,2021,,Specific TL %
-Jordan,2022,18.263295848482286,Dutiable TL %
-Jordan,2022,80.96305064682507,Duty-Free TL %
-Jordan,2022,0.02113807389870635,Specific TL %
-Kazakhstan,1988,,Dutiable TL %
-Kazakhstan,1988,,Duty-Free TL %
-Kazakhstan,1988,,Specific TL %
-Kazakhstan,1989,,Dutiable TL %
-Kazakhstan,1989,,Duty-Free TL %
-Kazakhstan,1989,,Specific TL %
-Kazakhstan,1990,,Dutiable TL %
-Kazakhstan,1990,,Duty-Free TL %
-Kazakhstan,1990,,Specific TL %
-Kazakhstan,1991,,Dutiable TL %
-Kazakhstan,1991,,Duty-Free TL %
-Kazakhstan,1991,,Specific TL %
-Kazakhstan,1992,,Dutiable TL %
-Kazakhstan,1992,,Duty-Free TL %
-Kazakhstan,1992,,Specific TL %
-Kazakhstan,1993,,Dutiable TL %
-Kazakhstan,1993,,Duty-Free TL %
-Kazakhstan,1993,,Specific TL %
-Kazakhstan,1994,,Dutiable TL %
-Kazakhstan,1994,,Duty-Free TL %
-Kazakhstan,1994,,Specific TL %
-Kazakhstan,1995,,Dutiable TL %
-Kazakhstan,1995,,Duty-Free TL %
-Kazakhstan,1995,,Specific TL %
-Kazakhstan,1996,,Dutiable TL %
-Kazakhstan,1996,,Duty-Free TL %
-Kazakhstan,1996,,Specific TL %
-Kazakhstan,1997,,Dutiable TL %
-Kazakhstan,1997,,Duty-Free TL %
-Kazakhstan,1997,,Specific TL %
-Kazakhstan,1998,,Dutiable TL %
-Kazakhstan,1998,,Duty-Free TL %
-Kazakhstan,1998,,Specific TL %
-Kazakhstan,1999,,Dutiable TL %
-Kazakhstan,1999,,Duty-Free TL %
-Kazakhstan,1999,,Specific TL %
-Kazakhstan,2000,,Dutiable TL %
-Kazakhstan,2000,,Duty-Free TL %
-Kazakhstan,2000,,Specific TL %
-Kazakhstan,2001,,Dutiable TL %
-Kazakhstan,2001,,Duty-Free TL %
-Kazakhstan,2001,,Specific TL %
-Kazakhstan,2002,,Dutiable TL %
-Kazakhstan,2002,,Duty-Free TL %
-Kazakhstan,2002,,Specific TL %
-Kazakhstan,2003,,Dutiable TL %
-Kazakhstan,2003,,Duty-Free TL %
-Kazakhstan,2003,,Specific TL %
-Kazakhstan,2004,45.416203714201494,Dutiable TL %
-Kazakhstan,2004,53.06984724458251,Duty-Free TL %
-Kazakhstan,2004,1.5139490412159966,Specific TL %
-Kazakhstan,2005,,Dutiable TL %
-Kazakhstan,2005,,Duty-Free TL %
-Kazakhstan,2005,,Specific TL %
-Kazakhstan,2006,,Dutiable TL %
-Kazakhstan,2006,,Duty-Free TL %
-Kazakhstan,2006,,Specific TL %
-Kazakhstan,2007,,Dutiable TL %
-Kazakhstan,2007,,Duty-Free TL %
-Kazakhstan,2007,,Specific TL %
-Kazakhstan,2008,46.130884179802926,Dutiable TL %
-Kazakhstan,2008,42.70922533257752,Duty-Free TL %
-Kazakhstan,2008,0.053670715086898316,Specific TL %
-Kazakhstan,2009,,Dutiable TL %
-Kazakhstan,2009,,Duty-Free TL %
-Kazakhstan,2009,,Specific TL %
-Kazakhstan,2010,51.82948224588287,Dutiable TL %
-Kazakhstan,2010,33.12050251082849,Duty-Free TL %
-Kazakhstan,2010,0.5315018378229133,Specific TL %
-Kazakhstan,2011,52.00922504769495,Dutiable TL %
-Kazakhstan,2011,33.02120312009467,Duty-Free TL %
-Kazakhstan,2011,0.7003308459513632,Specific TL %
-Kazakhstan,2012,51.18141398650696,Dutiable TL %
-Kazakhstan,2012,33.04558075108371,Duty-Free TL %
-Kazakhstan,2012,0.6288919258191982,Specific TL %
-Kazakhstan,2013,53.72210875809569,Dutiable TL %
-Kazakhstan,2013,32.25554548333898,Duty-Free TL %
-Kazakhstan,2013,0.7879992573257173,Specific TL %
-Kazakhstan,2014,54.68580599902213,Dutiable TL %
-Kazakhstan,2014,33.24227801279735,Duty-Free TL %
-Kazakhstan,2014,0.0,Specific TL %
-Kazakhstan,2015,59.3554208771447,Dutiable TL %
-Kazakhstan,2015,25.96875659970433,Duty-Free TL %
-Kazakhstan,2015,1.6504860582245915,Specific TL %
-Kazakhstan,2016,53.53032750771038,Dutiable TL %
-Kazakhstan,2016,34.817447495961225,Duty-Free TL %
-Kazakhstan,2016,1.1614040240857688,Specific TL %
-Kazakhstan,2017,52.047105436935944,Dutiable TL %
-Kazakhstan,2017,36.391762662949105,Duty-Free TL %
-Kazakhstan,2017,1.0590163132536015,Specific TL %
-Kazakhstan,2018,52.18955730731037,Dutiable TL %
-Kazakhstan,2018,37.11091223381432,Duty-Free TL %
-Kazakhstan,2018,0.17285978741924016,Specific TL %
-Kazakhstan,2019,54.145656553323974,Dutiable TL %
-Kazakhstan,2019,35.53446065563763,Duty-Free TL %
-Kazakhstan,2019,0.06654050424272022,Specific TL %
-Kazakhstan,2020,50.94833104709648,Dutiable TL %
-Kazakhstan,2020,37.50647767108673,Duty-Free TL %
-Kazakhstan,2020,0.09083981100442005,Specific TL %
-Kazakhstan,2021,44.36832728810735,Dutiable TL %
-Kazakhstan,2021,44.87458826243544,Duty-Free TL %
-Kazakhstan,2021,0.14482908885841356,Specific TL %
-Kazakhstan,2022,49.843828773751646,Dutiable TL %
-Kazakhstan,2022,40.475293654059,Duty-Free TL %
-Kazakhstan,2022,0.27467592297484456,Specific TL %
-"Korea, Rep.",1988,89.05059561392432,Dutiable TL %
-"Korea, Rep.",1988,0.7071599949488572,Duty-Free TL %
-"Korea, Rep.",1988,9.93917582186303,Specific TL %
-"Korea, Rep.",1989,86.56035047494268,Dutiable TL %
-"Korea, Rep.",1989,0.9089420242384539,Duty-Free TL %
-"Korea, Rep.",1989,12.08442515558467,Specific TL %
-"Korea, Rep.",1990,98.43975247864589,Dutiable TL %
-"Korea, Rep.",1990,1.5318080630767572,Duty-Free TL %
-"Korea, Rep.",1990,0.0,Specific TL %
-"Korea, Rep.",1991,,Dutiable TL %
-"Korea, Rep.",1991,,Duty-Free TL %
-"Korea, Rep.",1991,,Specific TL %
-"Korea, Rep.",1992,98.47951518670392,Dutiable TL %
-"Korea, Rep.",1992,1.481474761403636,Duty-Free TL %
-"Korea, Rep.",1992,0.0,Specific TL %
-"Korea, Rep.",1993,,Dutiable TL %
-"Korea, Rep.",1993,,Duty-Free TL %
-"Korea, Rep.",1993,,Specific TL %
-"Korea, Rep.",1994,,Dutiable TL %
-"Korea, Rep.",1994,,Duty-Free TL %
-"Korea, Rep.",1994,,Specific TL %
-"Korea, Rep.",1995,98.71998733658073,Dutiable TL %
-"Korea, Rep.",1995,1.280012663419267,Duty-Free TL %
-"Korea, Rep.",1995,0.0,Specific TL %
-"Korea, Rep.",1996,97.77669843137524,Dutiable TL %
-"Korea, Rep.",1996,1.55767928361803,Duty-Free TL %
-"Korea, Rep.",1996,0.09098434111602897,Specific TL %
-"Korea, Rep.",1997,98.03544399596367,Dutiable TL %
-"Korea, Rep.",1997,1.6057013118062564,Duty-Free TL %
-"Korea, Rep.",1997,0.018920282542885972,Specific TL %
-"Korea, Rep.",1998,98.0245826506824,Dutiable TL %
-"Korea, Rep.",1998,1.6484666517505937,Duty-Free TL %
-"Korea, Rep.",1998,0.020930618608041688,Specific TL %
-"Korea, Rep.",1999,97.03472345160719,Dutiable TL %
-"Korea, Rep.",1999,2.2710604182999923,Duty-Free TL %
-"Korea, Rep.",1999,0.26428264333223744,Specific TL %
+Japan,2022,0.4687836,Specific TL %
 "Korea, Rep.",2000,90.50565620481416,Dutiable TL %
 "Korea, Rep.",2000,9.164752913158118,Duty-Free TL %
 "Korea, Rep.",2000,0.028706302628221485,Specific TL %
@@ -2044,13 +565,13 @@ Kazakhstan,2022,0.27467592297484456,Specific TL %
 "Korea, Rep.",2003,0.31172540008949534,Specific TL %
 "Korea, Rep.",2004,82.84503160480513,Dutiable TL %
 "Korea, Rep.",2004,16.778007449347434,Duty-Free TL %
-"Korea, Rep.",2004,0.0,Specific TL %
+"Korea, Rep.",2004,0,Specific TL %
 "Korea, Rep.",2005,82.57595442489374,Dutiable TL %
 "Korea, Rep.",2005,16.730809771977388,Duty-Free TL %
 "Korea, Rep.",2005,0.26915590941849576,Specific TL %
 "Korea, Rep.",2006,82.91180254443226,Dutiable TL %
 "Korea, Rep.",2006,16.70272073188164,Duty-Free TL %
-"Korea, Rep.",2006,0.02096535950826702,Specific TL %
+"Korea, Rep.",2006,0.02096536,Specific TL %
 "Korea, Rep.",2007,70.67316836990541,Dutiable TL %
 "Korea, Rep.",2007,26.698051218204768,Duty-Free TL %
 "Korea, Rep.",2007,2.3067213086406944,Specific TL %
@@ -2060,9 +581,9 @@ Kazakhstan,2022,0.27467592297484456,Specific TL %
 "Korea, Rep.",2009,79.12974306553635,Dutiable TL %
 "Korea, Rep.",2009,20.34263052316868,Duty-Free TL %
 "Korea, Rep.",2009,0.1579420648523184,Specific TL %
-"Korea, Rep.",2010,79.1264979829141,Dutiable TL %
+"Korea, Rep.",2010,79.12649798,Dutiable TL %
 "Korea, Rep.",2010,20.49641077361177,Duty-Free TL %
-"Korea, Rep.",2010,0.0,Specific TL %
+"Korea, Rep.",2010,0,Specific TL %
 "Korea, Rep.",2011,78.74502760737303,Dutiable TL %
 "Korea, Rep.",2011,20.531518567806664,Duty-Free TL %
 "Korea, Rep.",2011,0.3952668953155824,Specific TL %
@@ -2074,217 +595,76 @@ Kazakhstan,2022,0.27467592297484456,Specific TL %
 "Korea, Rep.",2013,0.32175666896816785,Specific TL %
 "Korea, Rep.",2014,39.63464172929903,Dutiable TL %
 "Korea, Rep.",2014,59.95540100007818,Duty-Free TL %
-"Korea, Rep.",2014,0.0,Specific TL %
+"Korea, Rep.",2014,0,Specific TL %
 "Korea, Rep.",2015,34.797449324831085,Dutiable TL %
-"Korea, Rep.",2015,64.819549398498,Duty-Free TL %
-"Korea, Rep.",2015,0.0,Specific TL %
+"Korea, Rep.",2015,64.8195494,Duty-Free TL %
+"Korea, Rep.",2015,0,Specific TL %
 "Korea, Rep.",2016,79.49665776239387,Dutiable TL %
 "Korea, Rep.",2016,19.88255138768702,Duty-Free TL %
 "Korea, Rep.",2016,0.2699499604951277,Specific TL %
 "Korea, Rep.",2017,31.266309686424055,Dutiable TL %
 "Korea, Rep.",2017,68.35036100426326,Duty-Free TL %
-"Korea, Rep.",2017,0.003638155653528515,Specific TL %
+"Korea, Rep.",2017,0.003638156,Specific TL %
 "Korea, Rep.",2018,31.044382191558817,Dutiable TL %
 "Korea, Rep.",2018,68.57361146482069,Duty-Free TL %
-"Korea, Rep.",2018,0.003638155653528515,Specific TL %
-"Korea, Rep.",2019,,Dutiable TL %
-"Korea, Rep.",2019,,Duty-Free TL %
-"Korea, Rep.",2019,,Specific TL %
+"Korea, Rep.",2018,0.003638156,Specific TL %
+"Korea, Rep.",2019,NA,Dutiable TL %
+"Korea, Rep.",2019,NA,Duty-Free TL %
+"Korea, Rep.",2019,NA,Specific TL %
 "Korea, Rep.",2020,29.965457130175803,Dutiable TL %
 "Korea, Rep.",2020,69.63122109366456,Duty-Free TL %
-"Korea, Rep.",2020,0.0032162821065361284,Specific TL %
+"Korea, Rep.",2020,0.003216282,Specific TL %
 "Korea, Rep.",2021,25.61845334531047,Dutiable TL %
 "Korea, Rep.",2021,73.99400073787716,Duty-Free TL %
-"Korea, Rep.",2021,0.0032081615630163134,Specific TL %
+"Korea, Rep.",2021,0.003208162,Specific TL %
 "Korea, Rep.",2022,31.392788485143765,Dutiable TL %
 "Korea, Rep.",2022,68.28806780198738,Duty-Free TL %
-"Korea, Rep.",2022,0.0,Specific TL %
-Kuwait,1988,,Dutiable TL %
-Kuwait,1988,,Duty-Free TL %
-Kuwait,1988,,Specific TL %
-Kuwait,1989,,Dutiable TL %
-Kuwait,1989,,Duty-Free TL %
-Kuwait,1989,,Specific TL %
-Kuwait,1990,,Dutiable TL %
-Kuwait,1990,,Duty-Free TL %
-Kuwait,1990,,Specific TL %
-Kuwait,1991,,Dutiable TL %
-Kuwait,1991,,Duty-Free TL %
-Kuwait,1991,,Specific TL %
-Kuwait,1992,,Dutiable TL %
-Kuwait,1992,,Duty-Free TL %
-Kuwait,1992,,Specific TL %
-Kuwait,1993,,Dutiable TL %
-Kuwait,1993,,Duty-Free TL %
-Kuwait,1993,,Specific TL %
-Kuwait,1994,,Dutiable TL %
-Kuwait,1994,,Duty-Free TL %
-Kuwait,1994,,Specific TL %
-Kuwait,1995,,Dutiable TL %
-Kuwait,1995,,Duty-Free TL %
-Kuwait,1995,,Specific TL %
-Kuwait,1996,,Dutiable TL %
-Kuwait,1996,,Duty-Free TL %
-Kuwait,1996,,Specific TL %
-Kuwait,1997,,Dutiable TL %
-Kuwait,1997,,Duty-Free TL %
-Kuwait,1997,,Specific TL %
-Kuwait,1998,,Dutiable TL %
-Kuwait,1998,,Duty-Free TL %
-Kuwait,1998,,Specific TL %
-Kuwait,1999,,Dutiable TL %
-Kuwait,1999,,Duty-Free TL %
-Kuwait,1999,,Specific TL %
-Kuwait,2000,,Dutiable TL %
-Kuwait,2000,,Duty-Free TL %
-Kuwait,2000,,Specific TL %
-Kuwait,2001,,Dutiable TL %
-Kuwait,2001,,Duty-Free TL %
-Kuwait,2001,,Specific TL %
-Kuwait,2002,82.76296829971182,Dutiable TL %
-Kuwait,2002,16.120317002881844,Duty-Free TL %
-Kuwait,2002,1.11671469740634,Specific TL %
-Kuwait,2003,95.32397978426492,Dutiable TL %
-Kuwait,2003,4.399939654522139,Duty-Free TL %
-Kuwait,2003,0.2760805612129441,Specific TL %
-Kuwait,2004,95.32397978426492,Dutiable TL %
-Kuwait,2004,4.399939654522139,Duty-Free TL %
-Kuwait,2004,0.2760805612129441,Specific TL %
-Kuwait,2005,,Dutiable TL %
-Kuwait,2005,,Duty-Free TL %
-Kuwait,2005,,Specific TL %
-Kuwait,2006,81.4769346639051,Dutiable TL %
-Kuwait,2006,17.959706270005647,Duty-Free TL %
-Kuwait,2006,0.5249482206740727,Specific TL %
-Kuwait,2007,77.85364961075254,Dutiable TL %
-Kuwait,2007,21.850256171401956,Duty-Free TL %
-Kuwait,2007,0.2960942178454987,Specific TL %
-Kuwait,2008,78.77725983635949,Dutiable TL %
-Kuwait,2008,20.859275678847347,Duty-Free TL %
-Kuwait,2008,0.3439058578087818,Specific TL %
-Kuwait,2009,,Dutiable TL %
-Kuwait,2009,,Duty-Free TL %
-Kuwait,2009,,Specific TL %
-Kuwait,2010,91.55172154450143,Dutiable TL %
-Kuwait,2010,8.103067041711165,Duty-Free TL %
-Kuwait,2010,0.3452114137873979,Specific TL %
-Kuwait,2011,91.55172154450143,Dutiable TL %
-Kuwait,2011,8.103067041711165,Duty-Free TL %
-Kuwait,2011,0.3452114137873979,Specific TL %
-Kuwait,2012,,Dutiable TL %
-Kuwait,2012,,Duty-Free TL %
-Kuwait,2012,,Specific TL %
-Kuwait,2013,83.31436656106789,Dutiable TL %
-Kuwait,2013,16.302709685356625,Duty-Free TL %
-Kuwait,2013,0.3321748223787408,Specific TL %
-Kuwait,2014,75.97293862599984,Dutiable TL %
-Kuwait,2014,24.00313971742543,Duty-Free TL %
-Kuwait,2014,0.0,Specific TL %
-Kuwait,2015,74.60911440161338,Dutiable TL %
-Kuwait,2015,25.1447369430024,Duty-Free TL %
-Kuwait,2015,0.2338795635270572,Specific TL %
-Kuwait,2016,74.6336525853277,Dutiable TL %
-Kuwait,2016,25.120198759288087,Duty-Free TL %
-Kuwait,2016,0.2338795635270572,Specific TL %
-Kuwait,2017,73.71029984014984,Dutiable TL %
-Kuwait,2017,25.7673615035603,Duty-Free TL %
-Kuwait,2017,0.4908530185845995,Specific TL %
-Kuwait,2018,73.83916078260096,Dutiable TL %
-Kuwait,2018,25.57041063094978,Duty-Free TL %
-Kuwait,2018,0.5297681152387191,Specific TL %
-Kuwait,2019,73.88202751558974,Dutiable TL %
-Kuwait,2019,25.52673509167819,Duty-Free TL %
-Kuwait,2019,0.5305769215215264,Specific TL %
-Kuwait,2020,73.9286399079637,Dutiable TL %
-Kuwait,2020,25.53448165665346,Duty-Free TL %
-Kuwait,2020,0.5137095743320976,Specific TL %
-Kuwait,2021,72.92540752458903,Dutiable TL %
-Kuwait,2021,26.32488479262673,Duty-Free TL %
-Kuwait,2021,0.7058601004195612,Specific TL %
-Kuwait,2022,88.18642077196546,Dutiable TL %
-Kuwait,2022,11.216036058913154,Duty-Free TL %
-Kuwait,2022,0.5015236160487557,Specific TL %
-Kyrgyz Republic,1988,,Dutiable TL %
-Kyrgyz Republic,1988,,Duty-Free TL %
-Kyrgyz Republic,1988,,Specific TL %
-Kyrgyz Republic,1989,,Dutiable TL %
-Kyrgyz Republic,1989,,Duty-Free TL %
-Kyrgyz Republic,1989,,Specific TL %
-Kyrgyz Republic,1990,,Dutiable TL %
-Kyrgyz Republic,1990,,Duty-Free TL %
-Kyrgyz Republic,1990,,Specific TL %
-Kyrgyz Republic,1991,,Dutiable TL %
-Kyrgyz Republic,1991,,Duty-Free TL %
-Kyrgyz Republic,1991,,Specific TL %
-Kyrgyz Republic,1992,,Dutiable TL %
-Kyrgyz Republic,1992,,Duty-Free TL %
-Kyrgyz Republic,1992,,Specific TL %
-Kyrgyz Republic,1993,,Dutiable TL %
-Kyrgyz Republic,1993,,Duty-Free TL %
-Kyrgyz Republic,1993,,Specific TL %
-Kyrgyz Republic,1994,,Dutiable TL %
-Kyrgyz Republic,1994,,Duty-Free TL %
-Kyrgyz Republic,1994,,Specific TL %
-Kyrgyz Republic,1995,0.0,Dutiable TL %
-Kyrgyz Republic,1995,80.22276167356847,Duty-Free TL %
-Kyrgyz Republic,1995,19.77723832643153,Specific TL %
-Kyrgyz Republic,1996,,Dutiable TL %
-Kyrgyz Republic,1996,,Duty-Free TL %
-Kyrgyz Republic,1996,,Specific TL %
-Kyrgyz Republic,1997,,Dutiable TL %
-Kyrgyz Republic,1997,,Duty-Free TL %
-Kyrgyz Republic,1997,,Specific TL %
-Kyrgyz Republic,1998,,Dutiable TL %
-Kyrgyz Republic,1998,,Duty-Free TL %
-Kyrgyz Republic,1998,,Specific TL %
-Kyrgyz Republic,1999,,Dutiable TL %
-Kyrgyz Republic,1999,,Duty-Free TL %
-Kyrgyz Republic,1999,,Specific TL %
+"Korea, Rep.",2022,0,Specific TL %
 Kyrgyz Republic,2000,41.57377530067468,Dutiable TL %
 Kyrgyz Republic,2000,55.61381636843649,Duty-Free TL %
-Kyrgyz Republic,2000,0.0,Specific TL %
+Kyrgyz Republic,2000,0,Specific TL %
 Kyrgyz Republic,2001,40.25758205234732,Dutiable TL %
 Kyrgyz Republic,2001,57.011746043736075,Duty-Free TL %
-Kyrgyz Republic,2001,0.0,Specific TL %
-Kyrgyz Republic,2002,78.0578422087856,Dutiable TL %
+Kyrgyz Republic,2001,0,Specific TL %
+Kyrgyz Republic,2002,78.05784221,Dutiable TL %
 Kyrgyz Republic,2002,21.872951118234138,Duty-Free TL %
-Kyrgyz Republic,2002,0.0,Specific TL %
+Kyrgyz Republic,2002,0,Specific TL %
 Kyrgyz Republic,2003,45.68893717182691,Dutiable TL %
 Kyrgyz Republic,2003,52.09125475285171,Duty-Free TL %
 Kyrgyz Republic,2003,0.010863661053775122,Specific TL %
-Kyrgyz Republic,2004,,Dutiable TL %
-Kyrgyz Republic,2004,,Duty-Free TL %
-Kyrgyz Republic,2004,,Specific TL %
-Kyrgyz Republic,2005,,Dutiable TL %
-Kyrgyz Republic,2005,,Duty-Free TL %
-Kyrgyz Republic,2005,,Specific TL %
+Kyrgyz Republic,2004,NA,Dutiable TL %
+Kyrgyz Republic,2004,NA,Duty-Free TL %
+Kyrgyz Republic,2004,NA,Specific TL %
+Kyrgyz Republic,2005,NA,Dutiable TL %
+Kyrgyz Republic,2005,NA,Duty-Free TL %
+Kyrgyz Republic,2005,NA,Specific TL %
 Kyrgyz Republic,2006,31.139218906639933,Dutiable TL %
-Kyrgyz Republic,2006,67.6385896806945,Duty-Free TL %
-Kyrgyz Republic,2006,0.0,Specific TL %
+Kyrgyz Republic,2006,67.63858968,Duty-Free TL %
+Kyrgyz Republic,2006,0,Specific TL %
 Kyrgyz Republic,2007,30.17241379310345,Dutiable TL %
 Kyrgyz Republic,2007,68.14625982719701,Duty-Free TL %
-Kyrgyz Republic,2007,0.0,Specific TL %
+Kyrgyz Republic,2007,0,Specific TL %
 Kyrgyz Republic,2008,32.391807069705976,Dutiable TL %
 Kyrgyz Republic,2008,66.29042322798517,Duty-Free TL %
-Kyrgyz Republic,2008,0.08075468927797966,Specific TL %
+Kyrgyz Republic,2008,0.080754689,Specific TL %
 Kyrgyz Republic,2009,30.336197235711616,Dutiable TL %
 Kyrgyz Republic,2009,67.39820694807621,Duty-Free TL %
-Kyrgyz Republic,2009,0.0635039223010833,Specific TL %
+Kyrgyz Republic,2009,0.063503922,Specific TL %
 Kyrgyz Republic,2010,32.30688046845743,Dutiable TL %
 Kyrgyz Republic,2010,66.16620706090627,Duty-Free TL %
-Kyrgyz Republic,2010,0.00510673067102441,Specific TL %
+Kyrgyz Republic,2010,0.005106731,Specific TL %
 Kyrgyz Republic,2011,32.21134330296978,Dutiable TL %
 Kyrgyz Republic,2011,65.49758877685225,Duty-Free TL %
-Kyrgyz Republic,2011,0.04221670157663143,Specific TL %
+Kyrgyz Republic,2011,0.042216702,Specific TL %
 Kyrgyz Republic,2012,33.20370651678566,Dutiable TL %
 Kyrgyz Republic,2012,64.20173173325232,Duty-Free TL %
-Kyrgyz Republic,2012,0.05772444174388577,Specific TL %
+Kyrgyz Republic,2012,0.057724442,Specific TL %
 Kyrgyz Republic,2013,33.20370651678566,Dutiable TL %
 Kyrgyz Republic,2013,64.20173173325232,Duty-Free TL %
-Kyrgyz Republic,2013,0.05772444174388577,Specific TL %
+Kyrgyz Republic,2013,0.057724442,Specific TL %
 Kyrgyz Republic,2014,32.89154300215149,Dutiable TL %
 Kyrgyz Republic,2014,65.11419429580184,Duty-Free TL %
-Kyrgyz Republic,2014,0.0,Specific TL %
+Kyrgyz Republic,2014,0,Specific TL %
 Kyrgyz Republic,2015,47.775868904453546,Dutiable TL %
 Kyrgyz Republic,2015,39.21765560988503,Duty-Free TL %
 Kyrgyz Republic,2015,1.5554380864279107,Specific TL %
@@ -2293,404 +673,53 @@ Kyrgyz Republic,2016,41.13202344019304,Duty-Free TL %
 Kyrgyz Republic,2016,1.2078593588417788,Specific TL %
 Kyrgyz Republic,2017,43.50181011983274,Dutiable TL %
 Kyrgyz Republic,2017,43.49479415148879,Duty-Free TL %
-Kyrgyz Republic,2017,0.902253529032077,Specific TL %
+Kyrgyz Republic,2017,0.902253529,Specific TL %
 Kyrgyz Republic,2018,43.19165036622453,Dutiable TL %
 Kyrgyz Republic,2018,44.770770570682046,Duty-Free TL %
 Kyrgyz Republic,2018,0.5554048458715858,Specific TL %
 Kyrgyz Republic,2019,46.21016005567154,Dutiable TL %
 Kyrgyz Republic,2019,42.119693806541406,Duty-Free TL %
-Kyrgyz Republic,2019,0.41892832289492,Specific TL %
+Kyrgyz Republic,2019,0.418928323,Specific TL %
 Kyrgyz Republic,2020,45.71559880192073,Dutiable TL %
 Kyrgyz Republic,2020,43.26872791239442,Duty-Free TL %
-Kyrgyz Republic,2020,0.587946308299393,Specific TL %
+Kyrgyz Republic,2020,0.587946308,Specific TL %
 Kyrgyz Republic,2021,44.74930542559777,Dutiable TL %
-Kyrgyz Republic,2021,44.0453740625045,Duty-Free TL %
+Kyrgyz Republic,2021,44.04537406,Duty-Free TL %
 Kyrgyz Republic,2021,0.7125685577324485,Specific TL %
-Kyrgyz Republic,2022,,Dutiable TL %
-Kyrgyz Republic,2022,,Duty-Free TL %
-Kyrgyz Republic,2022,,Specific TL %
-Lao PDR,1988,,Dutiable TL %
-Lao PDR,1988,,Duty-Free TL %
-Lao PDR,1988,,Specific TL %
-Lao PDR,1989,,Dutiable TL %
-Lao PDR,1989,,Duty-Free TL %
-Lao PDR,1989,,Specific TL %
-Lao PDR,1990,,Dutiable TL %
-Lao PDR,1990,,Duty-Free TL %
-Lao PDR,1990,,Specific TL %
-Lao PDR,1991,,Dutiable TL %
-Lao PDR,1991,,Duty-Free TL %
-Lao PDR,1991,,Specific TL %
-Lao PDR,1992,,Dutiable TL %
-Lao PDR,1992,,Duty-Free TL %
-Lao PDR,1992,,Specific TL %
-Lao PDR,1993,,Dutiable TL %
-Lao PDR,1993,,Duty-Free TL %
-Lao PDR,1993,,Specific TL %
-Lao PDR,1994,,Dutiable TL %
-Lao PDR,1994,,Duty-Free TL %
-Lao PDR,1994,,Specific TL %
-Lao PDR,1995,,Dutiable TL %
-Lao PDR,1995,,Duty-Free TL %
-Lao PDR,1995,,Specific TL %
-Lao PDR,1996,,Dutiable TL %
-Lao PDR,1996,,Duty-Free TL %
-Lao PDR,1996,,Specific TL %
-Lao PDR,1997,,Dutiable TL %
-Lao PDR,1997,,Duty-Free TL %
-Lao PDR,1997,,Specific TL %
-Lao PDR,1998,,Dutiable TL %
-Lao PDR,1998,,Duty-Free TL %
-Lao PDR,1998,,Specific TL %
-Lao PDR,1999,,Dutiable TL %
-Lao PDR,1999,,Duty-Free TL %
-Lao PDR,1999,,Specific TL %
-Lao PDR,2000,,Dutiable TL %
-Lao PDR,2000,,Duty-Free TL %
-Lao PDR,2000,,Specific TL %
-Lao PDR,2001,,Dutiable TL %
-Lao PDR,2001,,Duty-Free TL %
-Lao PDR,2001,,Specific TL %
-Lao PDR,2002,,Dutiable TL %
-Lao PDR,2002,,Duty-Free TL %
-Lao PDR,2002,,Specific TL %
-Lao PDR,2003,,Dutiable TL %
-Lao PDR,2003,,Duty-Free TL %
-Lao PDR,2003,,Specific TL %
-Lao PDR,2004,,Dutiable TL %
-Lao PDR,2004,,Duty-Free TL %
-Lao PDR,2004,,Specific TL %
-Lao PDR,2005,,Dutiable TL %
-Lao PDR,2005,,Duty-Free TL %
-Lao PDR,2005,,Specific TL %
-Lao PDR,2006,,Dutiable TL %
-Lao PDR,2006,,Duty-Free TL %
-Lao PDR,2006,,Specific TL %
-Lao PDR,2007,,Dutiable TL %
-Lao PDR,2007,,Duty-Free TL %
-Lao PDR,2007,,Specific TL %
-Lao PDR,2008,,Dutiable TL %
-Lao PDR,2008,,Duty-Free TL %
-Lao PDR,2008,,Specific TL %
-Lao PDR,2009,,Dutiable TL %
-Lao PDR,2009,,Duty-Free TL %
-Lao PDR,2009,,Specific TL %
-Lao PDR,2010,,Dutiable TL %
-Lao PDR,2010,,Duty-Free TL %
-Lao PDR,2010,,Specific TL %
-Lao PDR,2011,,Dutiable TL %
-Lao PDR,2011,,Duty-Free TL %
-Lao PDR,2011,,Specific TL %
-Lao PDR,2012,,Dutiable TL %
-Lao PDR,2012,,Duty-Free TL %
-Lao PDR,2012,,Specific TL %
-Lao PDR,2013,,Dutiable TL %
-Lao PDR,2013,,Duty-Free TL %
-Lao PDR,2013,,Specific TL %
-Lao PDR,2014,64.02775875450851,Dutiable TL %
-Lao PDR,2014,35.95397890699904,Duty-Free TL %
-Lao PDR,2014,0.018262338492443957,Specific TL %
-Lao PDR,2015,39.80646004969269,Dutiable TL %
-Lao PDR,2015,60.17610391874809,Duty-Free TL %
-Lao PDR,2015,0.01743603155921712,Specific TL %
-Lao PDR,2016,32.36775326956861,Dutiable TL %
-Lao PDR,2016,67.60491899277767,Duty-Free TL %
-Lao PDR,2016,0.027327737653718525,Specific TL %
-Lao PDR,2017,32.753669432035736,Dutiable TL %
-Lao PDR,2017,67.218410976388,Duty-Free TL %
-Lao PDR,2017,0.02791959157626037,Specific TL %
-Lao PDR,2018,26.531019349690805,Dutiable TL %
-Lao PDR,2018,73.46898065030919,Duty-Free TL %
-Lao PDR,2018,0.0,Specific TL %
-Lao PDR,2019,39.62190224311882,Dutiable TL %
-Lao PDR,2019,60.36830247820551,Duty-Free TL %
-Lao PDR,2019,0.009795278675678323,Specific TL %
-Lao PDR,2020,40.106768537564896,Dutiable TL %
-Lao PDR,2020,59.88343618375943,Duty-Free TL %
-Lao PDR,2020,0.009795278675678323,Specific TL %
-Lao PDR,2021,38.15529519871353,Dutiable TL %
-Lao PDR,2021,61.83092120376752,Duty-Free TL %
-Lao PDR,2021,0.013783597518952447,Specific TL %
-Lao PDR,2022,,Dutiable TL %
-Lao PDR,2022,,Duty-Free TL %
-Lao PDR,2022,,Specific TL %
-Lebanon,1988,,Dutiable TL %
-Lebanon,1988,,Duty-Free TL %
-Lebanon,1988,,Specific TL %
-Lebanon,1989,,Dutiable TL %
-Lebanon,1989,,Duty-Free TL %
-Lebanon,1989,,Specific TL %
-Lebanon,1990,,Dutiable TL %
-Lebanon,1990,,Duty-Free TL %
-Lebanon,1990,,Specific TL %
-Lebanon,1991,,Dutiable TL %
-Lebanon,1991,,Duty-Free TL %
-Lebanon,1991,,Specific TL %
-Lebanon,1992,,Dutiable TL %
-Lebanon,1992,,Duty-Free TL %
-Lebanon,1992,,Specific TL %
-Lebanon,1993,,Dutiable TL %
-Lebanon,1993,,Duty-Free TL %
-Lebanon,1993,,Specific TL %
-Lebanon,1994,,Dutiable TL %
-Lebanon,1994,,Duty-Free TL %
-Lebanon,1994,,Specific TL %
-Lebanon,1995,,Dutiable TL %
-Lebanon,1995,,Duty-Free TL %
-Lebanon,1995,,Specific TL %
-Lebanon,1996,,Dutiable TL %
-Lebanon,1996,,Duty-Free TL %
-Lebanon,1996,,Specific TL %
-Lebanon,1997,,Dutiable TL %
-Lebanon,1997,,Duty-Free TL %
-Lebanon,1997,,Specific TL %
-Lebanon,1998,,Dutiable TL %
-Lebanon,1998,,Duty-Free TL %
-Lebanon,1998,,Specific TL %
-Lebanon,1999,99.87639060568603,Dutiable TL %
-Lebanon,1999,0.07032948297174034,Duty-Free TL %
-Lebanon,1999,0.05327991134222752,Specific TL %
-Lebanon,2000,98.52253560219485,Dutiable TL %
-Lebanon,2000,0.0,Duty-Free TL %
-Lebanon,2000,1.4091423447274591,Specific TL %
-Lebanon,2001,77.23002841806125,Dutiable TL %
-Lebanon,2001,21.757578149668458,Duty-Free TL %
-Lebanon,2001,0.7597884433217557,Specific TL %
-Lebanon,2002,66.40220832368156,Dutiable TL %
-Lebanon,2002,22.980850899544436,Duty-Free TL %
-Lebanon,2002,0.3822098679638638,Specific TL %
-Lebanon,2003,,Dutiable TL %
-Lebanon,2003,,Duty-Free TL %
-Lebanon,2003,,Specific TL %
-Lebanon,2004,77.35849056603773,Dutiable TL %
-Lebanon,2004,22.641509433962263,Duty-Free TL %
-Lebanon,2004,0.0,Specific TL %
-Lebanon,2005,65.7529156775725,Dutiable TL %
-Lebanon,2005,22.014655795231707,Duty-Free TL %
-Lebanon,2005,0.6626070801940345,Specific TL %
-Lebanon,2006,70.23672402826247,Dutiable TL %
-Lebanon,2006,29.458990183774862,Duty-Free TL %
-Lebanon,2006,0.2784988567793842,Specific TL %
-Lebanon,2007,59.44874147876246,Dutiable TL %
-Lebanon,2007,29.45398531725223,Duty-Free TL %
-Lebanon,2007,0.6554798112218144,Specific TL %
-Lebanon,2008,,Dutiable TL %
-Lebanon,2008,,Duty-Free TL %
-Lebanon,2008,,Specific TL %
-Lebanon,2009,,Dutiable TL %
-Lebanon,2009,,Duty-Free TL %
-Lebanon,2009,,Specific TL %
-Lebanon,2010,,Dutiable TL %
-Lebanon,2010,,Duty-Free TL %
-Lebanon,2010,,Specific TL %
-Lebanon,2011,,Dutiable TL %
-Lebanon,2011,,Duty-Free TL %
-Lebanon,2011,,Specific TL %
-Lebanon,2012,,Dutiable TL %
-Lebanon,2012,,Duty-Free TL %
-Lebanon,2012,,Specific TL %
-Lebanon,2013,,Dutiable TL %
-Lebanon,2013,,Duty-Free TL %
-Lebanon,2013,,Specific TL %
-Lebanon,2014,59.613777328113315,Dutiable TL %
-Lebanon,2014,29.31567911552955,Duty-Free TL %
-Lebanon,2014,0.0,Specific TL %
-Lebanon,2015,58.490538467158615,Dutiable TL %
-Lebanon,2015,30.015343026229267,Duty-Free TL %
-Lebanon,2015,0.6210272521370643,Specific TL %
-Lebanon,2016,57.93118562349331,Dutiable TL %
-Lebanon,2016,30.0138797574695,Duty-Free TL %
-Lebanon,2016,0.6545401417196289,Specific TL %
-Lebanon,2017,26.98516671597008,Dutiable TL %
-Lebanon,2017,68.56273507163081,Duty-Free TL %
-Lebanon,2017,0.19650931834509572,Specific TL %
-Lebanon,2018,33.19382119433897,Dutiable TL %
-Lebanon,2018,58.65119088712461,Duty-Free TL %
-Lebanon,2018,0.0,Specific TL %
-Lebanon,2019,33.432338778632825,Dutiable TL %
-Lebanon,2019,58.25270389871443,Duty-Free TL %
-Lebanon,2019,0.0,Specific TL %
-Lebanon,2020,33.16389784279693,Dutiable TL %
-Lebanon,2020,58.849904950822385,Duty-Free TL %
-Lebanon,2020,0.2355566575750062,Specific TL %
-Lebanon,2021,,Dutiable TL %
-Lebanon,2021,,Duty-Free TL %
-Lebanon,2021,,Specific TL %
-Lebanon,2022,,Dutiable TL %
-Lebanon,2022,,Duty-Free TL %
-Lebanon,2022,,Specific TL %
-Malaysia,1988,,Dutiable TL %
-Malaysia,1988,,Duty-Free TL %
-Malaysia,1988,,Specific TL %
-Malaysia,1989,,Dutiable TL %
-Malaysia,1989,,Duty-Free TL %
-Malaysia,1989,,Specific TL %
-Malaysia,1990,,Dutiable TL %
-Malaysia,1990,,Duty-Free TL %
-Malaysia,1990,,Specific TL %
-Malaysia,1991,65.83208656622944,Dutiable TL %
-Malaysia,1991,15.857485821648517,Duty-Free TL %
-Malaysia,1991,1.1948088097143454,Specific TL %
-Malaysia,1992,,Dutiable TL %
-Malaysia,1992,,Duty-Free TL %
-Malaysia,1992,,Specific TL %
-Malaysia,1993,68.39295667396749,Dutiable TL %
-Malaysia,1993,19.446864966282785,Duty-Free TL %
-Malaysia,1993,1.2277933476209542,Specific TL %
-Malaysia,1994,,Dutiable TL %
-Malaysia,1994,,Duty-Free TL %
-Malaysia,1994,,Specific TL %
-Malaysia,1995,,Dutiable TL %
-Malaysia,1995,,Duty-Free TL %
-Malaysia,1995,,Specific TL %
-Malaysia,1996,39.46461821443918,Dutiable TL %
-Malaysia,1996,55.61201028246629,Duty-Free TL %
-Malaysia,1996,0.6822310841066542,Specific TL %
-Malaysia,1997,43.38325540069424,Dutiable TL %
-Malaysia,1997,56.169479018425235,Duty-Free TL %
-Malaysia,1997,0.44726558088052587,Specific TL %
-Malaysia,1998,37.002607324282984,Dutiable TL %
-Malaysia,1998,58.372363947599915,Duty-Free TL %
-Malaysia,1998,1.2521496556588447,Specific TL %
-Malaysia,1999,36.401250395138916,Dutiable TL %
-Malaysia,1999,59.05026166976924,Duty-Free TL %
-Malaysia,1999,1.2054371114467353,Specific TL %
-Malaysia,2000,39.21829983685654,Dutiable TL %
-Malaysia,2000,60.1749453295845,Duty-Free TL %
-Malaysia,2000,0.13953972716859314,Specific TL %
-Malaysia,2001,40.338173579465,Dutiable TL %
-Malaysia,2001,58.82186349476069,Duty-Free TL %
-Malaysia,2001,0.4460492778249788,Specific TL %
-Malaysia,2002,39.68639852422835,Dutiable TL %
-Malaysia,2002,59.26474948117403,Duty-Free TL %
-Malaysia,2002,1.0271107158151334,Specific TL %
-Malaysia,2003,40.58399846927619,Dutiable TL %
-Malaysia,2003,58.483216706757055,Duty-Free TL %
-Malaysia,2003,0.5890553247321233,Specific TL %
-Malaysia,2004,38.82393166567959,Dutiable TL %
-Malaysia,2004,60.483688783329164,Duty-Free TL %
-Malaysia,2004,0.02869650696348217,Specific TL %
-Malaysia,2005,39.79198670326626,Dutiable TL %
-Malaysia,2005,59.541287869248784,Duty-Free TL %
-Malaysia,2005,0.666725427484953,Specific TL %
-Malaysia,2006,50.3725259132777,Dutiable TL %
-Malaysia,2006,48.798730189269136,Duty-Free TL %
-Malaysia,2006,0.45212957841321755,Specific TL %
-Malaysia,2007,45.09969696681834,Dutiable TL %
-Malaysia,2007,54.078598637775606,Duty-Free TL %
-Malaysia,2007,0.16529082635913706,Specific TL %
-Malaysia,2008,32.89540293614252,Dutiable TL %
-Malaysia,2008,66.3597136176265,Duty-Free TL %
-Malaysia,2008,0.08979581997444737,Specific TL %
-Malaysia,2009,32.41566175375912,Dutiable TL %
-Malaysia,2009,66.86258746464195,Duty-Free TL %
-Malaysia,2009,0.023820157808545482,Specific TL %
-Malaysia,2010,28.239759834319102,Dutiable TL %
-Malaysia,2010,71.16101962984405,Duty-Free TL %
-Malaysia,2010,0.01790499609074252,Specific TL %
-Malaysia,2011,34.41628901512734,Dutiable TL %
-Malaysia,2011,64.82183164381415,Duty-Free TL %
-Malaysia,2011,0.30637646007531755,Specific TL %
-Malaysia,2012,34.01742605028026,Dutiable TL %
-Malaysia,2012,65.23003496309451,Duty-Free TL %
-Malaysia,2012,0.31633275986458737,Specific TL %
-Malaysia,2013,35.15576462234845,Dutiable TL %
-Malaysia,2013,63.80580456199521,Duty-Free TL %
-Malaysia,2013,0.11791705232727688,Specific TL %
-Malaysia,2014,22.96992270813772,Dutiable TL %
-Malaysia,2014,76.20679148608062,Duty-Free TL %
-Malaysia,2014,0.8232858057816551,Specific TL %
-Malaysia,2015,,Dutiable TL %
-Malaysia,2015,,Duty-Free TL %
-Malaysia,2015,,Specific TL %
-Malaysia,2016,34.87380087547732,Dutiable TL %
-Malaysia,2016,64.12095246965322,Duty-Free TL %
-Malaysia,2016,0.4396013784111018,Specific TL %
-Malaysia,2017,,Dutiable TL %
-Malaysia,2017,,Duty-Free TL %
-Malaysia,2017,,Specific TL %
-Malaysia,2018,,Dutiable TL %
-Malaysia,2018,,Duty-Free TL %
-Malaysia,2018,,Specific TL %
-Malaysia,2019,,Dutiable TL %
-Malaysia,2019,,Duty-Free TL %
-Malaysia,2019,,Specific TL %
-Malaysia,2020,41.534716795173644,Dutiable TL %
-Malaysia,2020,57.5847324748503,Duty-Free TL %
-Malaysia,2020,0.412151500520167,Specific TL %
-Malaysia,2021,41.52790301572988,Dutiable TL %
-Malaysia,2021,57.626991283438535,Duty-Free TL %
-Malaysia,2021,0.38122432621981767,Specific TL %
-Malaysia,2022,42.047151359650044,Dutiable TL %
-Malaysia,2022,57.06586889314181,Duty-Free TL %
-Malaysia,2022,0.42429914404088415,Specific TL %
-Maldives,1988,,Dutiable TL %
-Maldives,1988,,Duty-Free TL %
-Maldives,1988,,Specific TL %
-Maldives,1989,,Dutiable TL %
-Maldives,1989,,Duty-Free TL %
-Maldives,1989,,Specific TL %
-Maldives,1990,,Dutiable TL %
-Maldives,1990,,Duty-Free TL %
-Maldives,1990,,Specific TL %
-Maldives,1991,,Dutiable TL %
-Maldives,1991,,Duty-Free TL %
-Maldives,1991,,Specific TL %
-Maldives,1992,,Dutiable TL %
-Maldives,1992,,Duty-Free TL %
-Maldives,1992,,Specific TL %
-Maldives,1993,,Dutiable TL %
-Maldives,1993,,Duty-Free TL %
-Maldives,1993,,Specific TL %
-Maldives,1994,,Dutiable TL %
-Maldives,1994,,Duty-Free TL %
-Maldives,1994,,Specific TL %
-Maldives,1995,,Dutiable TL %
-Maldives,1995,,Duty-Free TL %
-Maldives,1995,,Specific TL %
-Maldives,1996,,Dutiable TL %
-Maldives,1996,,Duty-Free TL %
-Maldives,1996,,Specific TL %
-Maldives,1997,,Dutiable TL %
-Maldives,1997,,Duty-Free TL %
-Maldives,1997,,Specific TL %
-Maldives,1998,,Dutiable TL %
-Maldives,1998,,Duty-Free TL %
-Maldives,1998,,Specific TL %
-Maldives,1999,,Dutiable TL %
-Maldives,1999,,Duty-Free TL %
-Maldives,1999,,Specific TL %
-Maldives,2000,99.5640677481598,Dutiable TL %
+Kyrgyz Republic,2022,NA,Dutiable TL %
+Kyrgyz Republic,2022,NA,Duty-Free TL %
+Kyrgyz Republic,2022,NA,Specific TL %
+Maldives,2000,99.56406775,Dutiable TL %
 Maldives,2000,0.3716143786178804,Duty-Free TL %
-Maldives,2000,0.0,Specific TL %
+Maldives,2000,0,Specific TL %
 Maldives,2001,99.51530258966902,Dutiable TL %
 Maldives,2001,0.3739094308267553,Duty-Free TL %
-Maldives,2001,0.0,Specific TL %
+Maldives,2001,0,Specific TL %
 Maldives,2002,99.64826057627445,Dutiable TL %
 Maldives,2002,0.3421027271851209,Duty-Free TL %
-Maldives,2002,0.009636696540425942,Specific TL %
+Maldives,2002,0.009636697,Specific TL %
 Maldives,2003,99.72613277944457,Dutiable TL %
 Maldives,2003,0.2430956227402108,Duty-Free TL %
 Maldives,2003,0.030771597815216555,Specific TL %
 Maldives,2004,99.69928525771398,Dutiable TL %
 Maldives,2004,0.30071474228601314,Duty-Free TL %
-Maldives,2004,0.0,Specific TL %
+Maldives,2004,0,Specific TL %
 Maldives,2005,99.70288338172733,Dutiable TL %
 Maldives,2005,0.2484975352825984,Duty-Free TL %
 Maldives,2005,0.025660071578094402,Specific TL %
-Maldives,2006,99.7261680643505,Dutiable TL %
+Maldives,2006,99.72616806,Dutiable TL %
 Maldives,2006,0.2264379467870825,Duty-Free TL %
 Maldives,2006,0.027646493503074028,Specific TL %
-Maldives,2007,,Dutiable TL %
-Maldives,2007,,Duty-Free TL %
-Maldives,2007,,Specific TL %
+Maldives,2007,NA,Dutiable TL %
+Maldives,2007,NA,Duty-Free TL %
+Maldives,2007,NA,Specific TL %
 Maldives,2008,99.73915105525255,Dutiable TL %
 Maldives,2008,0.18857910724166357,Duty-Free TL %
-Maldives,2008,0.07226983750578723,Specific TL %
-Maldives,2009,99.7058121968673,Dutiable TL %
+Maldives,2008,0.072269838,Specific TL %
+Maldives,2009,99.7058122,Dutiable TL %
 Maldives,2009,0.22603618850736606,Duty-Free TL %
-Maldives,2009,0.0681516146253365,Specific TL %
-Maldives,2010,99.6615848550846,Dutiable TL %
+Maldives,2009,0.068151615,Specific TL %
+Maldives,2010,99.66158486,Dutiable TL %
 Maldives,2010,0.3283632099179092,Duty-Free TL %
 Maldives,2010,0.010051934997487017,Specific TL %
 Maldives,2011,99.74474645235478,Dutiable TL %
@@ -2699,26 +728,26 @@ Maldives,2011,0.018954471359793775,Specific TL %
 Maldives,2012,59.54156240962644,Dutiable TL %
 Maldives,2012,40.32515622838893,Duty-Free TL %
 Maldives,2012,0.13328136198463492,Specific TL %
-Maldives,2013,59.6376402733371,Dutiable TL %
+Maldives,2013,59.63764027,Dutiable TL %
 Maldives,2013,40.250767976929346,Duty-Free TL %
 Maldives,2013,0.11159174973355902,Specific TL %
 Maldives,2014,58.83382316649092,Dutiable TL %
 Maldives,2014,41.07867991833621,Duty-Free TL %
-Maldives,2014,0.0874969151728625,Specific TL %
+Maldives,2014,0.087496915,Specific TL %
 Maldives,2015,63.92079425154956,Dutiable TL %
 Maldives,2015,36.01009269924853,Duty-Free TL %
-Maldives,2015,0.06911304920190883,Specific TL %
+Maldives,2015,0.069113049,Specific TL %
 Maldives,2016,64.22618122474356,Dutiable TL %
 Maldives,2016,35.69222101336649,Duty-Free TL %
-Maldives,2016,0.08159776188995958,Specific TL %
+Maldives,2016,0.081597762,Specific TL %
 Maldives,2017,66.66985783351683,Dutiable TL %
 Maldives,2017,33.22962041070318,Duty-Free TL %
 Maldives,2017,0.019147001100952563,Specific TL %
 Maldives,2018,64.86091794158554,Dutiable TL %
 Maldives,2018,35.04056560037088,Duty-Free TL %
-Maldives,2018,0.01043115438108484,Specific TL %
+Maldives,2018,0.010431154,Specific TL %
 Maldives,2019,65.12388262165076,Dutiable TL %
-Maldives,2019,34.7775677963154,Duty-Free TL %
+Maldives,2019,34.7775678,Duty-Free TL %
 Maldives,2019,0.010434661627111569,Specific TL %
 Maldives,2020,65.05143413187525,Dutiable TL %
 Maldives,2020,34.85009962466985,Duty-Free TL %
@@ -2728,1513 +757,145 @@ Maldives,2021,45.03558265912587,Duty-Free TL %
 Maldives,2021,0.014388011466138368,Specific TL %
 Maldives,2022,50.904003443822646,Dutiable TL %
 Maldives,2022,48.409103670291415,Duty-Free TL %
-Maldives,2022,0.01590896329708585,Specific TL %
-Mongolia,1988,,Dutiable TL %
-Mongolia,1988,,Duty-Free TL %
-Mongolia,1988,,Specific TL %
-Mongolia,1989,,Dutiable TL %
-Mongolia,1989,,Duty-Free TL %
-Mongolia,1989,,Specific TL %
-Mongolia,1990,,Dutiable TL %
-Mongolia,1990,,Duty-Free TL %
-Mongolia,1990,,Specific TL %
-Mongolia,1991,,Dutiable TL %
-Mongolia,1991,,Duty-Free TL %
-Mongolia,1991,,Specific TL %
-Mongolia,1992,,Dutiable TL %
-Mongolia,1992,,Duty-Free TL %
-Mongolia,1992,,Specific TL %
-Mongolia,1993,,Dutiable TL %
-Mongolia,1993,,Duty-Free TL %
-Mongolia,1993,,Specific TL %
-Mongolia,1994,,Dutiable TL %
-Mongolia,1994,,Duty-Free TL %
-Mongolia,1994,,Specific TL %
-Mongolia,1995,,Dutiable TL %
-Mongolia,1995,,Duty-Free TL %
-Mongolia,1995,,Specific TL %
-Mongolia,1996,,Dutiable TL %
-Mongolia,1996,,Duty-Free TL %
-Mongolia,1996,,Specific TL %
-Mongolia,1997,,Dutiable TL %
-Mongolia,1997,,Duty-Free TL %
-Mongolia,1997,,Specific TL %
-Mongolia,1998,,Dutiable TL %
-Mongolia,1998,,Duty-Free TL %
-Mongolia,1998,,Specific TL %
-Mongolia,1999,1.3121226196005573,Dutiable TL %
-Mongolia,1999,98.68787738039944,Duty-Free TL %
-Mongolia,1999,0.0,Specific TL %
-Mongolia,2000,97.52667796948239,Dutiable TL %
-Mongolia,2000,2.4733220305176027,Duty-Free TL %
-Mongolia,2000,0.0,Specific TL %
-Mongolia,2001,97.45978729014679,Dutiable TL %
-Mongolia,2001,2.5402127098532126,Duty-Free TL %
-Mongolia,2001,0.0,Specific TL %
-Mongolia,2002,,Dutiable TL %
-Mongolia,2002,,Duty-Free TL %
-Mongolia,2002,,Specific TL %
-Mongolia,2003,97.57081816743155,Dutiable TL %
-Mongolia,2003,2.429181832568444,Duty-Free TL %
-Mongolia,2003,0.0,Specific TL %
-Mongolia,2004,98.10987759749501,Dutiable TL %
-Mongolia,2004,1.8901224025049814,Duty-Free TL %
-Mongolia,2004,0.0,Specific TL %
-Mongolia,2005,83.94986242739223,Dutiable TL %
-Mongolia,2005,16.03179455823907,Duty-Free TL %
-Mongolia,2005,0.01834301436869459,Specific TL %
-Mongolia,2006,83.7440090217085,Dutiable TL %
-Mongolia,2006,16.244713842683957,Duty-Free TL %
-Mongolia,2006,0.01127713560755568,Specific TL %
-Mongolia,2007,98.18748870005425,Dutiable TL %
-Mongolia,2007,1.7944313867293438,Duty-Free TL %
-Mongolia,2007,0.01807991321641656,Specific TL %
-Mongolia,2008,,Dutiable TL %
-Mongolia,2008,,Duty-Free TL %
-Mongolia,2008,,Specific TL %
-Mongolia,2009,,Dutiable TL %
-Mongolia,2009,,Duty-Free TL %
-Mongolia,2009,,Specific TL %
-Mongolia,2010,,Dutiable TL %
-Mongolia,2010,,Duty-Free TL %
-Mongolia,2010,,Specific TL %
-Mongolia,2011,,Dutiable TL %
-Mongolia,2011,,Duty-Free TL %
-Mongolia,2011,,Specific TL %
-Mongolia,2012,,Dutiable TL %
-Mongolia,2012,,Duty-Free TL %
-Mongolia,2012,,Specific TL %
-Mongolia,2013,98.40956616499278,Dutiable TL %
-Mongolia,2013,1.3695402468117692,Duty-Free TL %
-Mongolia,2013,0.22089358819544666,Specific TL %
-Mongolia,2014,,Dutiable TL %
-Mongolia,2014,,Duty-Free TL %
-Mongolia,2014,,Specific TL %
-Mongolia,2015,98.1603566271112,Dutiable TL %
-Mongolia,2015,1.8019714949456898,Duty-Free TL %
-Mongolia,2015,0.03767187794311547,Specific TL %
-Mongolia,2016,,Dutiable TL %
-Mongolia,2016,,Duty-Free TL %
-Mongolia,2016,,Specific TL %
-Mongolia,2017,95.7647266003346,Dutiable TL %
-Mongolia,2017,4.235273399665404,Duty-Free TL %
-Mongolia,2017,0.0,Specific TL %
-Mongolia,2018,95.67490494296578,Dutiable TL %
-Mongolia,2018,4.299932900917021,Duty-Free TL %
-Mongolia,2018,0.02516215611719973,Specific TL %
-Mongolia,2019,95.78575992443815,Dutiable TL %
-Mongolia,2019,4.197572019890546,Duty-Free TL %
-Mongolia,2019,0.016668055671305942,Specific TL %
-Mongolia,2020,95.42633940938556,Dutiable TL %
-Mongolia,2020,4.191367942822317,Duty-Free TL %
-Mongolia,2020,0.38229264779212146,Specific TL %
-Mongolia,2021,95.40984522545678,Dutiable TL %
-Mongolia,2021,4.218584120243616,Duty-Free TL %
-Mongolia,2021,0.3715706542996033,Specific TL %
-Mongolia,2022,95.25351767683641,Dutiable TL %
-Mongolia,2022,4.324633263478757,Duty-Free TL %
-Mongolia,2022,0.42184905968483793,Specific TL %
-Myanmar,1988,,Dutiable TL %
-Myanmar,1988,,Duty-Free TL %
-Myanmar,1988,,Specific TL %
-Myanmar,1989,,Dutiable TL %
-Myanmar,1989,,Duty-Free TL %
-Myanmar,1989,,Specific TL %
-Myanmar,1990,,Dutiable TL %
-Myanmar,1990,,Duty-Free TL %
-Myanmar,1990,,Specific TL %
-Myanmar,1991,,Dutiable TL %
-Myanmar,1991,,Duty-Free TL %
-Myanmar,1991,,Specific TL %
-Myanmar,1992,,Dutiable TL %
-Myanmar,1992,,Duty-Free TL %
-Myanmar,1992,,Specific TL %
-Myanmar,1993,,Dutiable TL %
-Myanmar,1993,,Duty-Free TL %
-Myanmar,1993,,Specific TL %
-Myanmar,1994,,Dutiable TL %
-Myanmar,1994,,Duty-Free TL %
-Myanmar,1994,,Specific TL %
-Myanmar,1995,,Dutiable TL %
-Myanmar,1995,,Duty-Free TL %
-Myanmar,1995,,Specific TL %
-Myanmar,1996,,Dutiable TL %
-Myanmar,1996,,Duty-Free TL %
-Myanmar,1996,,Specific TL %
-Myanmar,1997,,Dutiable TL %
-Myanmar,1997,,Duty-Free TL %
-Myanmar,1997,,Specific TL %
-Myanmar,1998,,Dutiable TL %
-Myanmar,1998,,Duty-Free TL %
-Myanmar,1998,,Specific TL %
-Myanmar,1999,,Dutiable TL %
-Myanmar,1999,,Duty-Free TL %
-Myanmar,1999,,Specific TL %
-Myanmar,2000,,Dutiable TL %
-Myanmar,2000,,Duty-Free TL %
-Myanmar,2000,,Specific TL %
-Myanmar,2001,96.46752917300863,Dutiable TL %
-Myanmar,2001,3.532470826991375,Duty-Free TL %
-Myanmar,2001,0.0,Specific TL %
-Myanmar,2002,,Dutiable TL %
-Myanmar,2002,,Duty-Free TL %
-Myanmar,2002,,Specific TL %
-Myanmar,2003,,Dutiable TL %
-Myanmar,2003,,Duty-Free TL %
-Myanmar,2003,,Specific TL %
-Myanmar,2004,,Dutiable TL %
-Myanmar,2004,,Duty-Free TL %
-Myanmar,2004,,Specific TL %
-Myanmar,2005,,Dutiable TL %
-Myanmar,2005,,Duty-Free TL %
-Myanmar,2005,,Specific TL %
-Myanmar,2006,,Dutiable TL %
-Myanmar,2006,,Duty-Free TL %
-Myanmar,2006,,Specific TL %
-Myanmar,2007,,Dutiable TL %
-Myanmar,2007,,Duty-Free TL %
-Myanmar,2007,,Specific TL %
-Myanmar,2008,,Dutiable TL %
-Myanmar,2008,,Duty-Free TL %
-Myanmar,2008,,Specific TL %
-Myanmar,2009,,Dutiable TL %
-Myanmar,2009,,Duty-Free TL %
-Myanmar,2009,,Specific TL %
-Myanmar,2010,83.81395674389304,Dutiable TL %
-Myanmar,2010,16.18604325610695,Duty-Free TL %
-Myanmar,2010,0.0,Specific TL %
-Myanmar,2011,83.81735479356193,Dutiable TL %
-Myanmar,2011,16.182645206438067,Duty-Free TL %
-Myanmar,2011,0.0,Specific TL %
-Myanmar,2012,96.80671852549175,Dutiable TL %
-Myanmar,2012,3.1932814745082494,Duty-Free TL %
-Myanmar,2012,0.0,Specific TL %
-Myanmar,2013,95.88300090483497,Dutiable TL %
-Myanmar,2013,4.116999095165034,Duty-Free TL %
-Myanmar,2013,0.0,Specific TL %
-Myanmar,2014,,Dutiable TL %
-Myanmar,2014,,Duty-Free TL %
-Myanmar,2014,,Specific TL %
-Myanmar,2015,52.08540218470705,Dutiable TL %
-Myanmar,2015,47.91459781529295,Duty-Free TL %
-Myanmar,2015,0.0,Specific TL %
-Myanmar,2016,,Dutiable TL %
-Myanmar,2016,,Duty-Free TL %
-Myanmar,2016,,Specific TL %
-Myanmar,2017,,Dutiable TL %
-Myanmar,2017,,Duty-Free TL %
-Myanmar,2017,,Specific TL %
-Myanmar,2018,,Dutiable TL %
-Myanmar,2018,,Duty-Free TL %
-Myanmar,2018,,Specific TL %
-Myanmar,2019,67.97884130982368,Dutiable TL %
-Myanmar,2019,32.02115869017632,Duty-Free TL %
-Myanmar,2019,0.0,Specific TL %
-Myanmar,2020,,Dutiable TL %
-Myanmar,2020,,Duty-Free TL %
-Myanmar,2020,,Specific TL %
-Myanmar,2021,60.01755689107975,Dutiable TL %
-Myanmar,2021,39.98244310892025,Duty-Free TL %
-Myanmar,2021,0.0,Specific TL %
-Myanmar,2022,58.86837526174536,Dutiable TL %
-Myanmar,2022,41.13162473825464,Duty-Free TL %
-Myanmar,2022,0.0,Specific TL %
-Nepal,1988,,Dutiable TL %
-Nepal,1988,,Duty-Free TL %
-Nepal,1988,,Specific TL %
-Nepal,1989,,Dutiable TL %
-Nepal,1989,,Duty-Free TL %
-Nepal,1989,,Specific TL %
-Nepal,1990,,Dutiable TL %
-Nepal,1990,,Duty-Free TL %
-Nepal,1990,,Specific TL %
-Nepal,1991,,Dutiable TL %
-Nepal,1991,,Duty-Free TL %
-Nepal,1991,,Specific TL %
-Nepal,1992,,Dutiable TL %
-Nepal,1992,,Duty-Free TL %
-Nepal,1992,,Specific TL %
-Nepal,1993,,Dutiable TL %
-Nepal,1993,,Duty-Free TL %
-Nepal,1993,,Specific TL %
-Nepal,1994,,Dutiable TL %
-Nepal,1994,,Duty-Free TL %
-Nepal,1994,,Specific TL %
-Nepal,1995,,Dutiable TL %
-Nepal,1995,,Duty-Free TL %
-Nepal,1995,,Specific TL %
-Nepal,1996,,Dutiable TL %
-Nepal,1996,,Duty-Free TL %
-Nepal,1996,,Specific TL %
-Nepal,1997,,Dutiable TL %
-Nepal,1997,,Duty-Free TL %
-Nepal,1997,,Specific TL %
-Nepal,1998,86.21151271753682,Dutiable TL %
-Nepal,1998,5.4886211512717535,Duty-Free TL %
-Nepal,1998,8.21062025881303,Specific TL %
-Nepal,1999,93.53219696969697,Dutiable TL %
-Nepal,1999,4.46969696969697,Duty-Free TL %
-Nepal,1999,1.7424242424242424,Specific TL %
-Nepal,2000,96.12627515853322,Dutiable TL %
-Nepal,2000,1.3785497656465397,Duty-Free TL %
-Nepal,2000,2.081610146126275,Specific TL %
-Nepal,2001,,Dutiable TL %
-Nepal,2001,,Duty-Free TL %
-Nepal,2001,,Specific TL %
-Nepal,2002,,Dutiable TL %
-Nepal,2002,,Duty-Free TL %
-Nepal,2002,,Specific TL %
-Nepal,2003,98.92206226508758,Dutiable TL %
-Nepal,2003,0.5035103893340898,Duty-Free TL %
-Nepal,2003,0.2907595206013758,Specific TL %
-Nepal,2004,,Dutiable TL %
-Nepal,2004,,Duty-Free TL %
-Nepal,2004,,Specific TL %
-Nepal,2005,,Dutiable TL %
-Nepal,2005,,Duty-Free TL %
-Nepal,2005,,Specific TL %
-Nepal,2006,,Dutiable TL %
-Nepal,2006,,Duty-Free TL %
-Nepal,2006,,Specific TL %
-Nepal,2007,,Dutiable TL %
-Nepal,2007,,Duty-Free TL %
-Nepal,2007,,Specific TL %
-Nepal,2008,,Dutiable TL %
-Nepal,2008,,Duty-Free TL %
-Nepal,2008,,Specific TL %
-Nepal,2009,92.78254958907496,Dutiable TL %
-Nepal,2009,6.055737502317246,Duty-Free TL %
-Nepal,2009,0.3645801149354261,Specific TL %
-Nepal,2010,93.3231635766252,Dutiable TL %
-Nepal,2010,5.456465618399437,Duty-Free TL %
-Nepal,2010,0.38136587655479937,Specific TL %
-Nepal,2011,93.06145838307626,Dutiable TL %
-Nepal,2011,5.78291390095984,Duty-Free TL %
-Nepal,2011,0.2817439472804546,Specific TL %
-Nepal,2012,93.02325581395348,Dutiable TL %
-Nepal,2012,5.763812616398453,Duty-Free TL %
-Nepal,2012,0.33904780096461484,Specific TL %
-Nepal,2013,92.01236794640556,Dutiable TL %
-Nepal,2013,6.639182341320965,Duty-Free TL %
-Nepal,2013,0.515331100231899,Specific TL %
-Nepal,2014,92.52139887503057,Dutiable TL %
-Nepal,2014,6.378087551968696,Duty-Free TL %
-Nepal,2014,0.0,Specific TL %
-Nepal,2015,91.99408534009295,Dutiable TL %
-Nepal,2015,6.248415716096324,Duty-Free TL %
-Nepal,2015,0.8449514152936206,Specific TL %
-Nepal,2016,90.89234119174239,Dutiable TL %
-Nepal,2016,7.290314475943219,Duty-Free TL %
-Nepal,2016,0.8877350194715464,Specific TL %
-Nepal,2017,,Dutiable TL %
-Nepal,2017,,Duty-Free TL %
-Nepal,2017,,Specific TL %
-Nepal,2018,89.87518355359765,Dutiable TL %
-Nepal,2018,8.450807635829662,Duty-Free TL %
-Nepal,2018,0.24963289280469897,Specific TL %
-Nepal,2019,90.24353913755866,Dutiable TL %
-Nepal,2019,8.348849333432636,Duty-Free TL %
-Nepal,2019,0.2159827213822894,Specific TL %
-Nepal,2020,90.39790646178622,Dutiable TL %
-Nepal,2020,8.112460578407033,Duty-Free TL %
-Nepal,2020,0.2147218680802523,Specific TL %
-Nepal,2021,90.09470181725109,Dutiable TL %
-Nepal,2021,7.454568722805221,Duty-Free TL %
-Nepal,2021,0.5694906577937036,Specific TL %
-Nepal,2022,91.05023361095795,Dutiable TL %
-Nepal,2022,7.005426739023187,Duty-Free TL %
-Nepal,2022,0.41788792478017356,Specific TL %
-Oman,1988,,Dutiable TL %
-Oman,1988,,Duty-Free TL %
-Oman,1988,,Specific TL %
-Oman,1989,,Dutiable TL %
-Oman,1989,,Duty-Free TL %
-Oman,1989,,Specific TL %
-Oman,1990,,Dutiable TL %
-Oman,1990,,Duty-Free TL %
-Oman,1990,,Specific TL %
-Oman,1991,,Dutiable TL %
-Oman,1991,,Duty-Free TL %
-Oman,1991,,Specific TL %
-Oman,1992,92.46807401615845,Dutiable TL %
-Oman,1992,7.531925983841543,Duty-Free TL %
-Oman,1992,0.0,Specific TL %
-Oman,1993,,Dutiable TL %
-Oman,1993,,Duty-Free TL %
-Oman,1993,,Specific TL %
-Oman,1994,,Dutiable TL %
-Oman,1994,,Duty-Free TL %
-Oman,1994,,Specific TL %
-Oman,1995,,Dutiable TL %
-Oman,1995,,Duty-Free TL %
-Oman,1995,,Specific TL %
-Oman,1996,,Dutiable TL %
-Oman,1996,,Duty-Free TL %
-Oman,1996,,Specific TL %
-Oman,1997,93.63886264066662,Dutiable TL %
-Oman,1997,6.361137359333391,Duty-Free TL %
-Oman,1997,0.0,Specific TL %
-Oman,1998,,Dutiable TL %
-Oman,1998,,Duty-Free TL %
-Oman,1998,,Specific TL %
-Oman,1999,,Dutiable TL %
-Oman,1999,,Duty-Free TL %
-Oman,1999,,Specific TL %
-Oman,2000,,Dutiable TL %
-Oman,2000,,Duty-Free TL %
-Oman,2000,,Specific TL %
-Oman,2001,93.6077102525244,Dutiable TL %
-Oman,2001,6.3922897474756075,Duty-Free TL %
-Oman,2001,0.0,Specific TL %
-Oman,2002,93.89701985405031,Dutiable TL %
-Oman,2002,3.5305149007297483,Duty-Free TL %
-Oman,2002,2.5724652452199437,Specific TL %
-Oman,2003,81.03000577034045,Dutiable TL %
-Oman,2003,18.24870167339873,Duty-Free TL %
-Oman,2003,0.6491633006347375,Specific TL %
-Oman,2004,92.02723629076334,Dutiable TL %
-Oman,2004,7.244033521588632,Duty-Free TL %
-Oman,2004,0.560211331754418,Specific TL %
-Oman,2005,71.371798645864,Dutiable TL %
-Oman,2005,28.07939778796417,Duty-Free TL %
-Oman,2005,0.4794146095294167,Specific TL %
-Oman,2006,72.98088139346369,Dutiable TL %
-Oman,2006,26.443781015836613,Duty-Free TL %
-Oman,2006,0.5002075960378813,Specific TL %
-Oman,2007,69.92966002344666,Dutiable TL %
-Oman,2007,29.841368698710433,Duty-Free TL %
-Oman,2007,0.16485932004689333,Specific TL %
-Oman,2008,73.64850224798224,Dutiable TL %
-Oman,2008,26.08201072531282,Duty-Free TL %
-Oman,2008,0.26948702670494556,Specific TL %
-Oman,2009,67.88260346264235,Dutiable TL %
-Oman,2009,31.893651822362127,Duty-Free TL %
-Oman,2009,0.10029935499799401,Specific TL %
-Oman,2010,,Dutiable TL %
-Oman,2010,,Duty-Free TL %
-Oman,2010,,Specific TL %
-Oman,2011,,Dutiable TL %
-Oman,2011,,Duty-Free TL %
-Oman,2011,,Specific TL %
-Oman,2012,66.75970873786407,Dutiable TL %
-Oman,2012,32.545846817691476,Duty-Free TL %
-Oman,2012,0.6944444444444444,Specific TL %
-Oman,2013,64.96301860626372,Dutiable TL %
-Oman,2013,34.590604414653875,Duty-Free TL %
-Oman,2013,0.44637697908239915,Specific TL %
-Oman,2014,63.65275854108957,Dutiable TL %
-Oman,2014,35.9851108033241,Duty-Free TL %
-Oman,2014,0.3621306555863343,Specific TL %
-Oman,2015,62.780160091480845,Dutiable TL %
-Oman,2015,36.935391652372786,Duty-Free TL %
-Oman,2015,0.2329902801600915,Specific TL %
-Oman,2016,60.21188755995386,Dutiable TL %
-Oman,2016,39.56499301803169,Duty-Free TL %
-Oman,2016,0.16999575010624735,Specific TL %
-Oman,2017,62.70613049909604,Dutiable TL %
-Oman,2017,36.996658083602696,Duty-Free TL %
-Oman,2017,0.26297047060757134,Specific TL %
-Oman,2018,62.74584999726073,Dutiable TL %
-Oman,2018,36.95693858543801,Duty-Free TL %
-Oman,2018,0.26297047060757134,Specific TL %
-Oman,2019,59.07729254882133,Dutiable TL %
-Oman,2019,40.59912785186121,Duty-Free TL %
-Oman,2019,0.3210516336977817,Specific TL %
-Oman,2020,58.89971691259363,Dutiable TL %
-Oman,2020,40.800911892176266,Duty-Free TL %
-Oman,2020,0.2968659969436581,Specific TL %
-Oman,2021,56.82155009900051,Dutiable TL %
-Oman,2021,42.61171644356971,Duty-Free TL %
-Oman,2021,0.5252362377434998,Specific TL %
-Oman,2022,57.48234153547851,Dutiable TL %
-Oman,2022,42.18410969022668,Duty-Free TL %
-Oman,2022,0.3035409260883616,Specific TL %
-Pakistan,1988,,Dutiable TL %
-Pakistan,1988,,Duty-Free TL %
-Pakistan,1988,,Specific TL %
-Pakistan,1989,,Dutiable TL %
-Pakistan,1989,,Duty-Free TL %
-Pakistan,1989,,Specific TL %
-Pakistan,1990,,Dutiable TL %
-Pakistan,1990,,Duty-Free TL %
-Pakistan,1990,,Specific TL %
-Pakistan,1991,,Dutiable TL %
-Pakistan,1991,,Duty-Free TL %
-Pakistan,1991,,Specific TL %
-Pakistan,1992,,Dutiable TL %
-Pakistan,1992,,Duty-Free TL %
-Pakistan,1992,,Specific TL %
-Pakistan,1993,,Dutiable TL %
-Pakistan,1993,,Duty-Free TL %
-Pakistan,1993,,Specific TL %
-Pakistan,1994,,Dutiable TL %
-Pakistan,1994,,Duty-Free TL %
-Pakistan,1994,,Specific TL %
-Pakistan,1995,,Dutiable TL %
-Pakistan,1995,,Duty-Free TL %
-Pakistan,1995,,Specific TL %
-Pakistan,1996,,Dutiable TL %
-Pakistan,1996,,Duty-Free TL %
-Pakistan,1996,,Specific TL %
-Pakistan,1997,,Dutiable TL %
-Pakistan,1997,,Duty-Free TL %
-Pakistan,1997,,Specific TL %
-Pakistan,1998,,Dutiable TL %
-Pakistan,1998,,Duty-Free TL %
-Pakistan,1998,,Specific TL %
-Pakistan,1999,,Dutiable TL %
-Pakistan,1999,,Duty-Free TL %
-Pakistan,1999,,Specific TL %
-Pakistan,2000,,Dutiable TL %
-Pakistan,2000,,Duty-Free TL %
-Pakistan,2000,,Specific TL %
-Pakistan,2001,,Dutiable TL %
-Pakistan,2001,,Duty-Free TL %
-Pakistan,2001,,Specific TL %
-Pakistan,2002,,Dutiable TL %
-Pakistan,2002,,Duty-Free TL %
-Pakistan,2002,,Specific TL %
-Pakistan,2003,99.36922217856183,Dutiable TL %
-Pakistan,2003,0.0,Duty-Free TL %
-Pakistan,2003,0.2667879966082766,Specific TL %
-Pakistan,2004,99.62128585838923,Dutiable TL %
-Pakistan,2004,0.3185446050931743,Duty-Free TL %
-Pakistan,2004,0.06016953651759959,Specific TL %
-Pakistan,2005,99.5005435261627,Dutiable TL %
-Pakistan,2005,0.0,Duty-Free TL %
-Pakistan,2005,0.1850926932455857,Specific TL %
-Pakistan,2006,99.32845471110328,Dutiable TL %
-Pakistan,2006,0.17927467230941044,Duty-Free TL %
-Pakistan,2006,0.18074413683653676,Specific TL %
-Pakistan,2007,98.96579156722355,Dutiable TL %
-Pakistan,2007,0.5637004205023298,Duty-Free TL %
-Pakistan,2007,0.15001704739174906,Specific TL %
-Pakistan,2008,93.12779711586275,Dutiable TL %
-Pakistan,2008,6.598154594176473,Duty-Free TL %
-Pakistan,2008,0.0,Specific TL %
-Pakistan,2009,92.86436103812729,Dutiable TL %
-Pakistan,2009,6.796809054486227,Duty-Free TL %
-Pakistan,2009,0.0,Specific TL %
-Pakistan,2010,92.71522415581423,Dutiable TL %
-Pakistan,2010,6.907917483001037,Duty-Free TL %
-Pakistan,2010,0.07030079520571626,Specific TL %
-Pakistan,2011,90.15253326165838,Dutiable TL %
-Pakistan,2011,9.461093938986695,Duty-Free TL %
-Pakistan,2011,0.0,Specific TL %
-Pakistan,2012,89.64213076167188,Dutiable TL %
-Pakistan,2012,9.971662972188579,Duty-Free TL %
-Pakistan,2012,0.0,Specific TL %
-Pakistan,2013,92.54019970934321,Dutiable TL %
-Pakistan,2013,7.1222633725563735,Duty-Free TL %
-Pakistan,2013,0.0,Specific TL %
-Pakistan,2014,96.46476683349789,Dutiable TL %
-Pakistan,2014,3.2424273376232793,Duty-Free TL %
-Pakistan,2014,0.0,Specific TL %
-Pakistan,2015,96.31917321279677,Dutiable TL %
-Pakistan,2015,3.3045157326545835,Duty-Free TL %
-Pakistan,2015,0.0,Specific TL %
-Pakistan,2016,96.56026788028322,Dutiable TL %
-Pakistan,2016,3.1090285192979548,Duty-Free TL %
-Pakistan,2016,0.0,Specific TL %
-Pakistan,2017,,Dutiable TL %
-Pakistan,2017,,Duty-Free TL %
-Pakistan,2017,,Specific TL %
-Pakistan,2018,96.60735038543143,Dutiable TL %
-Pakistan,2018,3.064259897005043,Duty-Free TL %
-Pakistan,2018,0.0,Specific TL %
-Pakistan,2019,96.51862660161416,Dutiable TL %
-Pakistan,2019,3.1564908120924717,Duty-Free TL %
-Pakistan,2019,0.0,Specific TL %
-Pakistan,2020,77.63145211817437,Dutiable TL %
-Pakistan,2020,22.1227529037544,Duty-Free TL %
-Pakistan,2020,0.0,Specific TL %
-Pakistan,2021,77.66284013112931,Dutiable TL %
-Pakistan,2021,22.051038493171315,Duty-Free TL %
-Pakistan,2021,0.0,Specific TL %
-Pakistan,2022,71.280276816609,Dutiable TL %
-Pakistan,2022,28.47383297210287,Duty-Free TL %
-Pakistan,2022,0.0,Specific TL %
-Philippines,1988,,Dutiable TL %
-Philippines,1988,,Duty-Free TL %
-Philippines,1988,,Specific TL %
-Philippines,1989,,Dutiable TL %
-Philippines,1989,,Duty-Free TL %
-Philippines,1989,,Specific TL %
-Philippines,1990,,Dutiable TL %
-Philippines,1990,,Duty-Free TL %
-Philippines,1990,,Specific TL %
-Philippines,1991,,Dutiable TL %
-Philippines,1991,,Duty-Free TL %
-Philippines,1991,,Specific TL %
-Philippines,1992,,Dutiable TL %
-Philippines,1992,,Duty-Free TL %
-Philippines,1992,,Specific TL %
-Philippines,1993,,Dutiable TL %
-Philippines,1993,,Duty-Free TL %
-Philippines,1993,,Specific TL %
-Philippines,1994,,Dutiable TL %
-Philippines,1994,,Duty-Free TL %
-Philippines,1994,,Specific TL %
-Philippines,1995,,Dutiable TL %
-Philippines,1995,,Duty-Free TL %
-Philippines,1995,,Specific TL %
-Philippines,1996,99.508514214719,Dutiable TL %
-Philippines,1996,0.0,Duty-Free TL %
-Philippines,1996,0.4914857852810056,Specific TL %
-Philippines,1997,99.79241877256318,Dutiable TL %
-Philippines,1997,0.0,Duty-Free TL %
-Philippines,1997,0.2075812274368231,Specific TL %
-Philippines,1998,99.88107250973043,Dutiable TL %
-Philippines,1998,0.09370044687905435,Duty-Free TL %
-Philippines,1998,0.025227043390514632,Specific TL %
-Philippines,1999,99.90631137055655,Dutiable TL %
-Philippines,1999,0.0936886294434535,Duty-Free TL %
-Philippines,1999,0.0,Specific TL %
-Philippines,2000,94.5722367508139,Dutiable TL %
+Maldives,2022,0.015908963,Specific TL %
+Philippines,2000,94.57223675,Dutiable TL %
 Philippines,2000,5.4277632491861025,Duty-Free TL %
-Philippines,2000,0.0,Specific TL %
+Philippines,2000,0,Specific TL %
 Philippines,2001,92.07284900751415,Dutiable TL %
 Philippines,2001,7.9271509924858545,Duty-Free TL %
-Philippines,2001,0.0,Specific TL %
+Philippines,2001,0,Specific TL %
 Philippines,2002,94.65071233323076,Dutiable TL %
 Philippines,2002,5.349287666769247,Duty-Free TL %
-Philippines,2002,0.0,Specific TL %
+Philippines,2002,0,Specific TL %
 Philippines,2003,94.53153415290609,Dutiable TL %
 Philippines,2003,5.468465847093912,Duty-Free TL %
-Philippines,2003,0.0,Specific TL %
+Philippines,2003,0,Specific TL %
 Philippines,2004,88.12956361217611,Dutiable TL %
 Philippines,2004,11.87043638782389,Duty-Free TL %
-Philippines,2004,0.0,Specific TL %
+Philippines,2004,0,Specific TL %
 Philippines,2005,87.49355395618932,Dutiable TL %
 Philippines,2005,12.506446043810676,Duty-Free TL %
-Philippines,2005,0.0,Specific TL %
+Philippines,2005,0,Specific TL %
 Philippines,2006,86.99605715265304,Dutiable TL %
 Philippines,2006,13.003942847346963,Duty-Free TL %
-Philippines,2006,0.0,Specific TL %
+Philippines,2006,0,Specific TL %
 Philippines,2007,86.98557836326547,Dutiable TL %
 Philippines,2007,13.01442163673452,Duty-Free TL %
-Philippines,2007,0.0,Specific TL %
+Philippines,2007,0,Specific TL %
 Philippines,2008,80.85118387151374,Dutiable TL %
 Philippines,2008,19.148816128486263,Duty-Free TL %
-Philippines,2008,0.0,Specific TL %
+Philippines,2008,0,Specific TL %
 Philippines,2009,80.95584204399165,Dutiable TL %
 Philippines,2009,19.044157956008352,Duty-Free TL %
-Philippines,2009,0.0,Specific TL %
+Philippines,2009,0,Specific TL %
 Philippines,2010,81.00315519379274,Dutiable TL %
 Philippines,2010,18.99684480620726,Duty-Free TL %
-Philippines,2010,0.0,Specific TL %
+Philippines,2010,0,Specific TL %
 Philippines,2011,66.16563044604588,Dutiable TL %
 Philippines,2011,33.834369553954126,Duty-Free TL %
-Philippines,2011,0.0,Specific TL %
+Philippines,2011,0,Specific TL %
 Philippines,2012,64.95761602019192,Dutiable TL %
 Philippines,2012,35.04238397980808,Duty-Free TL %
-Philippines,2012,0.0,Specific TL %
+Philippines,2012,0,Specific TL %
 Philippines,2013,64.85685055644704,Dutiable TL %
 Philippines,2013,35.14314944355295,Duty-Free TL %
-Philippines,2013,0.0,Specific TL %
-Philippines,2014,,Dutiable TL %
-Philippines,2014,,Duty-Free TL %
-Philippines,2014,,Specific TL %
-Philippines,2015,64.3333719204824,Dutiable TL %
+Philippines,2013,0,Specific TL %
+Philippines,2014,NA,Dutiable TL %
+Philippines,2014,NA,Duty-Free TL %
+Philippines,2014,NA,Specific TL %
+Philippines,2015,64.33337192,Dutiable TL %
 Philippines,2015,35.666628079517594,Duty-Free TL %
-Philippines,2015,0.0,Specific TL %
+Philippines,2015,0,Specific TL %
 Philippines,2016,79.98234327008981,Dutiable TL %
 Philippines,2016,20.017656729910183,Duty-Free TL %
-Philippines,2016,0.0,Specific TL %
+Philippines,2016,0,Specific TL %
 Philippines,2017,62.452993221287834,Dutiable TL %
 Philippines,2017,37.547006778712166,Duty-Free TL %
-Philippines,2017,0.0,Specific TL %
+Philippines,2017,0,Specific TL %
 Philippines,2018,57.14297902837739,Dutiable TL %
 Philippines,2018,42.85702097162261,Duty-Free TL %
-Philippines,2018,0.0,Specific TL %
-Philippines,2019,52.0908627303164,Dutiable TL %
-Philippines,2019,47.9091372696836,Duty-Free TL %
-Philippines,2019,0.0,Specific TL %
+Philippines,2018,0,Specific TL %
+Philippines,2019,52.09086273,Dutiable TL %
+Philippines,2019,47.90913727,Duty-Free TL %
+Philippines,2019,0,Specific TL %
 Philippines,2020,52.49073307307071,Dutiable TL %
 Philippines,2020,47.50926692692929,Duty-Free TL %
-Philippines,2020,0.0,Specific TL %
+Philippines,2020,0,Specific TL %
 Philippines,2021,54.459117311224745,Dutiable TL %
 Philippines,2021,45.540882688775255,Duty-Free TL %
-Philippines,2021,0.0,Specific TL %
+Philippines,2021,0,Specific TL %
 Philippines,2022,53.228289595755456,Dutiable TL %
 Philippines,2022,46.771710404244544,Duty-Free TL %
-Philippines,2022,0.0,Specific TL %
-Qatar,1988,,Dutiable TL %
-Qatar,1988,,Duty-Free TL %
-Qatar,1988,,Specific TL %
-Qatar,1989,,Dutiable TL %
-Qatar,1989,,Duty-Free TL %
-Qatar,1989,,Specific TL %
-Qatar,1990,,Dutiable TL %
-Qatar,1990,,Duty-Free TL %
-Qatar,1990,,Specific TL %
-Qatar,1991,,Dutiable TL %
-Qatar,1991,,Duty-Free TL %
-Qatar,1991,,Specific TL %
-Qatar,1992,,Dutiable TL %
-Qatar,1992,,Duty-Free TL %
-Qatar,1992,,Specific TL %
-Qatar,1993,,Dutiable TL %
-Qatar,1993,,Duty-Free TL %
-Qatar,1993,,Specific TL %
-Qatar,1994,,Dutiable TL %
-Qatar,1994,,Duty-Free TL %
-Qatar,1994,,Specific TL %
-Qatar,1995,,Dutiable TL %
-Qatar,1995,,Duty-Free TL %
-Qatar,1995,,Specific TL %
-Qatar,1996,,Dutiable TL %
-Qatar,1996,,Duty-Free TL %
-Qatar,1996,,Specific TL %
-Qatar,1997,,Dutiable TL %
-Qatar,1997,,Duty-Free TL %
-Qatar,1997,,Specific TL %
-Qatar,1998,,Dutiable TL %
-Qatar,1998,,Duty-Free TL %
-Qatar,1998,,Specific TL %
-Qatar,1999,,Dutiable TL %
-Qatar,1999,,Duty-Free TL %
-Qatar,1999,,Specific TL %
-Qatar,2000,,Dutiable TL %
-Qatar,2000,,Duty-Free TL %
-Qatar,2000,,Specific TL %
-Qatar,2001,,Dutiable TL %
-Qatar,2001,,Duty-Free TL %
-Qatar,2001,,Specific TL %
-Qatar,2002,100.0,Dutiable TL %
-Qatar,2002,0.0,Duty-Free TL %
-Qatar,2002,0.0,Specific TL %
-Qatar,2003,95.3046117973141,Dutiable TL %
-Qatar,2003,4.205941552370792,Duty-Free TL %
-Qatar,2003,0.3596607969731299,Specific TL %
-Qatar,2004,95.37830376488962,Dutiable TL %
-Qatar,2004,4.466613139167831,Duty-Free TL %
-Qatar,2004,0.02529724260055654,Specific TL %
-Qatar,2005,76.52787842853064,Dutiable TL %
-Qatar,2005,22.72547598656038,Duty-Free TL %
-Qatar,2005,0.6620989525001647,Specific TL %
-Qatar,2006,76.64193571305327,Dutiable TL %
-Qatar,2006,22.55828351619353,Duty-Free TL %
-Qatar,2006,0.7338090066682229,Specific TL %
-Qatar,2007,77.29069575536572,Dutiable TL %
-Qatar,2007,22.490038744763954,Duty-Free TL %
-Qatar,2007,0.21926549987032687,Specific TL %
-Qatar,2008,77.01052556079543,Dutiable TL %
-Qatar,2008,22.70616292205347,Duty-Free TL %
-Qatar,2008,0.27075974107479067,Specific TL %
-Qatar,2009,,Dutiable TL %
-Qatar,2009,,Duty-Free TL %
-Qatar,2009,,Specific TL %
-Qatar,2010,89.41551774139188,Dutiable TL %
-Qatar,2010,10.331313733020856,Duty-Free TL %
-Qatar,2010,0.25316852558726477,Specific TL %
-Qatar,2011,,Dutiable TL %
-Qatar,2011,,Duty-Free TL %
-Qatar,2011,,Specific TL %
-Qatar,2012,81.85952077320626,Dutiable TL %
-Qatar,2012,17.690784616417208,Duty-Free TL %
-Qatar,2012,0.41781327605879587,Specific TL %
-Qatar,2013,82.04878350579246,Dutiable TL %
-Qatar,2013,17.443892781464125,Duty-Free TL %
-Qatar,2013,0.4624688722874422,Specific TL %
-Qatar,2014,74.51424008517434,Dutiable TL %
-Qatar,2014,25.483411357622632,Duty-Free TL %
-Qatar,2014,0.0,Specific TL %
-Qatar,2015,71.51036077767483,Dutiable TL %
-Qatar,2015,28.100401900864455,Duty-Free TL %
-Qatar,2015,0.3605777241613735,Specific TL %
-Qatar,2016,71.53368835687198,Dutiable TL %
-Qatar,2016,28.07707432166732,Duty-Free TL %
-Qatar,2016,0.3605777241613735,Specific TL %
-Qatar,2017,74.13428026566713,Dutiable TL %
-Qatar,2017,25.056881699217467,Duty-Free TL %
-Qatar,2017,0.7417636614716907,Specific TL %
-Qatar,2018,75.58742673375176,Dutiable TL %
-Qatar,2018,23.47761813372063,Duty-Free TL %
-Qatar,2018,0.8519632761035323,Specific TL %
-Qatar,2019,78.26601492153331,Dutiable TL %
-Qatar,2019,20.827116027784925,Duty-Free TL %
-Qatar,2019,0.8271160277849241,Specific TL %
-Qatar,2020,75.2296890672016,Dutiable TL %
-Qatar,2020,24.070210631895687,Duty-Free TL %
-Qatar,2020,0.6960882647943831,Specific TL %
-Qatar,2021,75.42508442443273,Dutiable TL %
-Qatar,2021,23.682287655271836,Duty-Free TL %
-Qatar,2021,0.8689298339159113,Specific TL %
-Qatar,2022,75.32494639570406,Dutiable TL %
-Qatar,2022,23.78512741693706,Duty-Free TL %
-Qatar,2022,0.8899261873588736,Specific TL %
-Russian Federation,1988,,Dutiable TL %
-Russian Federation,1988,,Duty-Free TL %
-Russian Federation,1988,,Specific TL %
-Russian Federation,1989,,Dutiable TL %
-Russian Federation,1989,,Duty-Free TL %
-Russian Federation,1989,,Specific TL %
-Russian Federation,1990,,Dutiable TL %
-Russian Federation,1990,,Duty-Free TL %
-Russian Federation,1990,,Specific TL %
-Russian Federation,1991,,Dutiable TL %
-Russian Federation,1991,,Duty-Free TL %
-Russian Federation,1991,,Specific TL %
-Russian Federation,1992,,Dutiable TL %
-Russian Federation,1992,,Duty-Free TL %
-Russian Federation,1992,,Specific TL %
-Russian Federation,1993,,Dutiable TL %
-Russian Federation,1993,,Duty-Free TL %
-Russian Federation,1993,,Specific TL %
-Russian Federation,1994,,Dutiable TL %
-Russian Federation,1994,,Duty-Free TL %
-Russian Federation,1994,,Specific TL %
-Russian Federation,1995,,Dutiable TL %
-Russian Federation,1995,,Duty-Free TL %
-Russian Federation,1995,,Specific TL %
-Russian Federation,1996,83.4425259204833,Dutiable TL %
-Russian Federation,1996,8.73693770920075,Duty-Free TL %
-Russian Federation,1996,0.45156747489590987,Specific TL %
-Russian Federation,1997,99.4394846192681,Dutiable TL %
-Russian Federation,1997,0.5605153807319062,Duty-Free TL %
-Russian Federation,1997,0.0,Specific TL %
-Russian Federation,1998,,Dutiable TL %
-Russian Federation,1998,,Duty-Free TL %
-Russian Federation,1998,,Specific TL %
-Russian Federation,1999,,Dutiable TL %
-Russian Federation,1999,,Duty-Free TL %
-Russian Federation,1999,,Specific TL %
-Russian Federation,2000,,Dutiable TL %
-Russian Federation,2000,,Duty-Free TL %
-Russian Federation,2000,,Specific TL %
-Russian Federation,2001,83.31156461404278,Dutiable TL %
-Russian Federation,2001,0.3002781478218986,Duty-Free TL %
-Russian Federation,2001,1.434131905421062,Specific TL %
-Russian Federation,2002,81.49717574702242,Dutiable TL %
-Russian Federation,2002,0.30751547227428494,Duty-Free TL %
-Russian Federation,2002,1.00403587251618,Specific TL %
-Russian Federation,2003,,Dutiable TL %
-Russian Federation,2003,,Duty-Free TL %
-Russian Federation,2003,,Specific TL %
-Russian Federation,2004,,Dutiable TL %
-Russian Federation,2004,,Duty-Free TL %
-Russian Federation,2004,,Specific TL %
-Russian Federation,2005,82.0669814410254,Dutiable TL %
-Russian Federation,2005,0.9646355567899648,Duty-Free TL %
-Russian Federation,2005,1.3161658327495223,Specific TL %
-Russian Federation,2006,,Dutiable TL %
-Russian Federation,2006,,Duty-Free TL %
-Russian Federation,2006,,Specific TL %
-Russian Federation,2007,63.043379116911545,Dutiable TL %
-Russian Federation,2007,19.56088810513754,Duty-Free TL %
-Russian Federation,2007,0.5012883757344502,Specific TL %
-Russian Federation,2008,62.28888938510893,Dutiable TL %
-Russian Federation,2008,20.48917371919404,Duty-Free TL %
-Russian Federation,2008,0.25418871744486377,Specific TL %
-Russian Federation,2009,61.28802487111881,Dutiable TL %
-Russian Federation,2009,20.910629255047027,Duty-Free TL %
-Russian Federation,2009,0.43209633623234034,Specific TL %
-Russian Federation,2010,48.89616657743248,Dutiable TL %
-Russian Federation,2010,37.13679405661225,Duty-Free TL %
-Russian Federation,2010,0.39862279731593986,Specific TL %
-Russian Federation,2011,59.11459108636756,Dutiable TL %
-Russian Federation,2011,22.93794099258686,Duty-Free TL %
-Russian Federation,2011,0.673583613683051,Specific TL %
-Russian Federation,2012,56.55054793526381,Dutiable TL %
-Russian Federation,2012,26.23085855287031,Duty-Free TL %
-Russian Federation,2012,0.46120908629073226,Specific TL %
-Russian Federation,2013,58.51622472794759,Dutiable TL %
-Russian Federation,2013,26.612279616455304,Duty-Free TL %
-Russian Federation,2013,0.5258274048871018,Specific TL %
-Russian Federation,2014,58.14868628163216,Dutiable TL %
-Russian Federation,2014,28.594731673191536,Duty-Free TL %
-Russian Federation,2014,0.0,Specific TL %
-Russian Federation,2015,47.1755069923817,Dutiable TL %
-Russian Federation,2015,42.22289781465717,Duty-Free TL %
-Russian Federation,2015,1.336600021459995,Specific TL %
-Russian Federation,2016,55.90361621304663,Dutiable TL %
-Russian Federation,2016,30.722696298562475,Duty-Free TL %
-Russian Federation,2016,1.7452807855220362,Specific TL %
-Russian Federation,2017,54.58318123987766,Dutiable TL %
-Russian Federation,2017,32.17494232261768,Duty-Free TL %
-Russian Federation,2017,1.4437951185974562,Specific TL %
-Russian Federation,2018,55.78771401673116,Dutiable TL %
-Russian Federation,2018,32.228780887675,Duty-Free TL %
-Russian Federation,2018,0.43635608661256664,Specific TL %
-Russian Federation,2019,57.192040407188856,Dutiable TL %
-Russian Federation,2019,31.616641754567414,Duty-Free TL %
-Russian Federation,2019,0.29398638453419096,Specific TL %
-Russian Federation,2020,56.60783454437502,Dutiable TL %
-Russian Federation,2020,31.16323616726512,Duty-Free TL %
-Russian Federation,2020,0.3177217337216206,Specific TL %
-Russian Federation,2021,56.57043629259822,Dutiable TL %
-Russian Federation,2021,31.868895159539832,Duty-Free TL %
-Russian Federation,2021,0.285796975616815,Specific TL %
-Russian Federation,2022,,Dutiable TL %
-Russian Federation,2022,,Duty-Free TL %
-Russian Federation,2022,,Specific TL %
-Saudi Arabia,1988,,Dutiable TL %
-Saudi Arabia,1988,,Duty-Free TL %
-Saudi Arabia,1988,,Specific TL %
-Saudi Arabia,1989,,Dutiable TL %
-Saudi Arabia,1989,,Duty-Free TL %
-Saudi Arabia,1989,,Specific TL %
-Saudi Arabia,1990,,Dutiable TL %
-Saudi Arabia,1990,,Duty-Free TL %
-Saudi Arabia,1990,,Specific TL %
-Saudi Arabia,1991,,Dutiable TL %
-Saudi Arabia,1991,,Duty-Free TL %
-Saudi Arabia,1991,,Specific TL %
-Saudi Arabia,1992,,Dutiable TL %
-Saudi Arabia,1992,,Duty-Free TL %
-Saudi Arabia,1992,,Specific TL %
-Saudi Arabia,1993,,Dutiable TL %
-Saudi Arabia,1993,,Duty-Free TL %
-Saudi Arabia,1993,,Specific TL %
-Saudi Arabia,1994,96.53916944089633,Dutiable TL %
-Saudi Arabia,1994,2.3283413962002273,Duty-Free TL %
-Saudi Arabia,1994,0.12270308869824093,Specific TL %
-Saudi Arabia,1995,,Dutiable TL %
-Saudi Arabia,1995,,Duty-Free TL %
-Saudi Arabia,1995,,Specific TL %
-Saudi Arabia,1996,,Dutiable TL %
-Saudi Arabia,1996,,Duty-Free TL %
-Saudi Arabia,1996,,Specific TL %
-Saudi Arabia,1997,,Dutiable TL %
-Saudi Arabia,1997,,Duty-Free TL %
-Saudi Arabia,1997,,Specific TL %
-Saudi Arabia,1998,,Dutiable TL %
-Saudi Arabia,1998,,Duty-Free TL %
-Saudi Arabia,1998,,Specific TL %
-Saudi Arabia,1999,95.95237654378136,Dutiable TL %
-Saudi Arabia,1999,2.5533727109448776,Duty-Free TL %
-Saudi Arabia,1999,0.14720314033366044,Specific TL %
-Saudi Arabia,2000,93.3813634424131,Dutiable TL %
-Saudi Arabia,2000,2.5224012866380017,Duty-Free TL %
-Saudi Arabia,2000,0.3372501394951915,Specific TL %
-Saudi Arabia,2001,93.44514248140256,Dutiable TL %
-Saudi Arabia,2001,2.3632028013024153,Duty-Free TL %
-Saudi Arabia,2001,0.4499829671940235,Specific TL %
-Saudi Arabia,2002,95.40612037754849,Dutiable TL %
-Saudi Arabia,2002,2.0787545055665224,Duty-Free TL %
-Saudi Arabia,2002,0.31968542953733525,Specific TL %
-Saudi Arabia,2003,92.99037578595411,Dutiable TL %
-Saudi Arabia,2003,4.684531862246865,Duty-Free TL %
-Saudi Arabia,2003,0.23201856148491878,Specific TL %
-Saudi Arabia,2004,93.3724299710225,Dutiable TL %
-Saudi Arabia,2004,4.257623844349386,Duty-Free TL %
-Saudi Arabia,2004,0.2780460880364289,Specific TL %
-Saudi Arabia,2005,80.34912356946255,Dutiable TL %
-Saudi Arabia,2005,19.139241173139478,Duty-Free TL %
-Saudi Arabia,2005,0.47278521854793043,Specific TL %
-Saudi Arabia,2006,80.42899878223116,Dutiable TL %
-Saudi Arabia,2006,19.04352199925875,Duty-Free TL %
-Saudi Arabia,2006,0.49504950495049505,Specific TL %
-Saudi Arabia,2007,77.96465020443644,Dutiable TL %
-Saudi Arabia,2007,21.768133672450983,Duty-Free TL %
-Saudi Arabia,2007,0.23630919802968353,Specific TL %
-Saudi Arabia,2008,71.09643328929987,Dutiable TL %
-Saudi Arabia,2008,28.348745046235138,Duty-Free TL %
-Saudi Arabia,2008,0.5548216644649934,Specific TL %
-Saudi Arabia,2009,69.91995868835528,Dutiable TL %
-Saudi Arabia,2009,29.38290730699716,Duty-Free TL %
-Saudi Arabia,2009,0.69713400464756,Specific TL %
-Saudi Arabia,2010,,Dutiable TL %
-Saudi Arabia,2010,,Duty-Free TL %
-Saudi Arabia,2010,,Specific TL %
-Saudi Arabia,2011,88.07785888077859,Dutiable TL %
-Saudi Arabia,2011,11.451053476212662,Duty-Free TL %
-Saudi Arabia,2011,0.4710876430087488,Specific TL %
-Saudi Arabia,2012,79.06236530619012,Dutiable TL %
-Saudi Arabia,2012,20.61602732004907,Duty-Free TL %
-Saudi Arabia,2012,0.2785053545969961,Specific TL %
-Saudi Arabia,2013,79.06236530619012,Dutiable TL %
-Saudi Arabia,2013,20.61602732004907,Duty-Free TL %
-Saudi Arabia,2013,0.2785053545969961,Specific TL %
-Saudi Arabia,2014,77.36575178997613,Dutiable TL %
-Saudi Arabia,2014,22.610381861575178,Duty-Free TL %
-Saudi Arabia,2014,0.0,Specific TL %
-Saudi Arabia,2015,88.64435146443515,Dutiable TL %
-Saudi Arabia,2015,10.881052002390915,Duty-Free TL %
-Saudi Arabia,2015,0.474596533173939,Specific TL %
-Saudi Arabia,2016,,Dutiable TL %
-Saudi Arabia,2016,,Duty-Free TL %
-Saudi Arabia,2016,,Specific TL %
-Saudi Arabia,2017,81.75920597861743,Dutiable TL %
-Saudi Arabia,2017,17.970304831787246,Duty-Free TL %
-Saudi Arabia,2017,0.1788600603286187,Specific TL %
-Saudi Arabia,2018,,Dutiable TL %
-Saudi Arabia,2018,,Duty-Free TL %
-Saudi Arabia,2018,,Specific TL %
-Saudi Arabia,2019,,Dutiable TL %
-Saudi Arabia,2019,,Duty-Free TL %
-Saudi Arabia,2019,,Specific TL %
-Saudi Arabia,2020,76.58269180051992,Dutiable TL %
-Saudi Arabia,2020,22.9711655594208,Duty-Free TL %
-Saudi Arabia,2020,0.3733030253557211,Specific TL %
-Saudi Arabia,2021,,Dutiable TL %
-Saudi Arabia,2021,,Duty-Free TL %
-Saudi Arabia,2021,,Specific TL %
-Saudi Arabia,2022,,Dutiable TL %
-Saudi Arabia,2022,,Duty-Free TL %
-Saudi Arabia,2022,,Specific TL %
-Singapore,1988,,Dutiable TL %
-Singapore,1988,,Duty-Free TL %
-Singapore,1988,,Specific TL %
-Singapore,1989,8.226561037988896,Dutiable TL %
-Singapore,1989,90.20772253758344,Duty-Free TL %
-Singapore,1989,0.9943234982221945,Specific TL %
-Singapore,1990,,Dutiable TL %
-Singapore,1990,,Duty-Free TL %
-Singapore,1990,,Specific TL %
-Singapore,1991,,Dutiable TL %
-Singapore,1991,,Duty-Free TL %
-Singapore,1991,,Specific TL %
-Singapore,1992,,Dutiable TL %
-Singapore,1992,,Duty-Free TL %
-Singapore,1992,,Specific TL %
-Singapore,1993,,Dutiable TL %
-Singapore,1993,,Duty-Free TL %
-Singapore,1993,,Specific TL %
-Singapore,1994,,Dutiable TL %
-Singapore,1994,,Duty-Free TL %
-Singapore,1994,,Specific TL %
-Singapore,1995,0.0,Dutiable TL %
-Singapore,1995,99.80728213678637,Duty-Free TL %
-Singapore,1995,0.02598443099509544,Specific TL %
-Singapore,1996,0.0,Dutiable TL %
-Singapore,1996,99.46294884050654,Duty-Free TL %
-Singapore,1996,0.390973244111234,Specific TL %
-Singapore,1997,0.0,Dutiable TL %
-Singapore,1997,99.49267421567434,Duty-Free TL %
-Singapore,1997,0.36933317098908236,Specific TL %
-Singapore,1998,0.0,Dutiable TL %
-Singapore,1998,99.860640834413,Duty-Free TL %
-Singapore,1998,0.0,Specific TL %
-Singapore,1999,0.0,Dutiable TL %
-Singapore,1999,99.85860287160932,Duty-Free TL %
-Singapore,1999,0.0,Specific TL %
-Singapore,2000,0.0,Dutiable TL %
+Philippines,2022,0,Specific TL %
+Singapore,2000,0,Dutiable TL %
 Singapore,2000,99.84538971455076,Duty-Free TL %
-Singapore,2000,0.0,Specific TL %
-Singapore,2001,0.0,Dutiable TL %
+Singapore,2000,0,Specific TL %
+Singapore,2001,0,Dutiable TL %
 Singapore,2001,99.81113281502658,Duty-Free TL %
-Singapore,2001,0.0,Specific TL %
-Singapore,2002,0.0,Dutiable TL %
+Singapore,2001,0,Specific TL %
+Singapore,2002,0,Dutiable TL %
 Singapore,2002,99.72207662396235,Duty-Free TL %
-Singapore,2002,0.0,Specific TL %
-Singapore,2003,0.0,Dutiable TL %
+Singapore,2002,0,Specific TL %
+Singapore,2003,0,Dutiable TL %
 Singapore,2003,99.77712087087087,Duty-Free TL %
-Singapore,2003,0.0,Specific TL %
-Singapore,2004,0.0,Dutiable TL %
-Singapore,2004,100.0,Duty-Free TL %
-Singapore,2004,0.0,Specific TL %
-Singapore,2005,0.0,Dutiable TL %
-Singapore,2005,99.9045841303955,Duty-Free TL %
-Singapore,2005,0.0,Specific TL %
-Singapore,2006,0.0,Dutiable TL %
+Singapore,2003,0,Specific TL %
+Singapore,2004,0,Dutiable TL %
+Singapore,2004,100,Duty-Free TL %
+Singapore,2004,0,Specific TL %
+Singapore,2005,0,Dutiable TL %
+Singapore,2005,99.90458413,Duty-Free TL %
+Singapore,2005,0,Specific TL %
+Singapore,2006,0,Dutiable TL %
 Singapore,2006,99.89825380321037,Duty-Free TL %
-Singapore,2006,0.0,Specific TL %
-Singapore,2007,0.0,Dutiable TL %
+Singapore,2006,0,Specific TL %
+Singapore,2007,0,Dutiable TL %
 Singapore,2007,99.93143884924115,Duty-Free TL %
-Singapore,2007,0.0,Specific TL %
-Singapore,2008,0.0,Dutiable TL %
+Singapore,2007,0,Specific TL %
+Singapore,2008,0,Dutiable TL %
 Singapore,2008,99.91224221149628,Duty-Free TL %
-Singapore,2008,0.0,Specific TL %
-Singapore,2009,0.0,Dutiable TL %
+Singapore,2008,0,Specific TL %
+Singapore,2009,0,Dutiable TL %
 Singapore,2009,99.92040229112324,Duty-Free TL %
-Singapore,2009,0.0,Specific TL %
-Singapore,2010,0.0,Dutiable TL %
+Singapore,2009,0,Specific TL %
+Singapore,2010,0,Dutiable TL %
 Singapore,2010,99.90947433391626,Duty-Free TL %
-Singapore,2010,0.0,Specific TL %
-Singapore,2011,0.0,Dutiable TL %
+Singapore,2010,0,Specific TL %
+Singapore,2011,0,Dutiable TL %
 Singapore,2011,99.86365378012431,Duty-Free TL %
-Singapore,2011,0.0,Specific TL %
-Singapore,2012,0.0,Dutiable TL %
+Singapore,2011,0,Specific TL %
+Singapore,2012,0,Dutiable TL %
 Singapore,2012,99.91558571810644,Duty-Free TL %
-Singapore,2012,0.0,Specific TL %
-Singapore,2013,0.0,Dutiable TL %
+Singapore,2012,0,Specific TL %
+Singapore,2013,0,Dutiable TL %
 Singapore,2013,99.90344557784908,Duty-Free TL %
-Singapore,2013,0.0,Specific TL %
-Singapore,2014,0.0,Dutiable TL %
+Singapore,2013,0,Specific TL %
+Singapore,2014,0,Dutiable TL %
 Singapore,2014,99.90344557784908,Duty-Free TL %
-Singapore,2014,0.0,Specific TL %
-Singapore,2015,0.0,Dutiable TL %
+Singapore,2014,0,Specific TL %
+Singapore,2015,0,Dutiable TL %
 Singapore,2015,99.91606010096771,Duty-Free TL %
-Singapore,2015,0.0,Specific TL %
-Singapore,2016,0.0,Dutiable TL %
+Singapore,2015,0,Specific TL %
+Singapore,2016,0,Dutiable TL %
 Singapore,2016,99.91363052883473,Duty-Free TL %
-Singapore,2016,0.0,Specific TL %
-Singapore,2017,0.0,Dutiable TL %
+Singapore,2016,0,Specific TL %
+Singapore,2017,0,Dutiable TL %
 Singapore,2017,99.92595617674337,Duty-Free TL %
-Singapore,2017,0.0,Specific TL %
-Singapore,2018,0.0,Dutiable TL %
+Singapore,2017,0,Specific TL %
+Singapore,2018,0,Dutiable TL %
 Singapore,2018,99.92671951512746,Duty-Free TL %
-Singapore,2018,0.0,Specific TL %
-Singapore,2019,0.0,Dutiable TL %
+Singapore,2018,0,Specific TL %
+Singapore,2019,0,Dutiable TL %
 Singapore,2019,99.90195207730154,Duty-Free TL %
-Singapore,2019,0.0,Specific TL %
-Singapore,2020,0.0,Dutiable TL %
-Singapore,2020,99.9003228672344,Duty-Free TL %
-Singapore,2020,0.0,Specific TL %
-Singapore,2021,0.0,Dutiable TL %
+Singapore,2019,0,Specific TL %
+Singapore,2020,0,Dutiable TL %
+Singapore,2020,99.90032287,Duty-Free TL %
+Singapore,2020,0,Specific TL %
+Singapore,2021,0,Dutiable TL %
 Singapore,2021,99.95377292393479,Duty-Free TL %
-Singapore,2021,0.0,Specific TL %
-Singapore,2022,0.0,Dutiable TL %
+Singapore,2021,0,Specific TL %
+Singapore,2022,0,Dutiable TL %
 Singapore,2022,99.96614520884174,Duty-Free TL %
-Singapore,2022,0.0,Specific TL %
-Sri Lanka,1988,,Dutiable TL %
-Sri Lanka,1988,,Duty-Free TL %
-Sri Lanka,1988,,Specific TL %
-Sri Lanka,1989,,Dutiable TL %
-Sri Lanka,1989,,Duty-Free TL %
-Sri Lanka,1989,,Specific TL %
-Sri Lanka,1990,97.18764541647278,Dutiable TL %
-Sri Lanka,1990,1.3523731968357375,Duty-Free TL %
-Sri Lanka,1990,0.6601907864122848,Specific TL %
-Sri Lanka,1991,,Dutiable TL %
-Sri Lanka,1991,,Duty-Free TL %
-Sri Lanka,1991,,Specific TL %
-Sri Lanka,1992,,Dutiable TL %
-Sri Lanka,1992,,Duty-Free TL %
-Sri Lanka,1992,,Specific TL %
-Sri Lanka,1993,96.86276478265235,Dutiable TL %
-Sri Lanka,1993,1.7443027808452967,Duty-Free TL %
-Sri Lanka,1993,0.524545728340528,Specific TL %
-Sri Lanka,1994,96.81567380529319,Dutiable TL %
-Sri Lanka,1994,1.7347797624614234,Duty-Free TL %
-Sri Lanka,1994,0.4862994482371645,Specific TL %
-Sri Lanka,1995,,Dutiable TL %
-Sri Lanka,1995,,Duty-Free TL %
-Sri Lanka,1995,,Specific TL %
-Sri Lanka,1996,,Dutiable TL %
-Sri Lanka,1996,,Duty-Free TL %
-Sri Lanka,1996,,Specific TL %
-Sri Lanka,1997,,Dutiable TL %
-Sri Lanka,1997,,Duty-Free TL %
-Sri Lanka,1997,,Specific TL %
-Sri Lanka,1998,,Dutiable TL %
-Sri Lanka,1998,,Duty-Free TL %
-Sri Lanka,1998,,Specific TL %
-Sri Lanka,1999,,Dutiable TL %
-Sri Lanka,1999,,Duty-Free TL %
-Sri Lanka,1999,,Specific TL %
-Sri Lanka,2000,79.70237097465125,Dutiable TL %
-Sri Lanka,2000,19.759363766739305,Duty-Free TL %
-Sri Lanka,2000,0.05028775772475834,Specific TL %
-Sri Lanka,2001,79.4983971336979,Dutiable TL %
-Sri Lanka,2001,19.941542523100132,Duty-Free TL %
-Sri Lanka,2001,0.10560060343201962,Specific TL %
-Sri Lanka,2002,,Dutiable TL %
-Sri Lanka,2002,,Duty-Free TL %
-Sri Lanka,2002,,Specific TL %
-Sri Lanka,2003,88.67917770933315,Dutiable TL %
-Sri Lanka,2003,10.16402836473032,Duty-Free TL %
-Sri Lanka,2003,0.10565145763197478,Specific TL %
-Sri Lanka,2004,87.38299669223731,Dutiable TL %
-Sri Lanka,2004,11.591244985572525,Duty-Free TL %
-Sri Lanka,2004,0.11084523893307059,Specific TL %
-Sri Lanka,2005,87.50020722468129,Dutiable TL %
-Sri Lanka,2005,11.198421776827308,Duty-Free TL %
-Sri Lanka,2005,0.07957427761476103,Specific TL %
-Sri Lanka,2006,86.8262651552827,Dutiable TL %
-Sri Lanka,2006,11.822406667466945,Duty-Free TL %
-Sri Lanka,2006,0.1251864935777614,Specific TL %
-Sri Lanka,2007,85.57281683983994,Dutiable TL %
-Sri Lanka,2007,12.749251824203908,Duty-Free TL %
-Sri Lanka,2007,0.08574599011399173,Specific TL %
-Sri Lanka,2008,82.3529411764706,Dutiable TL %
-Sri Lanka,2008,12.554946411814097,Duty-Free TL %
-Sri Lanka,2008,0.4082909402215966,Specific TL %
-Sri Lanka,2009,79.49318347382662,Dutiable TL %
-Sri Lanka,2009,15.580879037013911,Duty-Free TL %
-Sri Lanka,2009,0.13702431748014016,Specific TL %
-Sri Lanka,2010,50.5827395091053,Dutiable TL %
-Sri Lanka,2010,44.38321456848773,Duty-Free TL %
-Sri Lanka,2010,0.06967537608867776,Specific TL %
-Sri Lanka,2011,51.10443442942191,Dutiable TL %
-Sri Lanka,2011,43.96316697268124,Duty-Free TL %
-Sri Lanka,2011,0.22951093306626608,Specific TL %
-Sri Lanka,2012,50.168783807600015,Dutiable TL %
-Sri Lanka,2012,44.916828220110354,Duty-Free TL %
-Sri Lanka,2012,0.18572997302170466,Specific TL %
-Sri Lanka,2013,,Dutiable TL %
-Sri Lanka,2013,,Duty-Free TL %
-Sri Lanka,2013,,Specific TL %
-Sri Lanka,2014,45.56226533613145,Dutiable TL %
-Sri Lanka,2014,49.74231587362771,Duty-Free TL %
-Sri Lanka,2014,0.0,Specific TL %
-Sri Lanka,2015,44.20370420587358,Dutiable TL %
-Sri Lanka,2015,50.74978984190688,Duty-Free TL %
-Sri Lanka,2015,5.04650595221954,Specific TL %
-Sri Lanka,2016,,Dutiable TL %
-Sri Lanka,2016,,Duty-Free TL %
-Sri Lanka,2016,,Specific TL %
-Sri Lanka,2017,39.69325081873594,Dutiable TL %
-Sri Lanka,2017,54.02258662284535,Duty-Free TL %
-Sri Lanka,2017,0.41490390778877195,Specific TL %
-Sri Lanka,2018,,Dutiable TL %
-Sri Lanka,2018,,Duty-Free TL %
-Sri Lanka,2018,,Specific TL %
-Sri Lanka,2019,38.9227905661711,Dutiable TL %
-Sri Lanka,2019,54.6544777701859,Duty-Free TL %
-Sri Lanka,2019,0.1048465000117805,Specific TL %
-Sri Lanka,2020,43.872521493904344,Dutiable TL %
-Sri Lanka,2020,55.10799985026017,Duty-Free TL %
-Sri Lanka,2020,0.1172961978562248,Specific TL %
-Sri Lanka,2021,34.9682423566842,Dutiable TL %
-Sri Lanka,2021,58.21460503245434,Duty-Free TL %
-Sri Lanka,2021,0.10682644186667596,Specific TL %
-Sri Lanka,2022,,Dutiable TL %
-Sri Lanka,2022,,Duty-Free TL %
-Sri Lanka,2022,,Specific TL %
-Syrian Arab Republic,1988,,Dutiable TL %
-Syrian Arab Republic,1988,,Duty-Free TL %
-Syrian Arab Republic,1988,,Specific TL %
-Syrian Arab Republic,1989,,Dutiable TL %
-Syrian Arab Republic,1989,,Duty-Free TL %
-Syrian Arab Republic,1989,,Specific TL %
-Syrian Arab Republic,1990,,Dutiable TL %
-Syrian Arab Republic,1990,,Duty-Free TL %
-Syrian Arab Republic,1990,,Specific TL %
-Syrian Arab Republic,1991,,Dutiable TL %
-Syrian Arab Republic,1991,,Duty-Free TL %
-Syrian Arab Republic,1991,,Specific TL %
-Syrian Arab Republic,1992,,Dutiable TL %
-Syrian Arab Republic,1992,,Duty-Free TL %
-Syrian Arab Republic,1992,,Specific TL %
-Syrian Arab Republic,1993,,Dutiable TL %
-Syrian Arab Republic,1993,,Duty-Free TL %
-Syrian Arab Republic,1993,,Specific TL %
-Syrian Arab Republic,1994,,Dutiable TL %
-Syrian Arab Republic,1994,,Duty-Free TL %
-Syrian Arab Republic,1994,,Specific TL %
-Syrian Arab Republic,1995,,Dutiable TL %
-Syrian Arab Republic,1995,,Duty-Free TL %
-Syrian Arab Republic,1995,,Specific TL %
-Syrian Arab Republic,1996,,Dutiable TL %
-Syrian Arab Republic,1996,,Duty-Free TL %
-Syrian Arab Republic,1996,,Specific TL %
-Syrian Arab Republic,1997,,Dutiable TL %
-Syrian Arab Republic,1997,,Duty-Free TL %
-Syrian Arab Republic,1997,,Specific TL %
-Syrian Arab Republic,1998,,Dutiable TL %
-Syrian Arab Republic,1998,,Duty-Free TL %
-Syrian Arab Republic,1998,,Specific TL %
-Syrian Arab Republic,1999,,Dutiable TL %
-Syrian Arab Republic,1999,,Duty-Free TL %
-Syrian Arab Republic,1999,,Specific TL %
-Syrian Arab Republic,2000,,Dutiable TL %
-Syrian Arab Republic,2000,,Duty-Free TL %
-Syrian Arab Republic,2000,,Specific TL %
-Syrian Arab Republic,2001,,Dutiable TL %
-Syrian Arab Republic,2001,,Duty-Free TL %
-Syrian Arab Republic,2001,,Specific TL %
-Syrian Arab Republic,2002,99.39445148570624,Dutiable TL %
-Syrian Arab Republic,2002,0.4928883255879454,Duty-Free TL %
-Syrian Arab Republic,2002,0.11266018870581608,Specific TL %
-Syrian Arab Republic,2003,,Dutiable TL %
-Syrian Arab Republic,2003,,Duty-Free TL %
-Syrian Arab Republic,2003,,Specific TL %
-Syrian Arab Republic,2004,,Dutiable TL %
-Syrian Arab Republic,2004,,Duty-Free TL %
-Syrian Arab Republic,2004,,Specific TL %
-Syrian Arab Republic,2005,,Dutiable TL %
-Syrian Arab Republic,2005,,Duty-Free TL %
-Syrian Arab Republic,2005,,Specific TL %
-Syrian Arab Republic,2006,,Dutiable TL %
-Syrian Arab Republic,2006,,Duty-Free TL %
-Syrian Arab Republic,2006,,Specific TL %
-Syrian Arab Republic,2007,,Dutiable TL %
-Syrian Arab Republic,2007,,Duty-Free TL %
-Syrian Arab Republic,2007,,Specific TL %
-Syrian Arab Republic,2008,,Dutiable TL %
-Syrian Arab Republic,2008,,Duty-Free TL %
-Syrian Arab Republic,2008,,Specific TL %
-Syrian Arab Republic,2009,87.8213232195533,Dutiable TL %
-Syrian Arab Republic,2009,12.178676780446692,Duty-Free TL %
-Syrian Arab Republic,2009,0.0,Specific TL %
-Syrian Arab Republic,2010,89.83136503883392,Dutiable TL %
-Syrian Arab Republic,2010,10.168634961166081,Duty-Free TL %
-Syrian Arab Republic,2010,0.0,Specific TL %
-Syrian Arab Republic,2011,,Dutiable TL %
-Syrian Arab Republic,2011,,Duty-Free TL %
-Syrian Arab Republic,2011,,Specific TL %
-Syrian Arab Republic,2012,,Dutiable TL %
-Syrian Arab Republic,2012,,Duty-Free TL %
-Syrian Arab Republic,2012,,Specific TL %
-Syrian Arab Republic,2013,,Dutiable TL %
-Syrian Arab Republic,2013,,Duty-Free TL %
-Syrian Arab Republic,2013,,Specific TL %
-Syrian Arab Republic,2014,,Dutiable TL %
-Syrian Arab Republic,2014,,Duty-Free TL %
-Syrian Arab Republic,2014,,Specific TL %
-Syrian Arab Republic,2015,,Dutiable TL %
-Syrian Arab Republic,2015,,Duty-Free TL %
-Syrian Arab Republic,2015,,Specific TL %
-Syrian Arab Republic,2016,,Dutiable TL %
-Syrian Arab Republic,2016,,Duty-Free TL %
-Syrian Arab Republic,2016,,Specific TL %
-Syrian Arab Republic,2017,,Dutiable TL %
-Syrian Arab Republic,2017,,Duty-Free TL %
-Syrian Arab Republic,2017,,Specific TL %
-Syrian Arab Republic,2018,,Dutiable TL %
-Syrian Arab Republic,2018,,Duty-Free TL %
-Syrian Arab Republic,2018,,Specific TL %
-Syrian Arab Republic,2019,,Dutiable TL %
-Syrian Arab Republic,2019,,Duty-Free TL %
-Syrian Arab Republic,2019,,Specific TL %
-Syrian Arab Republic,2020,,Dutiable TL %
-Syrian Arab Republic,2020,,Duty-Free TL %
-Syrian Arab Republic,2020,,Specific TL %
-Syrian Arab Republic,2021,,Dutiable TL %
-Syrian Arab Republic,2021,,Duty-Free TL %
-Syrian Arab Republic,2021,,Specific TL %
-Syrian Arab Republic,2022,,Dutiable TL %
-Syrian Arab Republic,2022,,Duty-Free TL %
-Syrian Arab Republic,2022,,Specific TL %
-Tajikistan,1988,,Dutiable TL %
-Tajikistan,1988,,Duty-Free TL %
-Tajikistan,1988,,Specific TL %
-Tajikistan,1989,,Dutiable TL %
-Tajikistan,1989,,Duty-Free TL %
-Tajikistan,1989,,Specific TL %
-Tajikistan,1990,,Dutiable TL %
-Tajikistan,1990,,Duty-Free TL %
-Tajikistan,1990,,Specific TL %
-Tajikistan,1991,,Dutiable TL %
-Tajikistan,1991,,Duty-Free TL %
-Tajikistan,1991,,Specific TL %
-Tajikistan,1992,,Dutiable TL %
-Tajikistan,1992,,Duty-Free TL %
-Tajikistan,1992,,Specific TL %
-Tajikistan,1993,,Dutiable TL %
-Tajikistan,1993,,Duty-Free TL %
-Tajikistan,1993,,Specific TL %
-Tajikistan,1994,,Dutiable TL %
-Tajikistan,1994,,Duty-Free TL %
-Tajikistan,1994,,Specific TL %
-Tajikistan,1995,,Dutiable TL %
-Tajikistan,1995,,Duty-Free TL %
-Tajikistan,1995,,Specific TL %
-Tajikistan,1996,,Dutiable TL %
-Tajikistan,1996,,Duty-Free TL %
-Tajikistan,1996,,Specific TL %
-Tajikistan,1997,,Dutiable TL %
-Tajikistan,1997,,Duty-Free TL %
-Tajikistan,1997,,Specific TL %
-Tajikistan,1998,,Dutiable TL %
-Tajikistan,1998,,Duty-Free TL %
-Tajikistan,1998,,Specific TL %
-Tajikistan,1999,,Dutiable TL %
-Tajikistan,1999,,Duty-Free TL %
-Tajikistan,1999,,Specific TL %
-Tajikistan,2000,,Dutiable TL %
-Tajikistan,2000,,Duty-Free TL %
-Tajikistan,2000,,Specific TL %
-Tajikistan,2001,,Dutiable TL %
-Tajikistan,2001,,Duty-Free TL %
-Tajikistan,2001,,Specific TL %
-Tajikistan,2002,,Dutiable TL %
-Tajikistan,2002,,Duty-Free TL %
-Tajikistan,2002,,Specific TL %
-Tajikistan,2003,,Dutiable TL %
-Tajikistan,2003,,Duty-Free TL %
-Tajikistan,2003,,Specific TL %
-Tajikistan,2004,,Dutiable TL %
-Tajikistan,2004,,Duty-Free TL %
-Tajikistan,2004,,Specific TL %
-Tajikistan,2005,,Dutiable TL %
-Tajikistan,2005,,Duty-Free TL %
-Tajikistan,2005,,Specific TL %
-Tajikistan,2006,,Dutiable TL %
-Tajikistan,2006,,Duty-Free TL %
-Tajikistan,2006,,Specific TL %
-Tajikistan,2007,,Dutiable TL %
-Tajikistan,2007,,Duty-Free TL %
-Tajikistan,2007,,Specific TL %
-Tajikistan,2008,,Dutiable TL %
-Tajikistan,2008,,Duty-Free TL %
-Tajikistan,2008,,Specific TL %
-Tajikistan,2009,,Dutiable TL %
-Tajikistan,2009,,Duty-Free TL %
-Tajikistan,2009,,Specific TL %
-Tajikistan,2010,,Dutiable TL %
-Tajikistan,2010,,Duty-Free TL %
-Tajikistan,2010,,Specific TL %
-Tajikistan,2011,,Dutiable TL %
-Tajikistan,2011,,Duty-Free TL %
-Tajikistan,2011,,Specific TL %
-Tajikistan,2012,,Dutiable TL %
-Tajikistan,2012,,Duty-Free TL %
-Tajikistan,2012,,Specific TL %
-Tajikistan,2013,,Dutiable TL %
-Tajikistan,2013,,Duty-Free TL %
-Tajikistan,2013,,Specific TL %
-Tajikistan,2014,,Dutiable TL %
-Tajikistan,2014,,Duty-Free TL %
-Tajikistan,2014,,Specific TL %
-Tajikistan,2015,,Dutiable TL %
-Tajikistan,2015,,Duty-Free TL %
-Tajikistan,2015,,Specific TL %
-Tajikistan,2016,67.85374159475917,Dutiable TL %
-Tajikistan,2016,30.111685088453434,Duty-Free TL %
-Tajikistan,2016,0.47906265331447867,Specific TL %
-Tajikistan,2017,64.75477498505593,Dutiable TL %
-Tajikistan,2017,32.97657339671515,Duty-Free TL %
-Tajikistan,2017,0.7543195468389742,Specific TL %
-Tajikistan,2018,,Dutiable TL %
-Tajikistan,2018,,Duty-Free TL %
-Tajikistan,2018,,Specific TL %
-Tajikistan,2019,,Dutiable TL %
-Tajikistan,2019,,Duty-Free TL %
-Tajikistan,2019,,Specific TL %
-Tajikistan,2020,52.91399971124693,Dutiable TL %
-Tajikistan,2020,44.36690889840705,Duty-Free TL %
-Tajikistan,2020,0.009625102266711583,Specific TL %
-Tajikistan,2021,60.65851735015773,Dutiable TL %
-Tajikistan,2021,37.11356466876972,Duty-Free TL %
-Tajikistan,2021,0.0473186119873817,Specific TL %
-Tajikistan,2022,,Dutiable TL %
-Tajikistan,2022,,Duty-Free TL %
-Tajikistan,2022,,Specific TL %
-Thailand,1988,,Dutiable TL %
-Thailand,1988,,Duty-Free TL %
-Thailand,1988,,Specific TL %
-Thailand,1989,77.34101271898248,Dutiable TL %
-Thailand,1989,0.8999280057595392,Duty-Free TL %
-Thailand,1989,0.07199424046076314,Specific TL %
-Thailand,1990,,Dutiable TL %
-Thailand,1990,,Duty-Free TL %
-Thailand,1990,,Specific TL %
-Thailand,1991,77.12498578414647,Dutiable TL %
-Thailand,1991,0.8711475036961219,Duty-Free TL %
-Thailand,1991,0.05686341407938133,Specific TL %
-Thailand,1992,,Dutiable TL %
-Thailand,1992,,Duty-Free TL %
-Thailand,1992,,Specific TL %
-Thailand,1993,76.7149971885292,Dutiable TL %
-Thailand,1993,0.5663105470318901,Duty-Free TL %
-Thailand,1993,0.006024580287573299,Specific TL %
-Thailand,1994,,Dutiable TL %
-Thailand,1994,,Duty-Free TL %
-Thailand,1994,,Specific TL %
-Thailand,1995,67.52441171762446,Dutiable TL %
-Thailand,1995,3.098820767301638,Duty-Free TL %
-Thailand,1995,0.30681393735659784,Specific TL %
-Thailand,1996,,Dutiable TL %
-Thailand,1996,,Duty-Free TL %
-Thailand,1996,,Specific TL %
-Thailand,1997,,Dutiable TL %
-Thailand,1997,,Duty-Free TL %
-Thailand,1997,,Specific TL %
-Thailand,1998,,Dutiable TL %
-Thailand,1998,,Duty-Free TL %
-Thailand,1998,,Specific TL %
-Thailand,1999,77.23814732864281,Dutiable TL %
-Thailand,1999,1.7912637048454865,Duty-Free TL %
-Thailand,1999,3.8385998060810977,Specific TL %
-Thailand,2000,76.28981366989298,Dutiable TL %
-Thailand,2000,4.198823178271437,Duty-Free TL %
-Thailand,2000,0.8890120666865646,Specific TL %
-Thailand,2001,94.9562487281607,Dutiable TL %
-Thailand,2001,4.5510043896624905,Duty-Free TL %
-Thailand,2001,0.11046832756766185,Specific TL %
-Thailand,2002,,Dutiable TL %
-Thailand,2002,,Duty-Free TL %
-Thailand,2002,,Specific TL %
-Thailand,2003,87.42122940042374,Dutiable TL %
-Thailand,2003,11.786466103946534,Duty-Free TL %
-Thailand,2003,0.4325996171323074,Specific TL %
-Thailand,2004,71.42609040837593,Dutiable TL %
-Thailand,2004,5.091053441175011,Duty-Free TL %
-Thailand,2004,14.484195901354637,Specific TL %
-Thailand,2005,86.6858203148381,Dutiable TL %
-Thailand,2005,12.257137726701382,Duty-Free TL %
-Thailand,2005,0.3459627700963668,Specific TL %
-Thailand,2006,86.9465128843579,Dutiable TL %
-Thailand,2006,11.945925630123794,Duty-Free TL %
-Thailand,2006,0.3770172182941439,Specific TL %
-Thailand,2007,79.14291376140024,Dutiable TL %
-Thailand,2007,15.925084450507164,Duty-Free TL %
-Thailand,2007,3.200593573005332,Specific TL %
-Thailand,2008,79.3819815550934,Dutiable TL %
-Thailand,2008,15.812865804968366,Duty-Free TL %
-Thailand,2008,3.0659611621519645,Specific TL %
-Thailand,2009,79.48446702852523,Dutiable TL %
-Thailand,2009,15.714978634946299,Duty-Free TL %
-Thailand,2009,3.055318166069985,Specific TL %
-Thailand,2010,78.93727641709852,Dutiable TL %
-Thailand,2010,16.180327661138072,Duty-Free TL %
-Thailand,2010,2.632101330833006,Specific TL %
-Thailand,2011,80.26334738423574,Dutiable TL %
-Thailand,2011,14.883058348221063,Duty-Free TL %
-Thailand,2011,2.448593547483098,Specific TL %
-Thailand,2012,,Dutiable TL %
-Thailand,2012,,Duty-Free TL %
-Thailand,2012,,Specific TL %
-Thailand,2013,79.60219208326762,Dutiable TL %
-Thailand,2013,14.516243494716921,Duty-Free TL %
-Thailand,2013,0.5188456079482732,Specific TL %
-Thailand,2014,58.097677160336474,Dutiable TL %
-Thailand,2014,38.604862350242165,Duty-Free TL %
-Thailand,2014,0.0,Specific TL %
-Thailand,2015,49.79907947610664,Dutiable TL %
-Thailand,2015,47.252244073041915,Duty-Free TL %
-Thailand,2015,0.5013144702250784,Specific TL %
-Thailand,2016,,Dutiable TL %
-Thailand,2016,,Duty-Free TL %
-Thailand,2016,,Specific TL %
-Thailand,2017,,Dutiable TL %
-Thailand,2017,,Duty-Free TL %
-Thailand,2017,,Specific TL %
-Thailand,2018,,Dutiable TL %
-Thailand,2018,,Duty-Free TL %
-Thailand,2018,,Specific TL %
-Thailand,2019,,Dutiable TL %
-Thailand,2019,,Duty-Free TL %
-Thailand,2019,,Specific TL %
-Thailand,2020,,Dutiable TL %
-Thailand,2020,,Duty-Free TL %
-Thailand,2020,,Specific TL %
-Thailand,2021,49.07534134083718,Dutiable TL %
-Thailand,2021,48.06436660790604,Duty-Free TL %
-Thailand,2021,0.0,Specific TL %
-Thailand,2022,56.45103586142287,Dutiable TL %
-Thailand,2022,40.89301323733896,Duty-Free TL %
-Thailand,2022,0.001475323372441697,Specific TL %
-Turkey,1988,,Dutiable TL %
-Turkey,1988,,Duty-Free TL %
-Turkey,1988,,Specific TL %
-Turkey,1989,,Dutiable TL %
-Turkey,1989,,Duty-Free TL %
-Turkey,1989,,Specific TL %
-Turkey,1990,,Dutiable TL %
-Turkey,1990,,Duty-Free TL %
-Turkey,1990,,Specific TL %
-Turkey,1991,,Dutiable TL %
-Turkey,1991,,Duty-Free TL %
-Turkey,1991,,Specific TL %
-Turkey,1992,,Dutiable TL %
-Turkey,1992,,Duty-Free TL %
-Turkey,1992,,Specific TL %
-Turkey,1993,93.99886894963797,Dutiable TL %
-Turkey,1993,6.001131050362037,Duty-Free TL %
-Turkey,1993,0.0,Specific TL %
-Turkey,1994,,Dutiable TL %
-Turkey,1994,,Duty-Free TL %
-Turkey,1994,,Specific TL %
-Turkey,1995,92.46627604657297,Dutiable TL %
-Turkey,1995,7.526658879385056,Duty-Free TL %
-Turkey,1995,0.00706507404197596,Specific TL %
-Turkey,1996,54.25725874462873,Dutiable TL %
-Turkey,1996,44.81627243885788,Duty-Free TL %
-Turkey,1996,0.5349182763744428,Specific TL %
-Turkey,1997,87.67288317762528,Dutiable TL %
-Turkey,1997,11.967472569005634,Duty-Free TL %
-Turkey,1997,0.3011799166145015,Specific TL %
-Turkey,1998,54.75589329044537,Dutiable TL %
-Turkey,1998,44.17237589237744,Duty-Free TL %
-Turkey,1998,0.6398078469517826,Specific TL %
-Turkey,1999,81.3214913498011,Dutiable TL %
-Turkey,1999,18.0212785641595,Duty-Free TL %
-Turkey,1999,0.1261911370154501,Specific TL %
+Singapore,2022,0,Specific TL %
 Turkey,2000,42.98600567694237,Dutiable TL %
 Turkey,2000,55.98752392897221,Duty-Free TL %
 Turkey,2000,0.6191827843422008,Specific TL %
@@ -4253,7 +914,7 @@ Turkey,2004,0.33437404587671005,Specific TL %
 Turkey,2005,26.705280670404832,Dutiable TL %
 Turkey,2005,73.11887077738332,Duty-Free TL %
 Turkey,2005,0.10712068140129019,Specific TL %
-Turkey,2006,24.3157075517586,Dutiable TL %
+Turkey,2006,24.31570755,Dutiable TL %
 Turkey,2006,75.08467980861921,Duty-Free TL %
 Turkey,2006,0.3077657796290892,Specific TL %
 Turkey,2007,25.906287245426153,Dutiable TL %
@@ -4269,17 +930,17 @@ Turkey,2010,23.988392105626815,Dutiable TL %
 Turkey,2010,75.85792473293887,Duty-Free TL %
 Turkey,2010,0.10720133331658313,Specific TL %
 Turkey,2011,23.86525793850988,Dutiable TL %
-Turkey,2011,76.0468166683483,Duty-Free TL %
+Turkey,2011,76.04681667,Duty-Free TL %
 Turkey,2011,0.040359196851982644,Specific TL %
-Turkey,2012,,Dutiable TL %
-Turkey,2012,,Duty-Free TL %
-Turkey,2012,,Specific TL %
+Turkey,2012,NA,Dutiable TL %
+Turkey,2012,NA,Duty-Free TL %
+Turkey,2012,NA,Specific TL %
 Turkey,2013,22.862585710486453,Dutiable TL %
 Turkey,2013,77.03623833585792,Duty-Free TL %
 Turkey,2013,0.10117595365563174,Specific TL %
-Turkey,2014,,Dutiable TL %
-Turkey,2014,,Duty-Free TL %
-Turkey,2014,,Specific TL %
+Turkey,2014,NA,Dutiable TL %
+Turkey,2014,NA,Duty-Free TL %
+Turkey,2014,NA,Specific TL %
 Turkey,2015,24.018971195324458,Dutiable TL %
 Turkey,2015,74.92346583793311,Duty-Free TL %
 Turkey,2015,0.6085045688575537,Specific TL %
@@ -4288,7 +949,7 @@ Turkey,2016,76.22428086149947,Duty-Free TL %
 Turkey,2016,0.6221875421685333,Specific TL %
 Turkey,2017,29.247824729200982,Dutiable TL %
 Turkey,2017,69.64448635442372,Duty-Free TL %
-Turkey,2017,0.680288770642876,Specific TL %
+Turkey,2017,0.680288771,Specific TL %
 Turkey,2018,29.03036806789027,Dutiable TL %
 Turkey,2018,69.92488158673771,Duty-Free TL %
 Turkey,2018,0.6093349121768304,Specific TL %
@@ -4304,395 +965,44 @@ Turkey,2021,1.1477858298875747,Specific TL %
 Turkey,2022,37.42646775104445,Dutiable TL %
 Turkey,2022,60.512349208465025,Duty-Free TL %
 Turkey,2022,1.2277298573377906,Specific TL %
-Turkmenistan,1988,,Dutiable TL %
-Turkmenistan,1988,,Duty-Free TL %
-Turkmenistan,1988,,Specific TL %
-Turkmenistan,1989,,Dutiable TL %
-Turkmenistan,1989,,Duty-Free TL %
-Turkmenistan,1989,,Specific TL %
-Turkmenistan,1990,,Dutiable TL %
-Turkmenistan,1990,,Duty-Free TL %
-Turkmenistan,1990,,Specific TL %
-Turkmenistan,1991,,Dutiable TL %
-Turkmenistan,1991,,Duty-Free TL %
-Turkmenistan,1991,,Specific TL %
-Turkmenistan,1992,,Dutiable TL %
-Turkmenistan,1992,,Duty-Free TL %
-Turkmenistan,1992,,Specific TL %
-Turkmenistan,1993,,Dutiable TL %
-Turkmenistan,1993,,Duty-Free TL %
-Turkmenistan,1993,,Specific TL %
-Turkmenistan,1994,,Dutiable TL %
-Turkmenistan,1994,,Duty-Free TL %
-Turkmenistan,1994,,Specific TL %
-Turkmenistan,1995,,Dutiable TL %
-Turkmenistan,1995,,Duty-Free TL %
-Turkmenistan,1995,,Specific TL %
-Turkmenistan,1996,,Dutiable TL %
-Turkmenistan,1996,,Duty-Free TL %
-Turkmenistan,1996,,Specific TL %
-Turkmenistan,1997,,Dutiable TL %
-Turkmenistan,1997,,Duty-Free TL %
-Turkmenistan,1997,,Specific TL %
-Turkmenistan,1998,0.0,Dutiable TL %
-Turkmenistan,1998,99.93192648059905,Duty-Free TL %
-Turkmenistan,1998,0.06807351940095303,Specific TL %
-Turkmenistan,1999,,Dutiable TL %
-Turkmenistan,1999,,Duty-Free TL %
-Turkmenistan,1999,,Specific TL %
-Turkmenistan,2000,,Dutiable TL %
-Turkmenistan,2000,,Duty-Free TL %
-Turkmenistan,2000,,Specific TL %
-Turkmenistan,2001,,Dutiable TL %
-Turkmenistan,2001,,Duty-Free TL %
-Turkmenistan,2001,,Specific TL %
-Turkmenistan,2002,,Dutiable TL %
-Turkmenistan,2002,,Duty-Free TL %
-Turkmenistan,2002,,Specific TL %
-Turkmenistan,2003,,Dutiable TL %
-Turkmenistan,2003,,Duty-Free TL %
-Turkmenistan,2003,,Specific TL %
-Turkmenistan,2004,,Dutiable TL %
-Turkmenistan,2004,,Duty-Free TL %
-Turkmenistan,2004,,Specific TL %
-Turkmenistan,2005,,Dutiable TL %
-Turkmenistan,2005,,Duty-Free TL %
-Turkmenistan,2005,,Specific TL %
-Turkmenistan,2006,,Dutiable TL %
-Turkmenistan,2006,,Duty-Free TL %
-Turkmenistan,2006,,Specific TL %
-Turkmenistan,2007,,Dutiable TL %
-Turkmenistan,2007,,Duty-Free TL %
-Turkmenistan,2007,,Specific TL %
-Turkmenistan,2008,,Dutiable TL %
-Turkmenistan,2008,,Duty-Free TL %
-Turkmenistan,2008,,Specific TL %
-Turkmenistan,2009,,Dutiable TL %
-Turkmenistan,2009,,Duty-Free TL %
-Turkmenistan,2009,,Specific TL %
-Turkmenistan,2010,,Dutiable TL %
-Turkmenistan,2010,,Duty-Free TL %
-Turkmenistan,2010,,Specific TL %
-Turkmenistan,2011,,Dutiable TL %
-Turkmenistan,2011,,Duty-Free TL %
-Turkmenistan,2011,,Specific TL %
-Turkmenistan,2012,,Dutiable TL %
-Turkmenistan,2012,,Duty-Free TL %
-Turkmenistan,2012,,Specific TL %
-Turkmenistan,2013,,Dutiable TL %
-Turkmenistan,2013,,Duty-Free TL %
-Turkmenistan,2013,,Specific TL %
-Turkmenistan,2014,,Dutiable TL %
-Turkmenistan,2014,,Duty-Free TL %
-Turkmenistan,2014,,Specific TL %
-Turkmenistan,2015,,Dutiable TL %
-Turkmenistan,2015,,Duty-Free TL %
-Turkmenistan,2015,,Specific TL %
-Turkmenistan,2016,,Dutiable TL %
-Turkmenistan,2016,,Duty-Free TL %
-Turkmenistan,2016,,Specific TL %
-Turkmenistan,2017,,Dutiable TL %
-Turkmenistan,2017,,Duty-Free TL %
-Turkmenistan,2017,,Specific TL %
-Turkmenistan,2018,,Dutiable TL %
-Turkmenistan,2018,,Duty-Free TL %
-Turkmenistan,2018,,Specific TL %
-Turkmenistan,2019,,Dutiable TL %
-Turkmenistan,2019,,Duty-Free TL %
-Turkmenistan,2019,,Specific TL %
-Turkmenistan,2020,,Dutiable TL %
-Turkmenistan,2020,,Duty-Free TL %
-Turkmenistan,2020,,Specific TL %
-Turkmenistan,2021,,Dutiable TL %
-Turkmenistan,2021,,Duty-Free TL %
-Turkmenistan,2021,,Specific TL %
-Turkmenistan,2022,,Dutiable TL %
-Turkmenistan,2022,,Duty-Free TL %
-Turkmenistan,2022,,Specific TL %
-United Arab Emirates,1988,,Dutiable TL %
-United Arab Emirates,1988,,Duty-Free TL %
-United Arab Emirates,1988,,Specific TL %
-United Arab Emirates,1989,,Dutiable TL %
-United Arab Emirates,1989,,Duty-Free TL %
-United Arab Emirates,1989,,Specific TL %
-United Arab Emirates,1990,,Dutiable TL %
-United Arab Emirates,1990,,Duty-Free TL %
-United Arab Emirates,1990,,Specific TL %
-United Arab Emirates,1991,,Dutiable TL %
-United Arab Emirates,1991,,Duty-Free TL %
-United Arab Emirates,1991,,Specific TL %
-United Arab Emirates,1992,,Dutiable TL %
-United Arab Emirates,1992,,Duty-Free TL %
-United Arab Emirates,1992,,Specific TL %
-United Arab Emirates,1993,,Dutiable TL %
-United Arab Emirates,1993,,Duty-Free TL %
-United Arab Emirates,1993,,Specific TL %
-United Arab Emirates,1994,,Dutiable TL %
-United Arab Emirates,1994,,Duty-Free TL %
-United Arab Emirates,1994,,Specific TL %
-United Arab Emirates,1995,,Dutiable TL %
-United Arab Emirates,1995,,Duty-Free TL %
-United Arab Emirates,1995,,Specific TL %
-United Arab Emirates,1996,,Dutiable TL %
-United Arab Emirates,1996,,Duty-Free TL %
-United Arab Emirates,1996,,Specific TL %
-United Arab Emirates,1997,,Dutiable TL %
-United Arab Emirates,1997,,Duty-Free TL %
-United Arab Emirates,1997,,Specific TL %
-United Arab Emirates,1998,,Dutiable TL %
-United Arab Emirates,1998,,Duty-Free TL %
-United Arab Emirates,1998,,Specific TL %
-United Arab Emirates,1999,,Dutiable TL %
-United Arab Emirates,1999,,Duty-Free TL %
-United Arab Emirates,1999,,Specific TL %
-United Arab Emirates,2000,,Dutiable TL %
-United Arab Emirates,2000,,Duty-Free TL %
-United Arab Emirates,2000,,Specific TL %
-United Arab Emirates,2001,,Dutiable TL %
-United Arab Emirates,2001,,Duty-Free TL %
-United Arab Emirates,2001,,Specific TL %
-United Arab Emirates,2002,,Dutiable TL %
-United Arab Emirates,2002,,Duty-Free TL %
-United Arab Emirates,2002,,Specific TL %
-United Arab Emirates,2003,,Dutiable TL %
-United Arab Emirates,2003,,Duty-Free TL %
-United Arab Emirates,2003,,Specific TL %
-United Arab Emirates,2004,,Dutiable TL %
-United Arab Emirates,2004,,Duty-Free TL %
-United Arab Emirates,2004,,Specific TL %
-United Arab Emirates,2005,80.27687482754212,Dutiable TL %
-United Arab Emirates,2005,18.91282548271383,Duty-Free TL %
-United Arab Emirates,2005,0.6433941058100642,Specific TL %
-United Arab Emirates,2006,,Dutiable TL %
-United Arab Emirates,2006,,Duty-Free TL %
-United Arab Emirates,2006,,Specific TL %
-United Arab Emirates,2007,77.75423320683477,Dutiable TL %
-United Arab Emirates,2007,21.832238510784485,Duty-Free TL %
-United Arab Emirates,2007,0.3050092144889009,Specific TL %
-United Arab Emirates,2008,78.24537978711457,Dutiable TL %
-United Arab Emirates,2008,21.401474974106844,Duty-Free TL %
-United Arab Emirates,2008,0.24520508628972884,Specific TL %
-United Arab Emirates,2009,78.31192248419923,Dutiable TL %
-United Arab Emirates,2009,21.399826550284818,Duty-Free TL %
-United Arab Emirates,2009,0.18031283340716384,Specific TL %
-United Arab Emirates,2010,,Dutiable TL %
-United Arab Emirates,2010,,Duty-Free TL %
-United Arab Emirates,2010,,Specific TL %
-United Arab Emirates,2011,90.51363925511082,Dutiable TL %
-United Arab Emirates,2011,9.153954573235378,Duty-Free TL %
-United Arab Emirates,2011,0.33240617165379865,Specific TL %
-United Arab Emirates,2012,81.79214698855272,Dutiable TL %
-United Arab Emirates,2012,17.399383793611083,Duty-Free TL %
-United Arab Emirates,2012,0.670104336773685,Specific TL %
-United Arab Emirates,2013,82.35135459122513,Dutiable TL %
-United Arab Emirates,2013,16.856719012227284,Duty-Free TL %
-United Arab Emirates,2013,0.6757971709422201,Specific TL %
-United Arab Emirates,2014,76.9251707906495,Dutiable TL %
-United Arab Emirates,2014,22.963292458655054,Duty-Free TL %
-United Arab Emirates,2014,0.0,Specific TL %
-United Arab Emirates,2015,75.02874987369303,Dutiable TL %
-United Arab Emirates,2015,24.227843350479006,Duty-Free TL %
-United Arab Emirates,2015,0.6072358259513922,Specific TL %
-United Arab Emirates,2016,75.25502418915066,Dutiable TL %
-United Arab Emirates,2016,24.09609621628653,Duty-Free TL %
-United Arab Emirates,2016,0.5588269137445405,Specific TL %
-United Arab Emirates,2017,78.79475995623305,Dutiable TL %
-United Arab Emirates,2017,20.039120464049642,Duty-Free TL %
-United Arab Emirates,2017,0.9615240493427463,Specific TL %
-United Arab Emirates,2018,74.92061283413425,Dutiable TL %
-United Arab Emirates,2018,24.03331527761903,Duty-Free TL %
-United Arab Emirates,2018,0.8617048238573963,Specific TL %
-United Arab Emirates,2019,75.02886053585232,Dutiable TL %
-United Arab Emirates,2019,23.871929489946496,Duty-Free TL %
-United Arab Emirates,2019,0.9255448367246555,Specific TL %
-United Arab Emirates,2020,75.29133873702575,Dutiable TL %
-United Arab Emirates,2020,23.65454919679699,Duty-Free TL %
-United Arab Emirates,2020,0.922286800811534,Specific TL %
-United Arab Emirates,2021,73.96301402505446,Dutiable TL %
-United Arab Emirates,2021,24.82723992374728,Duty-Free TL %
-United Arab Emirates,2021,1.0144335511982572,Specific TL %
-United Arab Emirates,2022,,Dutiable TL %
-United Arab Emirates,2022,,Duty-Free TL %
-United Arab Emirates,2022,,Specific TL %
-Uzbekistan,1988,,Dutiable TL %
-Uzbekistan,1988,,Duty-Free TL %
-Uzbekistan,1988,,Specific TL %
-Uzbekistan,1989,,Dutiable TL %
-Uzbekistan,1989,,Duty-Free TL %
-Uzbekistan,1989,,Specific TL %
-Uzbekistan,1990,,Dutiable TL %
-Uzbekistan,1990,,Duty-Free TL %
-Uzbekistan,1990,,Specific TL %
-Uzbekistan,1991,,Dutiable TL %
-Uzbekistan,1991,,Duty-Free TL %
-Uzbekistan,1991,,Specific TL %
-Uzbekistan,1992,,Dutiable TL %
-Uzbekistan,1992,,Duty-Free TL %
-Uzbekistan,1992,,Specific TL %
-Uzbekistan,1993,,Dutiable TL %
-Uzbekistan,1993,,Duty-Free TL %
-Uzbekistan,1993,,Specific TL %
-Uzbekistan,1994,,Dutiable TL %
-Uzbekistan,1994,,Duty-Free TL %
-Uzbekistan,1994,,Specific TL %
-Uzbekistan,1995,,Dutiable TL %
-Uzbekistan,1995,,Duty-Free TL %
-Uzbekistan,1995,,Specific TL %
-Uzbekistan,1996,,Dutiable TL %
-Uzbekistan,1996,,Duty-Free TL %
-Uzbekistan,1996,,Specific TL %
-Uzbekistan,1997,,Dutiable TL %
-Uzbekistan,1997,,Duty-Free TL %
-Uzbekistan,1997,,Specific TL %
-Uzbekistan,1998,,Dutiable TL %
-Uzbekistan,1998,,Duty-Free TL %
-Uzbekistan,1998,,Specific TL %
-Uzbekistan,1999,,Dutiable TL %
-Uzbekistan,1999,,Duty-Free TL %
-Uzbekistan,1999,,Specific TL %
-Uzbekistan,2000,,Dutiable TL %
-Uzbekistan,2000,,Duty-Free TL %
-Uzbekistan,2000,,Specific TL %
-Uzbekistan,2001,,Dutiable TL %
-Uzbekistan,2001,,Duty-Free TL %
-Uzbekistan,2001,,Specific TL %
-Uzbekistan,2002,,Dutiable TL %
-Uzbekistan,2002,,Duty-Free TL %
-Uzbekistan,2002,,Specific TL %
-Uzbekistan,2003,,Dutiable TL %
-Uzbekistan,2003,,Duty-Free TL %
-Uzbekistan,2003,,Specific TL %
-Uzbekistan,2004,,Dutiable TL %
-Uzbekistan,2004,,Duty-Free TL %
-Uzbekistan,2004,,Specific TL %
-Uzbekistan,2005,,Dutiable TL %
-Uzbekistan,2005,,Duty-Free TL %
-Uzbekistan,2005,,Specific TL %
-Uzbekistan,2006,,Dutiable TL %
-Uzbekistan,2006,,Duty-Free TL %
-Uzbekistan,2006,,Specific TL %
-Uzbekistan,2007,,Dutiable TL %
-Uzbekistan,2007,,Duty-Free TL %
-Uzbekistan,2007,,Specific TL %
-Uzbekistan,2008,,Dutiable TL %
-Uzbekistan,2008,,Duty-Free TL %
-Uzbekistan,2008,,Specific TL %
-Uzbekistan,2009,,Dutiable TL %
-Uzbekistan,2009,,Duty-Free TL %
-Uzbekistan,2009,,Specific TL %
-Uzbekistan,2010,,Dutiable TL %
-Uzbekistan,2010,,Duty-Free TL %
-Uzbekistan,2010,,Specific TL %
-Uzbekistan,2011,,Dutiable TL %
-Uzbekistan,2011,,Duty-Free TL %
-Uzbekistan,2011,,Specific TL %
-Uzbekistan,2012,,Dutiable TL %
-Uzbekistan,2012,,Duty-Free TL %
-Uzbekistan,2012,,Specific TL %
-Uzbekistan,2013,,Dutiable TL %
-Uzbekistan,2013,,Duty-Free TL %
-Uzbekistan,2013,,Specific TL %
-Uzbekistan,2014,,Dutiable TL %
-Uzbekistan,2014,,Duty-Free TL %
-Uzbekistan,2014,,Specific TL %
-Uzbekistan,2015,,Dutiable TL %
-Uzbekistan,2015,,Duty-Free TL %
-Uzbekistan,2015,,Specific TL %
-Uzbekistan,2016,,Dutiable TL %
-Uzbekistan,2016,,Duty-Free TL %
-Uzbekistan,2016,,Specific TL %
-Uzbekistan,2017,,Dutiable TL %
-Uzbekistan,2017,,Duty-Free TL %
-Uzbekistan,2017,,Specific TL %
-Uzbekistan,2018,,Dutiable TL %
-Uzbekistan,2018,,Duty-Free TL %
-Uzbekistan,2018,,Specific TL %
-Uzbekistan,2019,,Dutiable TL %
-Uzbekistan,2019,,Duty-Free TL %
-Uzbekistan,2019,,Specific TL %
-Uzbekistan,2020,39.99668507142635,Dutiable TL %
-Uzbekistan,2020,45.415557374162205,Duty-Free TL %
-Uzbekistan,2020,1.036951094444387,Specific TL %
-Uzbekistan,2021,40.28141266453563,Dutiable TL %
-Uzbekistan,2021,45.08493563433737,Duty-Free TL %
-Uzbekistan,2021,1.0487788390037567,Specific TL %
-Uzbekistan,2022,,Dutiable TL %
-Uzbekistan,2022,,Duty-Free TL %
-Uzbekistan,2022,,Specific TL %
-Vietnam,1988,,Dutiable TL %
-Vietnam,1988,,Duty-Free TL %
-Vietnam,1988,,Specific TL %
-Vietnam,1989,,Dutiable TL %
-Vietnam,1989,,Duty-Free TL %
-Vietnam,1989,,Specific TL %
-Vietnam,1990,,Dutiable TL %
-Vietnam,1990,,Duty-Free TL %
-Vietnam,1990,,Specific TL %
-Vietnam,1991,,Dutiable TL %
-Vietnam,1991,,Duty-Free TL %
-Vietnam,1991,,Specific TL %
-Vietnam,1992,,Dutiable TL %
-Vietnam,1992,,Duty-Free TL %
-Vietnam,1992,,Specific TL %
-Vietnam,1993,,Dutiable TL %
-Vietnam,1993,,Duty-Free TL %
-Vietnam,1993,,Specific TL %
-Vietnam,1994,,Dutiable TL %
-Vietnam,1994,,Duty-Free TL %
-Vietnam,1994,,Specific TL %
-Vietnam,1995,,Dutiable TL %
-Vietnam,1995,,Duty-Free TL %
-Vietnam,1995,,Specific TL %
-Vietnam,1996,,Dutiable TL %
-Vietnam,1996,,Duty-Free TL %
-Vietnam,1996,,Specific TL %
-Vietnam,1997,,Dutiable TL %
-Vietnam,1997,,Duty-Free TL %
-Vietnam,1997,,Specific TL %
-Vietnam,1998,,Dutiable TL %
-Vietnam,1998,,Duty-Free TL %
-Vietnam,1998,,Specific TL %
-Vietnam,1999,,Dutiable TL %
-Vietnam,1999,,Duty-Free TL %
-Vietnam,1999,,Specific TL %
-Vietnam,2000,,Dutiable TL %
-Vietnam,2000,,Duty-Free TL %
-Vietnam,2000,,Specific TL %
+Vietnam,2000,NA,Dutiable TL %
+Vietnam,2000,NA,Duty-Free TL %
+Vietnam,2000,NA,Specific TL %
 Vietnam,2001,66.14280049255943,Dutiable TL %
 Vietnam,2001,33.85719950744057,Duty-Free TL %
-Vietnam,2001,0.0,Specific TL %
+Vietnam,2001,0,Specific TL %
 Vietnam,2002,67.30371163454676,Dutiable TL %
 Vietnam,2002,32.47323340471092,Duty-Free TL %
 Vietnam,2002,0.22305496074232692,Specific TL %
 Vietnam,2003,69.17696486557196,Dutiable TL %
 Vietnam,2003,30.823035134428046,Duty-Free TL %
-Vietnam,2003,0.0,Specific TL %
-Vietnam,2004,69.4946757018393,Dutiable TL %
+Vietnam,2003,0,Specific TL %
+Vietnam,2004,69.4946757,Dutiable TL %
 Vietnam,2004,30.352758954501454,Duty-Free TL %
 Vietnam,2004,0.15256534365924493,Specific TL %
 Vietnam,2005,69.40191141712054,Dutiable TL %
 Vietnam,2005,30.59808858287946,Duty-Free TL %
-Vietnam,2005,0.0,Specific TL %
+Vietnam,2005,0,Specific TL %
 Vietnam,2006,69.72528355684764,Dutiable TL %
 Vietnam,2006,30.274716443152357,Duty-Free TL %
-Vietnam,2006,0.0,Specific TL %
+Vietnam,2006,0,Specific TL %
 Vietnam,2007,66.43153526970954,Dutiable TL %
 Vietnam,2007,33.56846473029046,Duty-Free TL %
-Vietnam,2007,0.0,Specific TL %
+Vietnam,2007,0,Specific TL %
 Vietnam,2008,67.23394317991082,Dutiable TL %
 Vietnam,2008,32.110721088236794,Duty-Free TL %
 Vietnam,2008,0.6553357318523816,Specific TL %
 Vietnam,2009,68.41312364942705,Dutiable TL %
 Vietnam,2009,31.58687635057295,Duty-Free TL %
-Vietnam,2009,0.0,Specific TL %
+Vietnam,2009,0,Specific TL %
 Vietnam,2010,64.38966791730421,Dutiable TL %
 Vietnam,2010,35.25889594555884,Duty-Free TL %
 Vietnam,2010,0.3514361371369483,Specific TL %
-Vietnam,2011,,Dutiable TL %
-Vietnam,2011,,Duty-Free TL %
-Vietnam,2011,,Specific TL %
+Vietnam,2011,NA,Dutiable TL %
+Vietnam,2011,NA,Duty-Free TL %
+Vietnam,2011,NA,Specific TL %
 Vietnam,2012,59.98818316100443,Dutiable TL %
-Vietnam,2012,39.6146397505334,Duty-Free TL %
+Vietnam,2012,39.61463975,Duty-Free TL %
 Vietnam,2012,0.3971770884621697,Specific TL %
 Vietnam,2013,59.60855025899941,Dutiable TL %
 Vietnam,2013,39.890498983673204,Duty-Free TL %
@@ -4701,7 +1011,7 @@ Vietnam,2014,59.930010491785865,Dutiable TL %
 Vietnam,2014,39.56532132754293,Duty-Free TL %
 Vietnam,2014,0.5046681806712087,Specific TL %
 Vietnam,2015,54.004472316610034,Dutiable TL %
-Vietnam,2015,45.5495452728363,Duty-Free TL %
+Vietnam,2015,45.54954527,Duty-Free TL %
 Vietnam,2015,0.4459824105536678,Specific TL %
 Vietnam,2016,53.002435644652266,Dutiable TL %
 Vietnam,2016,46.545840785754834,Duty-Free TL %
@@ -4717,115 +1027,10 @@ Vietnam,2019,51.53706950496947,Duty-Free TL %
 Vietnam,2019,0.4820078587012284,Specific TL %
 Vietnam,2020,47.29710174289038,Dutiable TL %
 Vietnam,2020,52.19351813798413,Duty-Free TL %
-Vietnam,2020,0.509380119125487,Specific TL %
+Vietnam,2020,0.509380119,Specific TL %
 Vietnam,2021,42.09972904112913,Dutiable TL %
 Vietnam,2021,57.39186199007447,Duty-Free TL %
 Vietnam,2021,0.5084089687963995,Specific TL %
 Vietnam,2022,40.420632108780374,Dutiable TL %
 Vietnam,2022,59.579367891219626,Duty-Free TL %
-Vietnam,2022,0.0,Specific TL %
-Yemen,1988,,Dutiable TL %
-Yemen,1988,,Duty-Free TL %
-Yemen,1988,,Specific TL %
-Yemen,1989,,Dutiable TL %
-Yemen,1989,,Duty-Free TL %
-Yemen,1989,,Specific TL %
-Yemen,1990,,Dutiable TL %
-Yemen,1990,,Duty-Free TL %
-Yemen,1990,,Specific TL %
-Yemen,1991,,Dutiable TL %
-Yemen,1991,,Duty-Free TL %
-Yemen,1991,,Specific TL %
-Yemen,1992,,Dutiable TL %
-Yemen,1992,,Duty-Free TL %
-Yemen,1992,,Specific TL %
-Yemen,1993,,Dutiable TL %
-Yemen,1993,,Duty-Free TL %
-Yemen,1993,,Specific TL %
-Yemen,1994,,Dutiable TL %
-Yemen,1994,,Duty-Free TL %
-Yemen,1994,,Specific TL %
-Yemen,1995,,Dutiable TL %
-Yemen,1995,,Duty-Free TL %
-Yemen,1995,,Specific TL %
-Yemen,1996,,Dutiable TL %
-Yemen,1996,,Duty-Free TL %
-Yemen,1996,,Specific TL %
-Yemen,1997,,Dutiable TL %
-Yemen,1997,,Duty-Free TL %
-Yemen,1997,,Specific TL %
-Yemen,1998,,Dutiable TL %
-Yemen,1998,,Duty-Free TL %
-Yemen,1998,,Specific TL %
-Yemen,1999,,Dutiable TL %
-Yemen,1999,,Duty-Free TL %
-Yemen,1999,,Specific TL %
-Yemen,2000,,Dutiable TL %
-Yemen,2000,,Duty-Free TL %
-Yemen,2000,,Specific TL %
-Yemen,2001,,Dutiable TL %
-Yemen,2001,,Duty-Free TL %
-Yemen,2001,,Specific TL %
-Yemen,2002,,Dutiable TL %
-Yemen,2002,,Duty-Free TL %
-Yemen,2002,,Specific TL %
-Yemen,2003,,Dutiable TL %
-Yemen,2003,,Duty-Free TL %
-Yemen,2003,,Specific TL %
-Yemen,2004,,Dutiable TL %
-Yemen,2004,,Duty-Free TL %
-Yemen,2004,,Specific TL %
-Yemen,2005,,Dutiable TL %
-Yemen,2005,,Duty-Free TL %
-Yemen,2005,,Specific TL %
-Yemen,2006,97.65532144786602,Dutiable TL %
-Yemen,2006,1.8008283810552854,Duty-Free TL %
-Yemen,2006,0.5438501710786962,Specific TL %
-Yemen,2007,,Dutiable TL %
-Yemen,2007,,Duty-Free TL %
-Yemen,2007,,Specific TL %
-Yemen,2008,,Dutiable TL %
-Yemen,2008,,Duty-Free TL %
-Yemen,2008,,Specific TL %
-Yemen,2009,96.72228635393711,Dutiable TL %
-Yemen,2009,2.546612096407458,Duty-Free TL %
-Yemen,2009,0.7311015496554378,Specific TL %
-Yemen,2010,,Dutiable TL %
-Yemen,2010,,Duty-Free TL %
-Yemen,2010,,Specific TL %
-Yemen,2011,77.58645991292863,Dutiable TL %
-Yemen,2011,21.792300542973145,Duty-Free TL %
-Yemen,2011,0.6212395440982243,Specific TL %
-Yemen,2012,76.54946989062566,Dutiable TL %
-Yemen,2012,22.675271340569083,Duty-Free TL %
-Yemen,2012,0.7752587688052633,Specific TL %
-Yemen,2013,78.09637832984137,Dutiable TL %
-Yemen,2013,21.131397785094283,Duty-Free TL %
-Yemen,2013,0.772223885064352,Specific TL %
-Yemen,2014,,Dutiable TL %
-Yemen,2014,,Duty-Free TL %
-Yemen,2014,,Specific TL %
-Yemen,2015,78.50633015794466,Dutiable TL %
-Yemen,2015,20.895707039465545,Duty-Free TL %
-Yemen,2015,0.5979628025897975,Specific TL %
-Yemen,2016,,Dutiable TL %
-Yemen,2016,,Duty-Free TL %
-Yemen,2016,,Specific TL %
-Yemen,2017,,Dutiable TL %
-Yemen,2017,,Duty-Free TL %
-Yemen,2017,,Specific TL %
-Yemen,2018,,Dutiable TL %
-Yemen,2018,,Duty-Free TL %
-Yemen,2018,,Specific TL %
-Yemen,2019,,Dutiable TL %
-Yemen,2019,,Duty-Free TL %
-Yemen,2019,,Specific TL %
-Yemen,2020,,Dutiable TL %
-Yemen,2020,,Duty-Free TL %
-Yemen,2020,,Specific TL %
-Yemen,2021,,Dutiable TL %
-Yemen,2021,,Duty-Free TL %
-Yemen,2021,,Specific TL %
-Yemen,2022,,Dutiable TL %
-Yemen,2022,,Duty-Free TL %
-Yemen,2022,,Specific TL %
+Vietnam,2022,0,Specific TL %

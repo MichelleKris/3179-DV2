@@ -24,125 +24,265 @@
       <div class="kicker">FIT3179 - DATA VISUALISATION 2</div>
       <h1>🌐 Snapshot of Asian Trade</h1>
       <p class="subtitle">
-        How concentrated are Asian export baskets? Which economies ship the widest variety of HS6 products?
-        And how do tariff structures evolve over time? Interact with the views below to explore.
+Explore Asia’s evolving trade landscape — from export concentration and product diversity to tariff liberalisation and market reach.
+This visualisation unpacks how regional economies transformed their trade structures over time through global integration and policy reform.
       </p>
       <div class="meta">
         <span class="pill">Coverage: 1988–2023</span>
-        <span class="pill">Sources: WITS, World Bank</span>
+        <span class="pill">Sources: WITS, World Bank, UNCTAD</span>
         <span class="pill">Author: Michelle Elisabeth Kristianto</span>
       </div>
     </header>
 
-    <!-- SECTION 1: MAP WITH TEXT -->
-    <section class="section">
-      <div class="section-header">
-        <h2>Trade Openness Across Asia</h2>
-        <p>Trade (% of GDP) shows external exposure. This section introduces how open each economy is to international trade.</p>
-      </div>
+<!-- ========================================================= -->
+<!-- CHAPTER 1: OVERVIEW — THE ASIAN TRADE LANDSCAPE -->
+<!-- ========================================================= -->
+<section class="chapter">
+  <h1 class="chapter-title">OVERVIEW — The Asian Trade Landscape</h1>
 
-      <div class="row two">
-        <div class="card">
-          <div id="choropleth_map"></div>
-        </div>
-        <div class="explanation">
-          <h3>Key Insights</h3>
-          <p>• <b>Singapore</b> and <b>Hong Kong</b> record trade-to-GDP ratios above 150%, indicating deep global integration.</p>
-          <p>• Export-oriented nations like <b>Vietnam</b> and <b>Malaysia</b> show increasing openness over the years.</p>
-          <p>• Landlocked or resource-reliant economies such as <b>Afghanistan</b> and <b>Mongolia</b> remain comparatively closed.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- SECTION 2: TARIFFS OVER TIME -->
-    <section class="section">
+  <!-- Map -->
+  <div class="section">
     <div class="section-header">
-        <h2>Tariff Structure Over Time</h2>
-        <p>Examining how the share of duty-free, dutiable, and specific tariff lines evolved across Asian economies.</p>
+      <h2>Trade Openness and Flows</h2>
+      <p>How interconnected Asian economies are through exports and imports.</p>
     </div>
 
     <div class="row two">
-        <div class="explanation">
+      <div class="card">
+        <div id="choropleth_map"></div>
+      </div>
+      <div class="explanation">
         <h3>Key Insights</h3>
         <ul>
-            <li>Tariffs have generally decreased across East and Southeast Asia, encouraging competitiveness.</li>
-            <li>Some South Asian economies continue to apply higher import protection.</li>
-            <li>Duty-free lines expanded rapidly after 2000 due to regional trade agreements.</li>
+          <li><b>Trade openness surged until 2005</b>, reflecting Asia’s rapid industrialisation and integration into global value chains — particularly after <b>China’s WTO entry</b> and ASEAN liberalisation.</li>
+          <li><b>Imports tend to come from neighbouring economies</b> such as <b>Nepal and India</b>, <b>China and Hong Kong</b>, or <b>Myanmar and Thailand</b>, indicating strong cross-border trade dependencies.</li>
+          <li><b>Imports cluster around China, UAE, and Russia</b>, highlighting Asia’s reliance on key manufacturing and energy hubs sustaining regional supply chains.</li>
         </ul>
-        </div>
-
-        <div class="card">
-        <div id="tariff_heatmap"></div>
-        </div>
-    </div>
-    </section>
-
-        <!-- SECTION 6: SERVICES MIX -->
-    <section class="section">
-      <div class="section-header">
-        <h2>Services Export Mix</h2>
-        <p>Composition of commercial services exports by type, showing Asia’s evolving shift from travel to ICT and financial services.</p>
       </div>
-      <div class="card"><div id="services-mix"></div></div>
-      <p class="note">
-        The dominance of travel-related services is declining as digital and financial exports rise, especially in <b>Singapore</b> and <b>Malaysia</b>.
-      </p>
-    </section>
-
-    <!-- SECTION 3: DIVERSIFICATION -->
-    <section class="section">
-      <div class="section-header">
-        <h2>Export Diversification vs Scale vs Variety</h2>
-        <p>Exploring how economies balance export volume and diversity of products (HS6 categories).</p>
-      </div>
-      <div class="card"><div id="bubble_chart"></div></div>
-      <p class="note">
-        Larger economies such as <b>China</b> and <b>Japan</b> show strong diversification and export scale, while smaller ASEAN markets concentrate on niche products.
-      </p>
-    </section>
-
-     <!-- SECTION 5: VALUE INDEX -->
-    <section class="section">
-      <div class="section-header">
-        <h2>Export Value Index Growth</h2>
-        <p>Comparing export value increases across subregions since 2000.</p>
-      </div>
-      <div class="card"><div id="lollipop-growth"></div></div>
-      <p class="note">
-        The <b>Philippines</b>, <b>Malaysia</b>, and <b>Vietnam</b> demonstrate the most significant export value growth, highlighting strong manufacturing expansion.
-      </p>
-    </section>
-
-    <!-- SECTION 4: MARKET PENETRATION -->
-    <section class="section">
-      <div class="section-header">
-        <h2>Export Market Penetration</h2>
-        <p>Tracking how many foreign markets each Asian economy reaches over time.</p>
-      </div>
-      <div class="card"><div id="index-multiples"></div></div>
-      <p class="note">
-        Market reach has expanded fastest in <b>East Asia</b> and <b>Southeast Asia</b>, reflecting growing integration into global supply networks.
-      </p>
-    </section>
-
-
-
-
-
-    <!-- FOOTER -->
-    <div class="footer">
-      Michelle Elisabeth Kristianto • 34099484
     </div>
   </div>
 
-  <!-- Embed charts -->
+  <!-- Word Cloud + GNI Snapshot -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Trade Visibility and Prosperity Snapshot</h2>
+      <p>Top exporting economies and their relative income levels across Asia.</p>
+    </div>
+
+    <div class="card dual-chart">
+      <div class="chart-box" id="trade-wordcloud"></div>
+      <div class="chart-box" id="gdp-bar"></div>
+    </div>
+  </div>
+</section>
+
+
+
+    <!-- ========================================================= -->
+    <!-- CHAPTER 2: POLICY SHIFTS — TRADE LIBERALISATION & GLOBAL CONTEXT -->
+    <!-- ========================================================= -->
+    <section class="chapter">
+      <h1 class="chapter-title">POLICY SHIFTS — Trade Liberalisation & Global Context</h1>
+
+      <!-- Tariff Structure -->
+      <div class="section">
+        <div class="section-header">
+          <h2>Tariff Structure Over Time</h2>
+          <p>Reveals how tariff reductions and free-trade policies transformed Asia’s trade landscape over the past two decades..</p>
+        </div>
+
+        <div class="row two">
+          <div class="explanation">
+            <h3>Key Insights</h3>
+            <ul>
+              <li><b>Duty-free tariff lines</b> represent goods that enter a country without import taxes. 
+<b>Hong Kong</b> and <b>Singapore</b> show 100% duty-free rates as they operate free-port systems with zero import tariffs.</li>
+              <li><b>Dutiable tariff lines</b> indicate goods that still face import duties. 
+  These are darker shades such as <b>South Asian</b> and <b>Central Asian</b> economies.</li>
+              <li><b>Specific tariff lines</b> are fixed-amount duties (e.g., $10 per tonne of rice)
+  These are rare in Asia, appearing mainly for agricultural or sensitive goods.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <div id="tariff_heatmap"></div>
+          </div>
+        </div>
+      </div>
+
+<!-- U.S. Tariff Impact -->
+<div class="section">
+  <div class="section-header">
+    <h2>Impact of New U.S. Tariffs</h2>
+    <p>Relevance of Tarrifs today - How recent U.S. tariff changes affect developing and vulnerable economies.</p>
+  </div>
+
+  <div class="row two">
+    <!-- Chart on the left -->
+    <div class="card">
+      <div id="us-tariff-chart"></div>
+    </div>
+
+    <!-- Insights on the right -->
+<div class="explanation">
+  <h3>Key Insights</h3>
+  <ul>
+    <li>Major economies such as the <b>EU</b>, <b>UK</b>, and <b>Japan</b> benefit from lower average tariffs through special agreements, while vulnerable economies are left behind.</li>
+    <li><b>Least developed countries</b> like <b>Myanmar</b>, <b>Lao PDR</b>, and <b>Bangladesh</b> face the steepest tariff increases, reducing their competitiveness in U.S. markets.</li>
+    <li><b>Enhanced cooperation</b> is essential — vulnerable economies should seek exemptions, diversify exports, and strengthen regional trade partnerships.</li>
+  </ul>
+</div>
+</div>
+</section>
+
+    <!-- ========================================================= -->
+    <!-- CHAPTER 3: STRUCTURAL CHANGE — SECTORAL TRANSFORMATION -->
+    <!-- ========================================================= -->
+    <section class="chapter">
+      <h1 class="chapter-title">STRUCTURAL CHANGE — Sectoral Transformation</h1>
+
+
+      <!-- Services Export Mix -->
+      <div class="section">
+        <div class="section-header">
+          <h2>Services Export Mix</h2>
+          <p>Explore how the composition of Asia’s service exports varies by region — from travel and transport to ICT and financial services.</p>
+        </div>
+        <div class="card"><div id="services-mix"></div></div>
+        <p class="note">
+  <b>Central Asia</b> and <b>East Asia</b> remain transport-oriented, while <b>South Asia</b> shows growing strength in ICT services. 
+  <br>
+  <b>Southeast Asia</b> is still dominated by travel exports, and <b>West Asia</b> features a mix of transport and travel as key sectors.
+</p>
+
+
+      </div>
+
+      <!-- Export Diversification -->
+      <div class="section">
+        <div class="section-header">
+          <h2>Export Diversification vs Scale vs Variety</h2>
+          <p>How economies balance export scale with diversity of HS6 product categories.</p>
+        </div>
+        <div class="card"><div id="bubble_chart"></div></div>
+        <p class="note">
+<b>HH Index</b> measures how concentrated or diversified a country’s exports are — lower values mean exports are spread across many products (more competitive).<br>
+<b>HS6 product count</b> reflects export variety, with larger bubbles showing broader product ranges.<br>
+Most <b>Asian economies</b> trade in competitive markets, while <b>East Asian countries</b> like <b>China</b>, <b>Japan</b>, and <b>Korea</b> lead in both <b>diversity</b> and <b>export value</b>.
+
+        </p>
+      </div>
+    </section>
+
+    <!-- ========================================================= -->
+    <!-- CHAPTER 4: PERFORMANCE & REACH — TRADE OUTCOMES -->
+    <!-- ========================================================= -->
+    <section class="chapter">
+      <h1 class="chapter-title">PERFORMANCE & REACH — Trade Outcomes</h1>
+
+
+      <!-- Export Value Growth -->
+      <div class="section">
+        <div class="section-header">
+          <h2>Export Value Index Growth</h2>
+          <p>Subregional performance in export value increases since 2000.</p>
+        </div>
+        <div class="card"><div id="lollipop-growth"></div></div>
+        <p class="note">
+<b>Export Value Index</b> measures changes in the dollar value of exports over time, reflecting both price and quantity effects.<br>
+A rising index means a country’s export earnings are increasing — either by selling more goods, higher prices, or both.<br>
+This helps track <b>export performance</b> and competitiveness across Asian economies.
+
+        </p>
+      </div>
+
+      <!-- Market Penetration -->
+      <div class="section">
+        <div class="section-header">
+          <h2>Export Market Penetration</h2>
+          <p>Tracking how many foreign markets each Asian economy reaches over time.</p>
+        </div>
+        <div class="card"><div id="index-multiples"></div></div>
+        <p class="note">
+Higher values mean exports are sold to more destinations and products have broader international reach.<br>
+It reflects <b>diversification</b> and how successfully a country taps into new or competitive markets.
+        </p>
+      </div>
+    </section>
+
+ <!-- ========================================================= -->
+<!-- CHAPTER 5: HISTORICAL TRENDS — LONG-TERM VIEW -->
+<!-- ========================================================= -->
+<section class="chapter">
+  <h1 class="chapter-title">HISTORICAL TRENDS — Trade Openness Over Time</h1>
+
+  <div class="row two">
+    <!-- Chart on the left -->
+    <div class="card">
+      <div id="trade-brush"></div>
+    </div>
+
+    <!-- Text explanation on the right -->
+    <div class="explanation">
+      <h3>Historical Insight</h3>
+      <p>
+        Trade openness in Asia has evolved significantly since the late 1980s. 
+        Most economies began liberalising trade during the 1990s, with 
+        export-to-GDP ratios rising sharply following globalisation and regional 
+        integration through ASEAN and APEC frameworks.
+      </p>
+      <p>
+        The <b>2008 global financial crisis</b> caused a temporary contraction, 
+        but recovery was strong, particularly in East and Southeast Asia. 
+        In recent years, openness has stabilised, with emerging economies 
+        diversifying into high-value exports.
+      </p>
+    </div>
+  </div>
+
+  <p class="note">
+    Use the lower grey chart to select a time range — the upper chart zooms dynamically,
+    revealing detailed shifts in your chosen region.
+  </p>
+</section>
+
+    <!-- FOOTER -->
+<div class="footer-meta">
+  <p><b>Dashboard designed by:</b> Michelle Elisabeth Kristianto | 34099484 | FIT3179</p>
+  <p><b>Data sources:</b></p>
+  <ul>
+    <li><b>UNCTAD Database:</b> 
+      <a href="https://unctadstat.unctad.org/EN/Index.html" target="_blank">
+        https://unctadstat.unctad.org/EN/Index.html
+      </a>
+    </li>
+    <li><b>World Bank Group – World Development Indicators:</b> 
+      <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">
+        https://databank.worldbank.org/source/world-development-indicators
+      </a>
+    </li>
+    <li><b>WITS (World Integrated Trade Solution):</b> 
+      <a href="https://wits.worldbank.org/country-indicator.aspx?lang=en" target="_blank">
+        https://wits.worldbank.org/country-indicator.aspx?lang=en
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  <!-- ========================================================= -->
+  <!-- Vega Embeds -->
+  <!-- ========================================================= -->
   <script>
     vegaEmbed("#choropleth_map", "js/choropleth_map.vg.json");
-    vegaEmbed("#bubble_chart", "js/bubble_chart.vg.json");
+    vegaEmbed("#trade-wordcloud", "js/trade_wordcloud.vg.json", {actions: false});
+    vegaEmbed("#gdp-bar", "js/gni_chart.vg.json");
     vegaEmbed("#tariff_heatmap", "js/tariff_heatmap.vg.json");
-    vegaEmbed("#index-multiples", "js/multiline_charts_index_market_penetration_export.vg.json");
-    vegaEmbed("#lollipop-growth", "js/value_index_lollipop_growth.vg.json");
+    vegaEmbed("#us-tariff-chart", "js/us_tariff_chart.vg.json");
     vegaEmbed("#services-mix", "js/services_mix_stacked.vg.json");
+    vegaEmbed("#bubble_chart", "js/bubble_chart.vg.json");
+    vegaEmbed("#lollipop-growth", "js/value_index_lollipop_growth.vg.json");
+    vegaEmbed("#index-multiples", "js/multiline_charts_index_market_penetration_export.vg.json");
+    vegaEmbed("#trade-brush", "js/brushing_trade_gdp.vg.json");
   </script>
 </body>
 </html>

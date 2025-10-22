@@ -1,85 +1,170 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Asia Trade Openness (% of GDP, 2023)",
+    "text": "Asia Trade Openness and Flows (2023)",
     "anchor": "middle",
     "fontSize": 20,
     "font": "Arial",
     "fontWeight": "bold"
   },
-  "width": 600,
-  "height": 500,
+  "width": 700,
+  "height": 550,
+
+  "params": [
+    {
+      "name": "FlowType",
+      "value": "None",
+      "bind": {
+        "input": "select",
+        "options": ["None", "Export", "Import"],
+        "name": "Flow Type: "
+      }
+    },
+    {
+      "name": "zoom_level",
+      "value": 300,
+      "bind": {
+        "input": "range",
+        "min": 150,
+        "max": 600,
+        "step": 10,
+        "name": "Zoom: "
+      }
+    },
+    {
+      "name": "center_to",
+      "value": [90, 30],
+      "bind": {
+        "input": "select",
+        "options": [
+          [90, 30],
+          [100, 20],
+          [70, 25],
+          [120, 10]
+        ],
+        "labels": [
+          "Asia (Default)",
+          "Southeast Asia",
+          "West Asia",
+          "East Asia"
+        ],
+        "name": "Center: "
+      }
+    }
+  ],
+
   "projection": {
     "type": "equalEarth",
-    "center": [90, 30],   
-    "scale": 300,         
-    "translate": [350, 230] 
-  }
-
-,
-  "data": {
-    "url": "js/ne_110m_admin_0_countries1.json",
-    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+    "center": {"expr": "center_to"},
+    "scale": {"expr": "zoom_level"},
+    "translate": [350, 230]
   },
+
   "layer": [
     {
+  
       "data": {
         "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
-      "mark": {
-        "type": "geoshape",
-        "fill": null,
-        "stroke": "#817b7b",
-        "strokeWidth": 0.3
-      }
+      "mark": {"type": "geoshape", "fill": null, "stroke": "#b3b3b3", "strokeWidth": 0.3}
     },
     {
-      "transform": [
-        {
-          "calculate": "'Data is not available in ' + datum.properties.NAME",
-          "as": "note"
-        }
-      ],
-      "mark": {
-        "type": "geoshape",
-        "fill": "lightgrey",
-        "stroke": "white",
-        "strokeWidth": 0.5
+
+      "data": {
+        "url": "js/ne_110m_admin_0_countries1.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
       },
+      "transform": [
+        {"calculate": "'No trade data available for ' + datum.properties.ADMIN", "as": "note"}
+      ],
+      "mark": {"type": "geoshape", "fill": "#d9d9d9", "stroke": null},
       "encoding": {
-        "tooltip": {"field": "note"}
+        "tooltip": {"field": "note", "type": "nominal", "title": "Info"}
       }
     },
     {
+
+      "data": {
+        "url": "js/ne_110m_admin_0_countries1.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
       "transform": [
         {
-          "lookup": "properties.NAME",
+          "lookup": "properties.ADMIN",
           "from": {
             "data": {"url": "data/asia_trade_2023_clean2.csv"},
             "key": "country",
             "fields": ["value"]
           }
+        },
+        {"filter": "datum.value != null"}
+      ],
+      "mark": {"type": "geoshape", "stroke": "#f5f5f5", "strokeWidth": 0.4},
+      "encoding": {
+        "color": {
+          "field": "value",
+          "type": "quantitative",
+          "scale": {"type": "log", "scheme": "tealblues"},
+          "legend": {"title": "Trade % of GDP"}
+        },
+        "tooltip": [
+          {"field": "properties.ADMIN", "title": "Country"},
+          {"field": "value", "title": "Trade % of GDP", "format": ".1f"}
+        ]
+      }
+    },
+    {
+
+      "data": {"url": "data/flow_map_data.csv"},
+      "transform": [
+        {"filter": "FlowType != 'None' && datum.flow_type == FlowType"},
+        {
+          "calculate": "datum.trade_share < 15 ? 'Low (<15%)' : datum.trade_share < 40 ? 'Medium (15–40%)' : 'High (>40%)'",
+          "as": "flow_class"
         }
       ],
       "mark": {
-        "type": "geoshape",
-        "stroke": "white",
-        "strokeWidth": 0.5
+        "type": "rule",
+        "strokeCap": "round",
+        "clip": false,        
+        "opacity": 0.8        
       },
       "encoding": {
-      "color": {
-        "field": "value",
-        "type": "quantitative",
-        "scale": {"type": "log", "scheme": "tealblues"},
-        "legend": {"title": "Trade % of GDP", "values": [30, 50, 100, 200]}
-      }
-,
+        "longitude": {"field": "source_long"},
+        "latitude": {"field": "source_lat"},
+        "longitude2": {"field": "target_long"},
+        "latitude2": {"field": "target_lat"},
+        "strokeWidth": {
+          "field": "flow_class",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Low (<15%)", "Medium (15–40%)", "High (>40%)"],
+            "range": [1.5, 5, 10]
+          },
+          "legend": {"title": "Trade Volume Class"}
+        },
+        "color": {
+          "field": "flow_type",
+          "scale": {
+            "domain": ["Export", "Import"],
+            "range": ["#6a0dad", "#ff5c8d"]
+          },
+          "legend": {"title": "Flow Type"}
+        },
         "tooltip": [
-          {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-          {"field": "value", "type": "quantitative", "title": "Trade % of GDP", "format": ".1f"}
+          {"field": "source", "title": "From:"},
+          {"field": "target", "title": "To:"},
+          {"field": "trade_share", "title": "Trade Share (%)", "format": ".1f"},
+          {"field": "flow_class", "title": "Flow Class"}
         ]
       }
     }
-  ]
+  ],
+
+  "config": {
+    "background": "rgba(255,255,255,0)", 
+    "view": {"stroke": null},             
+    "font": "Arial"
+  }
 }

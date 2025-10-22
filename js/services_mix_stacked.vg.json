@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text": "Services Export Mix — 100% Stacked (Latest Year)", "fontSize": 16, "anchor": "middle"},
+  "title": {"text": "Services Export Mix by Region", "fontSize": 16, "anchor": "middle"},
 
   "data": {"url": "data/services_mix_by_country_with_region.csv", "format": {"type": "csv"}},
 

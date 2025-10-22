@@ -1,0 +1,209 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { "url": "data/us_tarrif.csv", "format": { "type": "csv" } },
+
+  "transform": [
+    {
+      "fold": [
+        "Initial tariffs",
+        "Tariffs during 90-day pause",
+        "Tariffs including new country-specific ones"
+      ],
+      "as": ["Stage", "Tariff"]
+    },
+    {
+      "calculate": "datum.Stage == 'Tariffs including new country-specific ones' ? 'Tariffs as of 8 September 2025' : datum.Stage",
+      "as": "StageLabel"
+    }
+  ],
+
+  "vconcat": [
+    {
+      "title": "Development status",
+      "transform": [{ "filter": "datum.Group == 'Development status'" }],
+      "layer": [
+        {
+          "mark": { "type": "line", "color": "#ccc", "strokeWidth": 1 },
+          "encoding": {
+            "x": { "field": "Tariff", "type": "quantitative" },
+            "y": {
+              "field": "Region/country group",
+              "type": "nominal",
+              "sort": { "field": "Tariff", "op": "max", "order": "descending" },
+              "title": null
+            },
+            "detail": { "field": "Region/country group" }
+          }
+        },
+        {
+          "mark": { "type": "point", "filled": true, "size": 80, "stroke": "white" },
+          "encoding": {
+            "x": {
+              "field": "Tariff",
+              "type": "quantitative",
+              "title": "Trade-weighted average tariff (%)",
+              "scale": { "domain": [0, 50] }
+            },
+            "y": { "field": "Region/country group", "type": "nominal" },
+            "color": {
+              "field": "StageLabel",
+              "type": "nominal",
+              "scale": {
+                "domain": [
+                  "Initial tariffs",
+                  "Tariffs during 90-day pause",
+                  "Tariffs as of 8 September 2025"
+                ],
+                "range": ["#1f77b4", "#ff7f0e", "#f6c431"]
+              },
+              "legend": { "title": null, "orient": "top" }
+            },
+            "tooltip": [
+              { "field": "Region/country group", "title": "Group" },
+              { "field": "StageLabel", "title": "Stage" },
+              { "field": "Tariff", "title": "Tariff (%)", "format": ".1f" }
+            ]
+          }
+        },
+        {
+          "mark": { "type": "rule", "color": "#190548", "strokeDash": [6, 3], "strokeWidth": 2 },
+          "encoding": { "x": { "datum": 14.2 } }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 6,
+            "dy": -50,
+            "font": "Inter",
+            "fontSize": 12,
+            "color": "#b03a2e",
+            "text": "Reference line: tariffs applied to developed countries"
+          },
+          "encoding": { "x": { "datum": 14.2 } }
+        }
+      ],
+      "width": 600,
+      "height": 130
+    },
+
+    {
+      "title": "Vulnerable economies",
+      "transform": [{ "filter": "datum.Group == 'Vulnerable economies'" }],
+      "layer": [
+        {
+          "mark": { "type": "line", "color": "#ccc", "strokeWidth": 1 },
+          "encoding": {
+            "x": { "field": "Tariff", "type": "quantitative" },
+            "y": {
+              "field": "Region/country group",
+              "type": "nominal",
+              "sort": { "field": "Tariff", "op": "max", "order": "descending" },
+              "title": null
+            },
+            "detail": { "field": "Region/country group" }
+          }
+        },
+        {
+          "mark": { "type": "point", "filled": true, "size": 80, "stroke": "white" },
+          "encoding": {
+            "x": {
+              "field": "Tariff",
+              "type": "quantitative",
+              "title": "Trade-weighted average tariff (%)",
+              "scale": { "domain": [0, 50] }
+            },
+            "y": { "field": "Region/country group", "type": "nominal" },
+            "color": {
+              "field": "StageLabel",
+              "type": "nominal",
+              "scale": {
+                "domain": [
+                  "Initial tariffs",
+                  "Tariffs during 90-day pause",
+                  "Tariffs as of 8 September 2025"
+                ],
+                "range": ["#1f77b4", "#ff7f0e", "#f6c431"]
+              },
+              "legend": null
+            },
+            "tooltip": [
+              { "field": "Region/country group", "title": "Group" },
+              { "field": "StageLabel", "title": "Stage" },
+              { "field": "Tariff", "title": "Tariff (%)", "format": ".1f" }
+            ]
+          }
+        },
+        {
+          "mark": { "type": "rule", "color": "#190548", "strokeDash": [6, 3], "strokeWidth": 2 },
+          "encoding": { "x": { "datum": 14.2 } }
+        }
+      ],
+      "width": 600,
+      "height": 130
+    },
+
+    {
+      "title": "Developing regions",
+      "transform": [{ "filter": "datum.Group == 'Developing regions'" }],
+      "layer": [
+        {
+          "mark": { "type": "line", "color": "#ccc", "strokeWidth": 1 },
+          "encoding": {
+            "x": { "field": "Tariff", "type": "quantitative" },
+            "y": {
+              "field": "Region/country group",
+              "type": "nominal",
+              "sort": { "field": "Tariff", "op": "max", "order": "descending" },
+              "title": null
+            },
+            "detail": { "field": "Region/country group" }
+          }
+        },
+        {
+          "mark": { "type": "point", "filled": true, "size": 80, "stroke": "white" },
+          "encoding": {
+            "x": {
+              "field": "Tariff",
+              "type": "quantitative",
+              "title": "Trade-weighted average tariff (%)",
+              "scale": { "domain": [0, 50] }
+            },
+            "y": { "field": "Region/country group", "type": "nominal" },
+            "color": {
+              "field": "StageLabel",
+              "type": "nominal",
+              "scale": {
+                "domain": [
+                  "Initial tariffs",
+                  "Tariffs during 90-day pause",
+                  "Tariffs as of 8 September 2025"
+                ],
+                "range": ["#1f77b4", "#ff7f0e", "#f6c431"]
+              },
+              "legend": null
+            },
+            "tooltip": [
+              { "field": "Region/country group", "title": "Group" },
+              { "field": "StageLabel", "title": "Stage" },
+              { "field": "Tariff", "title": "Tariff (%)", "format": ".1f" }
+            ]
+          }
+        },
+        {
+          "mark": { "type": "rule", "color": "#190548", "strokeDash": [6, 3], "strokeWidth": 2 },
+          "encoding": { "x": { "datum": 14.2 } }
+        }
+      ],
+      "width": 600,
+      "height": 130
+    }
+  ],
+
+  "config": {
+    "view": { "stroke": null },
+    "axis": { "labelFont": "Inter", "titleFont": "Inter" },
+    "background": "#ffffff",
+    "title": { "font": "Inter", "fontSize": 18, "anchor": "start" }
+  }
+}

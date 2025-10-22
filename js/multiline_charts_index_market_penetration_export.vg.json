@@ -1,19 +1,28 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Index of Export Market Penetration — Small Multiples by Subregion",
-    "fontSize": 16,
-    "anchor": "middle"
+
+  "data": {
+    "url": "data/Index_export_long_for_vegalite.csv",
+    "format": { "type": "csv" }
   },
-
-  "data": { "url": "data/Index_export_long_for_vegalite.csv", "format": { "type": "csv" } },
-
 
   "params": [
     {
-      "name": "country_search",
-      "value": "",
-      "bind": { "input": "text", "name": "Filter countries: " }
+      "name": "pick_region",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "name": "Zoom to subregion: ",
+        "options": [
+          "All",
+          "Central Asia",
+          "East Asia",
+          "North Asia",
+          "South Asia",
+          "Southeast Asia",
+          "West Asia"
+        ]
+      }
     }
   ],
 
@@ -23,15 +32,33 @@
     { "calculate": "toNumber(datum['Year'])", "as": "year_num" },
     { "calculate": "toNumber(datum['Index'])", "as": "emp" },
     { "filter": "isFinite(datum.year_num) && isFinite(datum.emp)" },
-    { "filter": "country_search == '' || indexof(lower(datum.cn), lower(country_search)) >= 0" }
+    { "filter": "pick_region == 'All' || datum.sr == pick_region" }
   ],
+
+"title": {
+  "text": {
+    "signal": "pick_region == 'All' ? 'Index of Export Market Penetration in Asia' : ''"
+  },
+  "fontSize": { "signal": "pick_region == 'All' ? 16 : 0" },
+  "anchor": "middle",
+  "fontWeight": "bold",
+  "offset": 20
+},
+
 
   "facet": {
     "field": "sr",
     "type": "nominal",
     "title": null,
     "columns": 3,
-    "sort": ["Central Asia","East Asia","North Asia","South Asia","Southeast Asia","West Asia"],
+    "sort": [
+      "Central Asia",
+      "East Asia",
+      "North Asia",
+      "South Asia",
+      "Southeast Asia",
+      "West Asia"
+    ],
     "header": {
       "labelOrient": "bottom",
       "labelPadding": 6,
@@ -41,13 +68,23 @@
   },
 
   "spec": {
-    "width": 300,
-    "height": 200,
+    "width": 350,
+    "height": 300,
+    "autosize": { "type": "fit", "contains": "padding" },
+    "padding": {
+      "signal": "pick_region == 'All' ? 5 : {left: 80, right: 80, top: 20, bottom: 20}"
+    },
+
     "layer": [
       {
         "mark": { "type": "line", "strokeWidth": 1.2, "opacity": 0.25 },
         "encoding": {
-          "x": { "field": "year_num", "type": "quantitative", "title": null, "axis": { "format": "d", "labelOverlap": true } },
+          "x": {
+            "field": "year_num",
+            "type": "quantitative",
+            "title": null,
+            "axis": { "format": "d", "labelOverlap": true }
+          },
           "y": { "field": "emp", "type": "quantitative", "title": "EMP (index)" },
           "detail": { "field": "cn" },
           "color": { "value": "#4b8b9b" }
@@ -65,7 +102,13 @@
         "params": [
           {
             "name": "hover_country",
-            "select": { "type": "point", "fields": ["cn","year_num"], "nearest": true, "on": "pointerover", "clear": "mouseout" }
+            "select": {
+              "type": "point",
+              "fields": ["cn", "year_num"],
+              "nearest": true,
+              "on": "pointerover",
+              "clear": "mouseout"
+            }
           }
         ],
         "mark": { "type": "point", "size": 24 },
@@ -73,7 +116,10 @@
           "x": { "field": "year_num", "type": "quantitative" },
           "y": { "field": "emp", "type": "quantitative" },
           "color": { "field": "cn", "type": "nominal", "legend": null },
-          "opacity": { "condition": { "param": "hover_country", "value": 1 }, "value": 0 },
+          "opacity": {
+            "condition": { "param": "hover_country", "value": 1 },
+            "value": 0
+          },
           "tooltip": [
             { "field": "sr", "title": "Subregion" },
             { "field": "cn", "title": "Country" },
@@ -81,8 +127,10 @@
             { "field": "emp", "title": "EMP Index", "format": ".2f" }
           ]
         }
+        
       }
     ],
+
     "resolve": { "scale": { "y": "shared", "x": "shared" } }
   },
 

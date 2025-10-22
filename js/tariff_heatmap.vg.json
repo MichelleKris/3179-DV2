@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Tariff Structure in Asia (AHS Tariff Line Shares, 1988–2022)",
+    "text": "Tariff Structure in Asia (AHS Tariff Line Shares, 2000–2022)",
     "fontSize": 20,
     "font": "Arial",
     "fontWeight": "bold",
@@ -12,7 +12,10 @@
 
   "data": {
     "url": "data/asia_tariff_structure_long.csv",
-    "format": {"type": "csv"}
+    "format": {
+      "type": "csv",
+      "parse": {"value": "number"}
+    }
   },
 
   "params": [
@@ -38,29 +41,20 @@
 
   "transform": [
     {"filter": "datum.tariff_type == tariff_select"},
+    {"filter": "datum.year >= 2000"},
     {
-      "impute": "value",
-      "key": "year",
-      "groupby": ["country"],
-      "method": "value",
-      "value": null
+      "calculate": "(datum.value === 'NA' || datum.value == null) ? null : datum.value",
+      "as": "clean_value"
     },
     {
-      "impute": "value",
-      "key": "country",
-      "groupby": ["year"],
-      "method": "value",
-      "value": null
-    },
-    {
-      "calculate": "datum.tariff_type == 'Specific TL %' ? 'Specific' : 'Other'",
-      "as": "TariffCategory"
+      "calculate": "isValid(datum.clean_value) ? format(datum.clean_value, '.2f') + '%' : 'No data available'",
+      "as": "tooltip_value"
     }
   ],
 
   "layer": [
     {
-      "mark": {"type": "rect"},
+      "mark": {"type": "rect", "color": "#d9d9d9"},
       "encoding": {
         "x": {
           "field": "year",
@@ -74,36 +68,32 @@
           "title": "Country",
           "axis": {"labelFontSize": 10, "grid": false}
         },
+        "tooltip": [
+          {"field": "country", "title": "Country"},
+          {"field": "year", "title": "Year"},
+          {"value": "No data available", "title": "% of Tariff Lines"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "rect"},
+      "encoding": {
+        "x": {"field": "year", "type": "ordinal"},
+        "y": {"field": "country", "type": "nominal"},
         "color": {
-          "condition": {
-            "test": "datum.value != null",
-            "field": "value",
-            "type": "quantitative",
-            "title": "% of Tariff Lines",
-            "scale": {
-              "domain": [0.01, 100],
-              "scheme": "blues",
-              "type": "log"
-            }
-          },
-          "value": "#d9d9d9"
+          "field": "clean_value",
+          "type": "quantitative",
+          "title": "% of Tariff Lines",
+          "scale": {
+            "domain": [0.01, 100],
+            "scheme": "blues",
+            "type": "log"
+          }
         },
         "tooltip": [
           {"field": "country", "title": "Country"},
           {"field": "year", "title": "Year"},
-          {
-            "field": "value",
-            "title": "% of Tariff Lines",
-            "format": ".2f"
-          },
-          {
-            "field": "tariff_type",
-            "title": "Tariff Type"
-          },
-          {
-            "condition": {"test": "datum.value == null", "value": "No data"},
-            "title": "Data Availability"
-          }
+          {"field": "tooltip_value", "title": "% of Tariff Lines"}
         ]
       }
     }
